@@ -1,0 +1,2771 @@
+family,species,category,invasiveness,growth_type,topography
+Caryophyllaceae,Pseudostellaria heterophylla,native,N,herbaceous,upper_slope
+Osmundaceae,Osmunda japonica,native,N,herbaceous,upper_slope
+Asteraceae,Artemisia princeps,native,N,herbaceous,upper_slope
+Cyperaceae,Carex bostrychostigma,native,N,herbaceous,upper_slope
+Rubiaceae,Rubia akane,native,N,herbaceous,upper_slope
+Asteraceae,Erigeron annuus,exotic,N,herbaceous,upper_slope
+Violaceae,Viola mandshurica,native,N,herbaceous,upper_slope
+Rubiaceae,Galium spurium var. echospermum,exotic,N,herbaceous,upper_slope
+Caryophyllaceae,Stellaria media,exotic,N,herbaceous,upper_slope
+Brassicaceae,Capsella bursa-pastoris,native,N,herbaceous,upper_slope
+Lamiaceae,Lamium amplexicaule,native,N,herbaceous,upper_slope
+Cannabaceae,Humulus japonicus,native,N,herbaceous,upper_slope
+Rosaceae,Potentilla fragarioides,native,N,herbaceous,upper_slope
+Asteraceae,Ixeridium dentatum,native,N,herbaceous,upper_slope
+Papaveraceae,Chelidonium majus var. asiaticum,native,N,herbaceous,upper_slope
+Athyriaceae,Athyrium niponicum,native,N,herbaceous,upper_slope
+Athyriaceae,Athyrium yokoscense,native,N,herbaceous,upper_slope
+Asteraceae,Artemisia japonica,native,N,herbaceous,upper_slope
+Poaceae,Oplismenus undulatifolius,native,N,herbaceous,upper_slope
+Violaceae,Viola verecunda,native,N,herbaceous,upper_slope
+Brassicaceae,Cardamine flexuosa,native,N,herbaceous,upper_slope
+Violaceae,Viola seoulensis,native,N,herbaceous,upper_slope
+Caryophyllaceae,Stellaria aquatica,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris chinensis,native,N,herbaceous,upper_slope
+Phytolaccaceae,Phytolacca americana,exotic,N,herbaceous,upper_slope
+Chenopodiaceae,Chenopodium album,exotic,N,herbaceous,upper_slope
+Polygonaceae,Polygonum senticosum,native,N,herbaceous,upper_slope
+Chenopodiaceae,Chenopodium ficifolium,exotic,N,herbaceous,upper_slope
+Liliaceae,Polygonatum odoratum var. pluriflorum,native,N,herbaceous,lower_slope
+Commelinaceae,Commelina communis,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum hydropiper,native,N,herbaceous,lower_slope
+Apocynaceae,Metaplexis japonica,native,N,herbaceous,lower_slope
+Oxalidaceae,Oxalis corniculata,exotic,N,herbaceous,lower_slope
+Polygonaceae,Rumex acetosella,exotic,Y,herbaceous,lower_slope
+Scrophulariaceae,Veronica arvensis,exotic,N,herbaceous,lower_slope
+Asteraceae,Artemisia princeps,native,N,herbaceous,lower_slope
+Equisetaceae,Equisetum arvense,native,N,herbaceous,lower_slope
+Asteraceae,Erigeron philadelphicus,exotic,N,herbaceous,upper_slope
+Asteraceae,Lactuca scariola,exotic,Y,herbaceous,upper_slope
+Asteraceae,Conyza canadensis,exotic,N,herbaceous,upper_slope
+Asteraceae,Aster subulatus,exotic,N,herbaceous,upper_slope
+Phytolaccaceae,Phytolacca americana,exotic,N,herbaceous,ridge_summit
+Asteraceae,Artemisia princeps,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex humilis var. nana,native,N,herbaceous,ridge_summit
+Papaveraceae,Chelidonium majus var. asiaticum,native,N,herbaceous,ridge_summit
+Athyriaceae,Athyrium niponicum,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea japonica,native,N,herbaceous,ridge_summit
+Asteraceae,Erigeron annuus,exotic,N,herbaceous,ridge_summit
+Asteraceae,Xanthium strumarium,exotic,N,herbaceous,ridge_summit
+Cannabaceae,Humulus japonicus,native,N,herbaceous,ridge_summit
+Cucurbitaceae,Sicyos angulatus,exotic,Y,herbaceous,ridge_summit
+Amaranthaceae,Achyranthes japonica,native,N,herbaceous,ridge_summit
+Solanaceae,Solanum lyratum,native,N,herbaceous,ridge_summit
+Asteraceae,Erigeron philadelphicus,exotic,N,herbaceous,ridge_summit
+Asteraceae,Hemistepta lyrata,native,N,herbaceous,upper_slope
+Lamiaceae,Leonurus japonicus,native,N,herbaceous,upper_slope
+Fabaceae,Lespedeza cuneata,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia keiskeana,native,N,herbaceous,ridge_summit
+Rubiaceae,Rubia akane,native,N,herbaceous,ridge_summit
+Brassicaceae,Arabis glabra,native,N,herbaceous,ridge_summit
+Athyriaceae,Athyrium vidalii,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea opposita,native,N,herbaceous,ridge_summit
+Poaceae,Setaria viridis,native,N,herbaceous,ridge_summit
+Asteraceae,Crepidiastrum denticulatum,native,NA,herbaceous,ridge_summit
+Fabaceae,Amphicarpaea bracteata subsp. edgeworthii,native,N,herbaceous,ridge_summit
+Poaceae,Oplismenus undulatifolius,native,N,herbaceous,ridge_summit
+Commelinaceae,Commelina communis,native,N,herbaceous,ridge_summit
+Polygonaceae,Polygonum hydropiper,native,N,herbaceous,ridge_summit
+Asteraceae,Ixeridium dentatum,native,N,herbaceous,ridge_summit
+Asteraceae,Lactuca indica var. laciniata,native,N,herbaceous,ridge_summit
+Asteraceae,Taraxacum platycarpum,native,N,herbaceous,ridge_summit
+Asteraceae,Aster subulatus,exotic,N,herbaceous,ridge_summit
+Convolvulaceae,Calystegia sepium var. japonica,native,N,herbaceous,upper_slope
+Fabaceae,Lotus corniculatus var. japonicus,exotic,N,herbaceous,upper_slope
+Asteraceae,Lactuca indica var. laciniata,native,N,herbaceous,upper_slope
+Asteraceae,Ambrosia trifida,exotic,Y,herbaceous,upper_slope
+Poaceae,Setaria viridis,native,N,herbaceous,upper_slope
+Asteraceae,Bidens frondosa,exotic,N,herbaceous,upper_slope
+Equisetaceae,Equisetum arvense,native,N,herbaceous,upper_slope
+Asteraceae,Eupatorium lindleyanum,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum thunbergii,native,N,herbaceous,upper_slope
+Cyperaceae,Kyllinga brevifolia,native,N,herbaceous,upper_slope
+Poaceae,Paspalum thunbergii,native,N,herbaceous,upper_slope
+Thelypteridaceae,Thelypteris palustris,native,N,herbaceous,upper_slope
+Liliaceae,Asparagus schoberioides,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum aviculare,native,N,herbaceous,upper_slope
+Acanthaceae,Justicia procumbens,native,N,herbaceous,upper_slope
+Poaceae,Panicum dichotomiflorum,exotic,N,herbaceous,upper_slope
+Plantaginaceae,Plantago asiatica,native,N,herbaceous,upper_slope
+Poaceae,Echinochloa crus-galli var. echinatum,native,N,herbaceous,upper_slope
+Dioscoreaceae,Dioscorea opposita,native,N,herbaceous,upper_slope
+Acanthaceae,Justicia procumbens,native,N,herbaceous,ridge_summit
+Asteraceae,Erechtites hieraciifolius,exotic,N,herbaceous,ridge_summit
+Rosaceae,Duchesnea chrysantha,native,N,herbaceous,ridge_summit
+Oxalidaceae,Oxalis corniculata,exotic,N,herbaceous,ridge_summit
+Apocynaceae,Metaplexis japonica,native,N,herbaceous,ridge_summit
+Poaceae,Panicum dichotomiflorum,exotic,N,herbaceous,ridge_summit
+Caryophyllaceae,Stellaria media,exotic,N,herbaceous,ridge_summit
+Caryophyllaceae,Stellaria aquatica,native,N,herbaceous,ridge_summit
+Poaceae,Echinochloa crus-galli,native,N,herbaceous,ridge_summit
+Apiaceae,Hydrocotyle sibthorpioides,native,N,herbaceous,ridge_summit
+Caryophyllaceae,Stellaria aquatica,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum thunbergii,native,N,herbaceous,valley_flatland
+Cannabaceae,Humulus japonicus,native,N,herbaceous,valley_flatland
+Poaceae,Echinochloa crus-galli,native,N,herbaceous,valley_flatland
+Lamiaceae,Clinopodium chinense var. shibetchense,native,N,herbaceous,valley_flatland
+Poaceae,Eragrostis ferruginea,native,N,herbaceous,valley_flatland
+Poaceae,Setaria viridis,native,N,herbaceous,valley_flatland
+Asteraceae,Artemisia princeps,native,N,herbaceous,valley_flatland
+Cyperaceae,Cyperus microiria,native,N,herbaceous,valley_flatland
+Poaceae,Eleusine indica,native,N,herbaceous,valley_flatland
+Amaranthaceae,Amaranthus patulus,exotic,N,herbaceous,valley_flatland
+Dioscoreaceae,Dioscorea opposita,native,N,herbaceous,valley_flatland
+Fabaceae,Trifolium repens,exotic,N,herbaceous,valley_flatland
+Plantaginaceae,Plantago asiatica,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum hydropiper,native,N,herbaceous,valley_flatland
+Papaveraceae,Chelidonium majus var. asiaticum,native,N,herbaceous,valley_flatland
+Asteraceae,Bidens frondosa,exotic,N,herbaceous,valley_flatland
+Poaceae,Panicum dichotomiflorum,exotic,N,herbaceous,valley_flatland
+Asteraceae,Sigesbeckia pubescens,native,N,herbaceous,valley_flatland
+Phytolaccaceae,Phytolacca americana,exotic,N,herbaceous,valley_flatland
+Poaceae,Setaria glauca,native,N,herbaceous,upper_slope
+Commelinaceae,Commelina communis,native,N,herbaceous,upper_slope
+Asteraceae,Erechtites hieraciifolius,exotic,N,herbaceous,upper_slope
+Apocynaceae,Metaplexis japonica,native,N,herbaceous,upper_slope
+Fabaceae,Glycine soja,native,N,herbaceous,upper_slope
+Poaceae,Eragrostis ferruginea,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum hydropiper,native,N,herbaceous,upper_slope
+Cyperaceae,Cyperus microiria,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum lapathifolium,native,N,herbaceous,upper_slope
+Phytolaccaceae,Phytolacca americana,exotic,N,herbaceous,lower_slope
+Liliaceae,Smilax nipponica,native,N,herbaceous,lower_slope
+Poaceae,Setaria viridis,native,N,herbaceous,lower_slope
+Poaceae,Oplismenus undulatifolius,native,N,herbaceous,lower_slope
+Poaceae,Panicum dichotomiflorum,exotic,N,herbaceous,lower_slope
+Rosaceae,Duchesnea chrysantha,native,N,herbaceous,lower_slope
+Poaceae,Eleusine indica,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea opposita,native,N,herbaceous,lower_slope
+Asteraceae,Eupatorium japonicum,native,N,herbaceous,upper_slope
+Asteraceae,Crepidiastrum denticulatum,native,NA,herbaceous,upper_slope
+Crassulaceae,Sedum sarmentosum,native,N,herbaceous,upper_slope
+Amaranthaceae,Achyranthes japonica,native,N,herbaceous,upper_slope
+Athyriaceae,Deparia pterorachis,native,N,herbaceous,upper_slope
+Rosaceae,Agrimonia pilosa,native,N,herbaceous,upper_slope
+Asteraceae,Dendranthema boreale,native,N,herbaceous,upper_slope
+Asteraceae,Bidens tripartita,native,N,herbaceous,upper_slope
+Rutaceae,Dictamnus dasycarpus,native,N,herbaceous,lower_slope
+Rubiaceae,Galium verum var. asiaticum,native,N,herbaceous,lower_slope
+Asteraceae,Atractylodes ovata,native,N,herbaceous,lower_slope
+Poaceae,Spodiopogon sibiricus,native,N,herbaceous,lower_slope
+Rosaceae,Sanguisorba officinalis,native,N,herbaceous,lower_slope
+Rubiaceae,Rubia cordifolia var. pratensis,native,N,herbaceous,lower_slope
+Lamiaceae,Isodon japonicus,native,N,herbaceous,lower_slope
+Asteraceae,Solidago virgaurea subsp. asiatica,native,N,herbaceous,lower_slope
+Fabaceae,Lespedeza pilosa,native,N,herbaceous,upper_slope
+Rutaceae,Dictamnus dasycarpus,native,N,herbaceous,upper_slope
+Cyperaceae,Carex siderosticta,native,N,herbaceous,upper_slope
+Liliaceae,Smilax riparia,native,N,herbaceous,upper_slope
+Asteraceae,Atractylodes ovata,native,N,herbaceous,upper_slope
+Asteraceae,Erigeron strigosus,exotic,N,herbaceous,upper_slope
+Rosaceae,Sanguisorba officinalis,native,N,herbaceous,upper_slope
+Campanulaceae,Adenophora triphylla var. japonica,native,N,herbaceous,upper_slope
+Pyrolaceae,Pyrola japonica,native,N,herbaceous,upper_slope
+Pyrolaceae,Chimaphila japonica,native,N,herbaceous,upper_slope
+Poaceae,Spodiopogon sibiricus,native,N,herbaceous,upper_slope
+Cyperaceae,Carex lanceolata,native,N,herbaceous,ridge_summit
+Rubiaceae,Rubia cordifolia var. pratensis,native,N,herbaceous,ridge_summit
+Lamiaceae,Isodon excisus,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium verum var. asiaticum,native,N,herbaceous,ridge_summit
+Poaceae,Spodiopogon sibiricus,native,N,herbaceous,ridge_summit
+Pyrolaceae,Pyrola japonica,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex lanceolata,native,N,herbaceous,upper_slope
+Fabaceae,Sophora flavescens,native,N,herbaceous,upper_slope
+Lamiaceae,Isodon japonicus,native,N,herbaceous,upper_slope
+Orchidaceae,Cephalanthera longibracteata,native,N,herbaceous,upper_slope
+Crassulaceae,Sedum kamtschaticum,native,N,herbaceous,upper_slope
+Rosaceae,Duchesnea chrysantha,native,N,herbaceous,upper_slope
+Poaceae,Miscanthus sinensis,native,N,herbaceous,upper_slope
+Asteraceae,Saussurea grandifolia,native,N,herbaceous,upper_slope
+Asteraceae,Dendranthema zawadskii var. latilobum,native,N,herbaceous,upper_slope
+Primulaceae,Lysimachia barystachys,native,N,herbaceous,upper_slope
+Clusiaceae,Hypericum ascyron,native,N,herbaceous,upper_slope
+Cyperaceae,Carex lanceolata,native,N,herbaceous,lower_slope
+Campanulaceae,Adenophora grandiflora,native,N,herbaceous,upper_slope
+Rubiaceae,Rubia cordifolia var. pratensis,native,N,herbaceous,upper_slope
+Fabaceae,Lespedeza pilosa,native,N,herbaceous,lower_slope
+Crassulaceae,Sedum sarmentosum,native,N,herbaceous,lower_slope
+Rosaceae,Potentilla fragarioides,native,N,herbaceous,lower_slope
+Asteraceae,Erigeron annuus,exotic,N,herbaceous,lower_slope
+Asteraceae,Cirsium japonicum var. ussuriense,native,N,herbaceous,lower_slope
+Cyperaceae,Carex siderosticta,native,N,herbaceous,lower_slope
+Lamiaceae,Isodon excisus,native,N,herbaceous,lower_slope
+Lamiaceae,Isodon excisus,native,N,herbaceous,upper_slope
+Dennstaedtiaceae,Pteridium aquilinum var. latiusculum,native,N,herbaceous,upper_slope
+Liliaceae,Clintonia udensis,native,N,herbaceous,upper_slope
+Cyperaceae,Carex lanceolata,native,N,herbaceous,valley_flatland
+Rubiaceae,Rubia cordifolia var. pratensis,native,N,herbaceous,valley_flatland
+Ranunculaceae,Ranunculus japonicus,native,N,herbaceous,valley_flatland
+Poaceae,Oplismenus undulatifolius,native,N,herbaceous,valley_flatland
+Lamiaceae,Isodon excisus,native,N,herbaceous,valley_flatland
+Commelinaceae,Commelina communis,native,N,herbaceous,valley_flatland
+Asteraceae,Atractylodes ovata,native,N,herbaceous,valley_flatland
+Rosaceae,Potentilla fragarioides,native,N,herbaceous,valley_flatland
+Poaceae,Calamagrostis arundinacea,native,N,herbaceous,upper_slope
+Poaceae,Paspalum dilatatum,exotic,N,herbaceous,upper_slope
+Campanulaceae,Platycodon grandiflorus,native,N,herbaceous,upper_slope
+Poaceae,Miscanthus sinensis,native,N,herbaceous,valley_flatland
+Rubiaceae,Rubia akane,native,N,herbaceous,valley_flatland
+Pyrolaceae,Pyrola japonica,native,N,herbaceous,lower_slope
+Asteraceae,Dendranthema zawadskii var. latilobum,native,N,herbaceous,lower_slope
+Orchidaceae,Cephalanthera longibracteata,native,N,herbaceous,lower_slope
+Pyrolaceae,Chimaphila japonica,native,N,herbaceous,lower_slope
+Asteraceae,Atractylodes ovata,native,N,herbaceous,ridge_summit
+Liliaceae,Polygonatum odoratum var. pluriflorum,native,N,herbaceous,ridge_summit
+Poaceae,Arundinella hirta,native,N,herbaceous,upper_slope
+Rubiaceae,Galium verum var. asiaticum,native,N,herbaceous,upper_slope
+Asteraceae,Solidago virgaurea subsp. asiatica,native,N,herbaceous,upper_slope
+Fabaceae,Lespedeza cuneata,native,N,herbaceous,upper_slope
+Geraniaceae,Geranium sibiricum,native,N,herbaceous,upper_slope
+Poaceae,Arundinella hirta,native,N,herbaceous,lower_slope
+Valerianaceae,Patrinia villosa,native,N,herbaceous,upper_slope
+Asteraceae,Aster scaber,native,N,herbaceous,upper_slope
+Caryophyllaceae,Silene firma,native,N,herbaceous,upper_slope
+Violaceae,Viola orientalis,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex siderosticta,native,N,herbaceous,ridge_summit
+Rosaceae,Potentilla fragarioides,native,N,herbaceous,ridge_summit
+Poaceae,Melica onoei,native,N,herbaceous,lower_slope
+Asteraceae,Aster scaber,native,N,herbaceous,lower_slope
+Asteraceae,Saussurea gracilis,native,N,herbaceous,lower_slope
+Phrymaceae,Phryma leptostachya var. oblongifolia,native,N,herbaceous,upper_slope
+Fabaceae,Vigna angularis var. nipponensis,native,N,herbaceous,upper_slope
+Liliaceae,Polygonatum odoratum var. pluriflorum,native,N,herbaceous,upper_slope
+Liliaceae,Disporum smilacinum,native,N,herbaceous,upper_slope
+Poaceae,Spodiopogon cotulifer,native,N,herbaceous,upper_slope
+Solanaceae,Solanum lyratum,native,N,herbaceous,upper_slope
+Apiaceae,Peucedanum terebinthaceum,native,N,herbaceous,upper_slope
+Fabaceae,Vicia amoena,native,NA,herbaceous,upper_slope
+Liliaceae,Smilax nipponica,native,N,herbaceous,upper_slope
+Aristolochiaceae,Asarum sieboldii,native,N,herbaceous,upper_slope
+Lamiaceae,Isodon inflexus,native,N,herbaceous,upper_slope
+Caryophyllaceae,Pseudostellaria monantha,native,N,herbaceous,upper_slope
+Asteraceae,Artemisia keiskeana,native,N,herbaceous,upper_slope
+Primulaceae,Lysimachia clethroides,native,N,herbaceous,upper_slope
+Violaceae,Viola selkirkii,native,N,herbaceous,upper_slope
+Ranunculaceae,Thalictrum filamentosum,native,N,herbaceous,upper_slope
+Dennstaedtiaceae,Pteridium aquilinum var. latiusculum,native,N,herbaceous,lower_slope
+Orchidaceae,Cymbidium goeringii,native,N,herbaceous,lower_slope
+Poaceae,Spodiopogon cotulifer,native,N,herbaceous,lower_slope
+Lamiaceae,Isodon inflexus,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea quinqueloba,native,N,herbaceous,lower_slope
+Asteraceae,Ainsliaea acerifolia,native,N,herbaceous,lower_slope
+Liliaceae,Disporum smilacinum,native,N,herbaceous,lower_slope
+Asteraceae,Artemisia keiskeana,native,N,herbaceous,lower_slope
+Asteraceae,Artemisia stolonifera,native,N,herbaceous,lower_slope
+Asteraceae,Lactuca raddeana,native,N,herbaceous,upper_slope
+Asteraceae,Syneilesis palmata,native,N,herbaceous,upper_slope
+Rubiaceae,Galium trifloriforme,native,N,herbaceous,upper_slope
+Asteraceae,Ainsliaea acerifolia,native,N,herbaceous,upper_slope
+Caryophyllaceae,Pseudostellaria palibiniana,native,N,herbaceous,upper_slope
+Liliaceae,Convallaria keiskei,native,N,herbaceous,upper_slope
+Asteraceae,Eupatorium japonicum,native,N,herbaceous,lower_slope
+Caryophyllaceae,Pseudostellaria palibiniana,native,N,herbaceous,lower_slope
+Rubiaceae,Rubia akane,native,N,herbaceous,lower_slope
+Osmundaceae,Osmunda japonica,native,N,herbaceous,lower_slope
+Asteraceae,Syneilesis palmata,native,N,herbaceous,lower_slope
+Cyperaceae,Carex humilis var. nana,native,N,herbaceous,upper_slope
+Liliaceae,Disporum smilacinum,native,N,herbaceous,ridge_summit
+Lamiaceae,Isodon inflexus,native,N,herbaceous,ridge_summit
+Dennstaedtiaceae,Pteridium aquilinum var. latiusculum,native,N,herbaceous,ridge_summit
+Liliaceae,Smilax nipponica,native,N,herbaceous,ridge_summit
+Primulaceae,Lysimachia clethroides,native,N,herbaceous,ridge_summit
+Poaceae,Arundinella hirta,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia stolonifera,native,N,herbaceous,ridge_summit
+Asteraceae,Aster scaber,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia stolonifera,native,N,herbaceous,upper_slope
+Dryopteridaceae,Cyrtomium fortunei,native,N,herbaceous,upper_slope
+Primulaceae,Lysimachia clethroides,native,N,herbaceous,lower_slope
+Asteraceae,Ligularia fischeri,native,N,herbaceous,lower_slope
+Vitaceae,Cayratia japonica,native,N,herbaceous,lower_slope
+Phrymaceae,Phryma leptostachya var. oblongifolia,native,N,herbaceous,lower_slope
+Asteraceae,Lactuca raddeana,native,N,herbaceous,lower_slope
+Polygonaceae,Fallopia japonica,native,N,herbaceous,lower_slope
+Solanaceae,Solanum lyratum,native,N,herbaceous,lower_slope
+Cyperaceae,Carex humilis var. nana,native,N,herbaceous,lower_slope
+Violaceae,Viola acuminata,native,N,herbaceous,valley_flatland
+Phrymaceae,Phryma leptostachya var. oblongifolia,native,N,herbaceous,valley_flatland
+Asteraceae,Erigeron annuus,exotic,N,herbaceous,valley_flatland
+Primulaceae,Lysimachia clethroides,native,N,herbaceous,valley_flatland
+Asteraceae,Aster scaber,native,N,herbaceous,valley_flatland
+Asteraceae,Artemisia keiskeana,native,N,herbaceous,valley_flatland
+Rutaceae,Dictamnus dasycarpus,native,N,herbaceous,valley_flatland
+Liliaceae,Polygonatum odoratum var. pluriflorum,native,N,herbaceous,valley_flatland
+Fabaceae,Vicia unijuga,native,NA,herbaceous,valley_flatland
+Osmundaceae,Osmunda japonica,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex humilis var. nana,native,N,herbaceous,valley_flatland
+Lamiaceae,Isodon inflexus,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Polystichum tripteron,native,N,herbaceous,valley_flatland
+Liliaceae,Smilax nipponica,native,N,herbaceous,valley_flatland
+Osmundaceae,Osmunda japonica,native,N,herbaceous,ridge_summit
+Balsaminaceae,Impatiens textori,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum filiforme,native,N,herbaceous,valley_flatland
+Violaceae,Viola collina,native,NA,herbaceous,valley_flatland
+Asteraceae,Eupatorium japonicum,native,N,herbaceous,valley_flatland
+Liliaceae,Convallaria keiskei,native,N,herbaceous,ridge_summit
+Rutaceae,Dictamnus dasycarpus,native,N,herbaceous,ridge_summit
+Urticaceae,Boehmeria platanifolia,native,N,herbaceous,valley_flatland
+Solanaceae,Solanum nigrum,exotic,N,herbaceous,valley_flatland
+Liliaceae,Lilium tsingtauense,native,N,herbaceous,valley_flatland
+Fabaceae,Desmodium oldhamii,native,N,herbaceous,valley_flatland
+Amaranthaceae,Achyranthes japonica,native,N,herbaceous,valley_flatland
+Lamiaceae,Clinopodium chinense var. parviflorum,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum senticosum,native,N,herbaceous,lower_slope
+Urticaceae,Boehmeria tricuspis,native,N,herbaceous,lower_slope
+Amaranthaceae,Achyranthes japonica,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum filiforme,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum thunbergii,native,N,herbaceous,lower_slope
+Apiaceae,Peucedanum terebinthaceum,native,N,herbaceous,lower_slope
+Cyperaceae,NA,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum sagittatum,native,N,herbaceous,lower_slope
+Clusiaceae,Hypericum erectum,native,N,herbaceous,lower_slope
+Fabaceae,Vigna angularis var. nipponensis,native,N,herbaceous,lower_slope
+Fabaceae,Glycine soja,native,N,herbaceous,lower_slope
+Asteraceae,Bidens frondosa,exotic,N,herbaceous,lower_slope
+Rosaceae,Geum aleppicum,native,N,herbaceous,ridge_summit
+Phrymaceae,Phryma leptostachya var. oblongifolia,native,N,herbaceous,ridge_summit
+Rosaceae,Agrimonia pilosa,native,N,herbaceous,ridge_summit
+Asteraceae,Dendranthema boreale,native,N,herbaceous,ridge_summit
+Polygonaceae,Polygonum thunbergii,native,N,herbaceous,ridge_summit
+Apiaceae,Angelica decursiva,native,N,herbaceous,ridge_summit
+Rosaceae,Duchesnea chrysantha,native,N,herbaceous,valley_flatland
+Rosaceae,Agrimonia pilosa,native,N,herbaceous,valley_flatland
+Apiaceae,Heracleum moellendorffii,native,N,herbaceous,valley_flatland
+Fabaceae,Sophora flavescens,native,N,herbaceous,lower_slope
+Liliaceae,Veratrum nigrum var. japonicum,native,N,herbaceous,upper_slope
+Violaceae,Viola albida var. chaerophylloides,native,N,herbaceous,upper_slope
+Violaceae,Viola rossii,native,N,herbaceous,upper_slope
+Liliaceae,Hemerocallis dumortieri,native,N,herbaceous,upper_slope
+Poaceae,Sasa borealis,native,N,herbaceous,upper_slope
+Liliaceae,Heloniopsis koreana,native,N,herbaceous,upper_slope
+Poaceae,Sasa borealis,native,N,herbaceous,lower_slope
+Liliaceae,Smilax riparia,native,N,herbaceous,lower_slope
+Lamiaceae,Meehania urticifolia,native,N,herbaceous,upper_slope
+Asteraceae,Synurus deltoides,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum nepalense,native,N,herbaceous,upper_slope
+Lamiaceae,Nepeta cataria,native,N,herbaceous,lower_slope
+Violaceae,Viola patrinii,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris varia,native,N,herbaceous,lower_slope
+Athyriaceae,Deparia pycnosora,native,N,herbaceous,lower_slope
+Liliaceae,Veratrum patulum,native,N,herbaceous,lower_slope
+Poaceae,Phyllostachys nigra var. henonis,native,N,herbaceous,upper_slope
+Fumariaceae,Corydalis speciosa,native,N,herbaceous,upper_slope
+Asteraceae,Carpesium abrotanoides,native,N,herbaceous,upper_slope
+Poaceae,Miscanthus sinensis,native,N,herbaceous,lower_slope
+Violaceae,Viola mandshurica,native,N,herbaceous,lower_slope
+Brassicaceae,Cardamine impatiens,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris varia,native,N,herbaceous,ridge_summit
+Athyriaceae,Deparia pycnosora,native,N,herbaceous,ridge_summit
+Brassicaceae,Cardamine impatiens,native,N,herbaceous,ridge_summit
+Poaceae,Eragrostis ferruginea,native,N,herbaceous,ridge_summit
+Poaceae,Arundinella hirta,native,N,herbaceous,valley_flatland
+Poaceae,Microstegium vimineum,native,N,herbaceous,upper_slope
+Asteraceae,Eupatorium tripartitum,native,N,herbaceous,lower_slope
+Campanulaceae,Codonopsis lanceolata,native,N,herbaceous,valley_flatland
+Athyriaceae,Deparia pycnosora,native,N,herbaceous,valley_flatland
+Athyriaceae,Athyrium niponicum,native,N,herbaceous,valley_flatland
+Liliaceae,Disporum viridescens,native,N,herbaceous,upper_slope
+Poaceae,Miscanthus sinensis,native,N,herbaceous,ridge_summit
+Poaceae,Calamagrostis arundinacea,native,N,herbaceous,ridge_summit
+Poaceae,Cymbopogon tortilis var. goeringii,native,N,herbaceous,upper_slope
+Poaceae,Imperata cylindrica var. koenigii,native,N,herbaceous,upper_slope
+Asteraceae,Crepidiastrum denticulatum,native,NA,herbaceous,lower_slope
+Poaceae,Phyllostachys nigra var. henonis,native,N,herbaceous,lower_slope
+Asteraceae,Youngia japonica,native,N,herbaceous,lower_slope
+Urticaceae,Boehmeria platanifolia,native,N,herbaceous,lower_slope
+Asteraceae,Dendranthema boreale,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris sacrosancta,native,N,herbaceous,lower_slope
+Liliaceae,Liriope spicata,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris sacrosancta,native,N,herbaceous,upper_slope
+Liliaceae,Hosta capitata,native,N,herbaceous,upper_slope
+Poaceae,Dactylis glomerata,exotic,N,herbaceous,upper_slope
+Asteraceae,Hemistepta lyrata,native,N,herbaceous,lower_slope
+Asteraceae,Conyza canadensis,exotic,N,herbaceous,lower_slope
+Boraginaceae,Trigonotis peduncularis,native,N,herbaceous,lower_slope
+Poaceae,Agropyron tsukushiense var. transiens,native,N,herbaceous,lower_slope
+Apiaceae,Torilis japonica,native,N,herbaceous,lower_slope
+Violaceae,Viola acuminata,native,N,herbaceous,lower_slope
+Fabaceae,Lespedeza cuneata,native,N,herbaceous,lower_slope
+Caryophyllaceae,Stellaria aquatica,native,N,herbaceous,lower_slope
+Athyriaceae,Athyrium niponicum,native,N,herbaceous,lower_slope
+Papaveraceae,Chelidonium majus var. asiaticum,native,N,herbaceous,lower_slope
+Primulaceae,Lysimachia barystachys,native,N,herbaceous,lower_slope
+Poaceae,Dactylis glomerata,exotic,N,herbaceous,lower_slope
+Davalliaceae,Davallia mariesii,native,N,herbaceous,lower_slope
+Phytolaccaceae,Phytolacca acinosa,exotic,N,herbaceous,lower_slope
+Crassulaceae,Sedum bulbiferum,native,N,herbaceous,lower_slope
+Caryophyllaceae,Silene aprica var. oldhamiana,native,N,herbaceous,lower_slope
+Athyriaceae,Athyrium vidalii,native,N,herbaceous,lower_slope
+Asteraceae,Lactuca indica var. laciniata,native,N,herbaceous,lower_slope
+Plantaginaceae,Plantago asiatica,native,N,herbaceous,lower_slope
+Poaceae,Cleistogenes hackelii,native,N,herbaceous,lower_slope
+Asteraceae,Eupatorium tripartitum,native,N,herbaceous,upper_slope
+Asteraceae,Eupatorium japonicum,native,N,herbaceous,ridge_summit
+Apocynaceae,Cynanchum wilfordii,native,N,herbaceous,upper_slope
+Ranunculaceae,Thalictrum minus,native,N,herbaceous,upper_slope
+Asteraceae,Leibnitzia anandria,native,N,herbaceous,upper_slope
+Iridaceae,Iris rossii,native,N,herbaceous,upper_slope
+Rosaceae,Potentilla freyniana,native,N,herbaceous,upper_slope
+Apocynaceae,Cynanchum paniculatum,native,N,herbaceous,upper_slope
+Aspleniaceae,Asplenium incisum,native,N,herbaceous,upper_slope
+Violaceae,Viola keiskei,native,N,herbaceous,upper_slope
+Dioscoreaceae,Dioscorea nipponica,native,N,herbaceous,upper_slope
+Asteraceae,Aster ageratoides,native,N,herbaceous,upper_slope
+Liliaceae,Veratrum versicolor,native,N,herbaceous,upper_slope
+Apiaceae,Pimpinella brachycarpa,native,N,herbaceous,upper_slope
+Fabaceae,Vicia chosenensis,native,N,herbaceous,upper_slope
+Fabaceae,Lespedeza davurica,native,N,herbaceous,upper_slope
+Polygonaceae,Fallopia dumetorum,native,N,herbaceous,upper_slope
+Brassicaceae,Berteroella maximowiczii,native,N,herbaceous,upper_slope
+Poaceae,Agropyron ciliare,native,N,herbaceous,upper_slope
+Rubiaceae,Galium pogonanthum,native,N,herbaceous,upper_slope
+Rubiaceae,Galium dahuricum,native,N,herbaceous,upper_slope
+Caryophyllaceae,Pseudostellaria heterophylla,native,N,herbaceous,lower_slope
+Rubiaceae,Galium pogonanthum,native,N,herbaceous,lower_slope
+Rosaceae,Potentilla freyniana,native,N,herbaceous,lower_slope
+Liliaceae,Hemerocallis minor,native,N,herbaceous,upper_slope
+Asteraceae,Anaphalis sinica,native,N,herbaceous,upper_slope
+Poaceae,Melica onoei,native,N,herbaceous,upper_slope
+Violaceae,Viola collina,native,NA,herbaceous,upper_slope
+Rosaceae,Potentilla yokusaiana,native,N,herbaceous,upper_slope
+Dioscoreaceae,Dioscorea septemloba,native,N,herbaceous,upper_slope
+Violaceae,Viola yedoensis,native,N,herbaceous,upper_slope
+Campanulaceae,Campanula punctata,native,N,herbaceous,upper_slope
+Poaceae,Cleistogenes hackelii,native,N,herbaceous,upper_slope
+Liliaceae,Allium sacculiferum,native,N,herbaceous,upper_slope
+Scrophulariaceae,Pseudolysimachion pyrethrinum,native,N,herbaceous,upper_slope
+Asteraceae,Carpesium cernuum,native,N,herbaceous,upper_slope
+Violaceae,Viola variegata,native,N,herbaceous,upper_slope
+Liliaceae,Lilium amabile,native,N,herbaceous,upper_slope
+Asteraceae,Ambrosia artemisiifolia,exotic,Y,herbaceous,upper_slope
+Cyperaceae,Carex breviculmis,native,N,herbaceous,upper_slope
+Poaceae,Themeda triandra subsp. japonica,native,N,herbaceous,upper_slope
+Liliaceae,Hemerocallis hakuunensis,native,N,herbaceous,upper_slope
+Gentianaceae,Swertia scabra,native,N,herbaceous,upper_slope
+Ranunculaceae,Pulsatilla cernua var. koreana,native,N,herbaceous,upper_slope
+Gentianaceae,Swertia pseudochensis,native,N,herbaceous,upper_slope
+Poaceae,Arundinella hirta var. ciliata,native,N,herbaceous,upper_slope
+Poaceae,Zoysia japonica,native,N,herbaceous,upper_slope
+Cyperaceae,Carex breviculmis,native,N,herbaceous,lower_slope
+Poaceae,Festuca parvigluma,native,N,herbaceous,lower_slope
+Iridaceae,Iris rossii,native,N,herbaceous,lower_slope
+Asteraceae,Conyza sumatrensis,exotic,N,herbaceous,lower_slope
+Caryophyllaceae,Silene firma f. pubescens,native,N,herbaceous,lower_slope
+Cannabaceae,Humulus japonicus,native,N,herbaceous,lower_slope
+Campanulaceae,Adenophora triphylla var. japonica,native,N,herbaceous,lower_slope
+Caryophyllaceae,Arenaria serpyllifolia,native,N,herbaceous,lower_slope
+Violaceae,Viola yedoensis,native,N,herbaceous,lower_slope
+Brassicaceae,Cardamine fallax,native,N,herbaceous,lower_slope
+Lamiaceae,Prunella asiatica,native,N,herbaceous,lower_slope
+Rosaceae,Agrimonia coreana,native,N,herbaceous,lower_slope
+Liliaceae,Lilium callosum,native,N,herbaceous,lower_slope
+Apocynaceae,Cynanchum paniculatum,native,N,herbaceous,lower_slope
+Hyacinthaceae,Scilla scilloides,native,N,herbaceous,lower_slope
+Orchidaceae,Cephalanthera erecta,native,N,herbaceous,lower_slope
+Asteraceae,Bidens tripartita,native,N,herbaceous,lower_slope
+Liliaceae,Allium sacculiferum,native,N,herbaceous,lower_slope
+Lamiaceae,Mosla punctulata,native,N,herbaceous,lower_slope
+Asteraceae,Carpesium cernuum,native,N,herbaceous,lower_slope
+Valerianaceae,Patrinia villosa,native,N,herbaceous,lower_slope
+Caryophyllaceae,Silene firma,native,N,herbaceous,lower_slope
+Poaceae,Arundinella hirta var. ciliata,native,N,herbaceous,lower_slope
+Polygonaceae,Fallopia dumetorum,native,N,herbaceous,lower_slope
+Asteraceae,Bidens bipinnata,native,N,herbaceous,lower_slope
+Brassicaceae,Arabis glabra,native,N,herbaceous,lower_slope
+Urticaceae,Boehmeria longispica,native,N,herbaceous,lower_slope
+Lamiaceae,Elsholtzia ciliata,native,N,herbaceous,lower_slope
+Poaceae,Microstegium vimineum,native,N,herbaceous,lower_slope
+Poaceae,Melica scabrosa,native,N,herbaceous,lower_slope
+Crassulaceae,Sedum kamtschaticum,native,N,herbaceous,lower_slope
+Asteraceae,Lactuca scariola,exotic,Y,herbaceous,lower_slope
+Aspleniaceae,Asplenium incisum,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris chinensis,native,N,herbaceous,lower_slope
+Asteraceae,Rhaponticum uniflorum,native,N,herbaceous,lower_slope
+Dryopteridaceae,Cyrtomium fortunei,native,N,herbaceous,lower_slope
+Tiliaceae,Corchoropsis psilocarpa,native,N,herbaceous,upper_slope
+Araceae,Pinellia ternata,native,N,herbaceous,upper_slope
+Dioscoreaceae,Dioscorea japonica,native,N,herbaceous,upper_slope
+Asteraceae,Youngia japonica,native,N,herbaceous,upper_slope
+Asteraceae,Leibnitzia anandria,native,N,herbaceous,lower_slope
+Asteraceae,Artemisia japonica,native,N,herbaceous,lower_slope
+Poaceae,Calamagrostis arundinacea,native,N,herbaceous,lower_slope
+Apocynaceae,Cynanchum wilfordii,native,N,herbaceous,lower_slope
+Polygalaceae,Polygala japonica,native,N,herbaceous,lower_slope
+Liliaceae,Asparagus oligoclonos,native,N,herbaceous,upper_slope
+Orchidaceae,Cephalanthera erecta,native,N,herbaceous,upper_slope
+Poaceae,Festuca ovina,native,N,herbaceous,upper_slope
+Asteraceae,Scorzonera austriaca subsp. glabra,native,N,herbaceous,upper_slope
+Poaceae,Festuca ovina,native,N,herbaceous,lower_slope
+Rosaceae,Agrimonia pilosa,native,N,herbaceous,lower_slope
+Asteraceae,Carpesium abrotanoides,native,N,herbaceous,lower_slope
+Campanulaceae,Platycodon grandiflorus,native,N,herbaceous,lower_slope
+Athyriaceae,Athyrium yokoscense,native,N,herbaceous,lower_slope
+Asteraceae,Artemisia capillaris,native,N,herbaceous,lower_slope
+Liliaceae,Lilium amabile,native,N,herbaceous,lower_slope
+Poaceae,Cleistogenes hackelii,native,N,herbaceous,ridge_summit
+Poaceae,Bromus japonicus,native,N,herbaceous,ridge_summit
+Poaceae,Melica scabrosa,native,N,herbaceous,ridge_summit
+Convolvulaceae,Ipomoea hederacea var. integriuscula,exotic,N,herbaceous,ridge_summit
+Asteraceae,Bidens bipinnata,native,N,herbaceous,ridge_summit
+Asteraceae,Lactuca scariola,exotic,Y,herbaceous,ridge_summit
+Rosaceae,Potentilla chinensis,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia capillaris,native,N,herbaceous,ridge_summit
+Fabaceae,Melilotus suaveolens,exotic,N,herbaceous,ridge_summit
+Cyperaceae,Carex breviculmis,native,N,herbaceous,ridge_summit
+Tiliaceae,Corchoropsis psilocarpa,native,N,herbaceous,ridge_summit
+Fabaceae,Lespedeza davurica,native,N,herbaceous,ridge_summit
+Fabaceae,Sophora flavescens,native,N,herbaceous,ridge_summit
+Apiaceae,Torilis japonica,native,N,herbaceous,ridge_summit
+Poaceae,Stipa pekinensis,native,N,herbaceous,ridge_summit
+Rosaceae,Potentilla freyniana,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium pogonanthum,native,N,herbaceous,ridge_summit
+Ophioglossaceae,Botrychium ternatum,native,NA,herbaceous,upper_slope
+Poaceae,Stipa pekinensis,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum posumbu,native,N,herbaceous,upper_slope
+Liliaceae,Liriope spicata,native,N,herbaceous,upper_slope
+Poaceae,Microstegium vimineum var. polystachyum,native,N,herbaceous,upper_slope
+Fabaceae,Lespedeza tomentosa,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum japonicum var. conspicuum,native,N,herbaceous,lower_slope
+Ranunculaceae,Thalictrum minus,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris bissetiana,native,N,herbaceous,lower_slope
+Rubiaceae,Asperula maximowiczii,native,N,herbaceous,upper_slope
+Liliaceae,Liriope platyphylla,native,N,herbaceous,upper_slope
+Liliaceae,Polygonatum involucratum,native,N,herbaceous,upper_slope
+Asteraceae,Artemisia montana,native,N,herbaceous,upper_slope
+Dioscoreaceae,Dioscorea quinqueloba,native,N,herbaceous,upper_slope
+Asteraceae,Serratula coronata subsp. insularis,native,N,herbaceous,upper_slope
+Dioscoreaceae,Dioscorea tokoro,native,N,herbaceous,upper_slope
+Araceae,Arisaema heterophyllum,native,N,herbaceous,upper_slope
+Athyriaceae,Athyrium yokoscense,native,N,herbaceous,ridge_summit
+Araceae,Arisaema heterophyllum,native,N,herbaceous,ridge_summit
+Poaceae,Calamagrostis arundinacea,native,N,herbaceous,valley_flatland
+Liliaceae,Liriope platyphylla,native,N,herbaceous,valley_flatland
+Thelypteridaceae,Thelypteris japonica var. glabrata,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex siderosticta,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris chinensis,native,N,herbaceous,valley_flatland
+Dennstaedtiaceae,Pteridium aquilinum var. latiusculum,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris bissetiana,native,N,herbaceous,upper_slope
+Chloranthaceae,Chloranthus japonicus,native,N,herbaceous,lower_slope
+Fabaceae,Vicia venosa var. cuspidata,native,NA,herbaceous,lower_slope
+Araceae,Arisaema amurense f. serratum,native,N,herbaceous,lower_slope
+Apiaceae,Angelica decursiva,native,N,herbaceous,upper_slope
+Cyperaceae,Carex okamotoi,native,N,herbaceous,lower_slope
+Aristolochiaceae,Asarum sieboldii,native,N,herbaceous,lower_slope
+Cyperaceae,NA,native,N,herbaceous,upper_slope
+Lamiaceae,Agastache rugosa,native,N,herbaceous,upper_slope
+Chloranthaceae,Chloranthus japonicus,native,N,herbaceous,upper_slope
+Liliaceae,Lilium leichtlinii var. maximowiczii,native,NA,herbaceous,upper_slope
+Fabaceae,Amphicarpaea bracteata subsp. edgeworthii,native,N,herbaceous,upper_slope
+Poaceae,Muhlenbergia japonica,native,N,herbaceous,lower_slope
+Asteraceae,Artemisia feddei,native,N,herbaceous,lower_slope
+Liliaceae,Liriope platyphylla,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea japonica,native,N,herbaceous,lower_slope
+Cyperaceae,Carex forficula,native,N,herbaceous,upper_slope
+Aristolochiaceae,Aristolochia contorta,native,N,herbaceous,upper_slope
+Cyperaceae,Carex okamotoi,native,N,herbaceous,upper_slope
+Liliaceae,Disporum smilacinum,native,N,herbaceous,valley_flatland
+Asteraceae,Ainsliaea acerifolia,native,N,herbaceous,valley_flatland
+Athyriaceae,Athyrium yokoscense,native,N,herbaceous,valley_flatland
+Athyriaceae,Deparia conilii,native,N,herbaceous,valley_flatland
+Asteraceae,Aster ageratoides,native,N,herbaceous,valley_flatland
+Poaceae,Sasa japonica,native,N,herbaceous,lower_slope
+Fabaceae,Chamaecrista nomame,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea nipponica,native,N,herbaceous,lower_slope
+Scrophulariaceae,Melampyrum roseum,native,N,herbaceous,lower_slope
+Poaceae,Sasa borealis,native,N,herbaceous,ridge_summit
+Polygonaceae,Polygonum longisetum,native,N,herbaceous,upper_slope
+Poaceae,Sasa borealis,native,N,herbaceous,valley_flatland
+Apiaceae,Angelica gigas,native,N,herbaceous,lower_slope
+Balsaminaceae,Impatiens textori,native,N,herbaceous,lower_slope
+Violaceae,Viola rossii,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris erythrosora,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum filiforme,native,N,herbaceous,upper_slope
+Apiaceae,Angelica gigas,native,N,herbaceous,upper_slope
+Poaceae,Phragmites communis,native,N,herbaceous,upper_slope
+Ranunculaceae,Thalictrum aquilegiifolium var. sibiricum,native,N,herbaceous,upper_slope
+Polygonaceae,Fallopia dumetorum,native,N,herbaceous,ridge_summit
+Iridaceae,Iris rossii,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex okamotoi,native,N,herbaceous,ridge_summit
+Poaceae,Isachne globosa,native,N,herbaceous,upper_slope
+Poaceae,Moliniopsis japonica,native,N,herbaceous,upper_slope
+Saxifragaceae,Parnassia palustris var. multiseta,native,N,herbaceous,upper_slope
+Campanulaceae,Lobelia sessilifolia,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum sagittatum,native,N,herbaceous,upper_slope
+Lamiaceae,Scutellaria indica,native,N,herbaceous,upper_slope
+Orchidaceae,Cymbidium goeringii,native,N,herbaceous,upper_slope
+Asteraceae,Cirsium japonicum var. ussuriense,native,N,herbaceous,upper_slope
+Euphorbiaceae,Euphorbia esula,native,N,herbaceous,upper_slope
+Asteraceae,Artemisia sylvatica,native,N,herbaceous,upper_slope
+Scrophulariaceae,Melampyrum roseum,native,N,herbaceous,upper_slope
+Liliaceae,Ophiopogon japonicus,native,N,herbaceous,lower_slope
+Orchidaceae,Cymbidium goeringii,native,N,herbaceous,valley_flatland
+Valerianaceae,Patrinia scabiosifolia,native,N,herbaceous,upper_slope
+Orchidaceae,Liparis kumokiri,native,N,herbaceous,upper_slope
+Violaceae,Viola albida var. chaerophylloides,native,N,herbaceous,ridge_summit
+Liliaceae,Smilax riparia,native,N,herbaceous,ridge_summit
+Liliaceae,Ophiopogon japonicus,native,N,herbaceous,ridge_summit
+Orchidaceae,Cymbidium goeringii,native,N,herbaceous,ridge_summit
+Liliaceae,Hemerocallis minor,native,N,herbaceous,lower_slope
+Onocleaceae,Pentarhizidium orientale,native,N,herbaceous,lower_slope
+Asteraceae,Eupatorium rugosum,exotic,Y,herbaceous,upper_slope
+Campanulaceae,Codonopsis lanceolata,native,N,herbaceous,lower_slope
+Violaceae,Viola albida var. chaerophylloides,native,N,herbaceous,lower_slope
+Fumariaceae,Corydalis speciosa,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum praetermissum,native,N,herbaceous,lower_slope
+Thelypteridaceae,Thelypteris palustris,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris crassirhizoma,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris parasitica,native,N,herbaceous,lower_slope
+Fabaceae,Amphicarpaea bracteata subsp. edgeworthii,native,N,herbaceous,lower_slope
+Fabaceae,Vicia unijuga,native,NA,herbaceous,lower_slope
+Lamiaceae,Scutellaria indica,native,N,herbaceous,lower_slope
+Liliaceae,Paris verticillata,native,N,herbaceous,lower_slope
+Cyperaceae,Carex gifuensis,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris parasitica,native,N,herbaceous,upper_slope
+Thelypteridaceae,Phegopteris connectilis,native,N,herbaceous,upper_slope
+Liliaceae,Erythronium japonicum,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris lacera,native,NA,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris lacera,native,NA,herbaceous,lower_slope
+Lygodiaceae,Lygodium japonicum,native,N,herbaceous,upper_slope
+Fabaceae,Astragalus membranaceus,native,N,herbaceous,upper_slope
+Cyperaceae,Carex japonica,native,N,herbaceous,lower_slope
+Apiaceae,Sanicula chinensis,native,N,herbaceous,lower_slope
+Iridaceae,Iris sanguinea,native,N,herbaceous,upper_slope
+Athyriaceae,Athyrium vidalii,native,N,herbaceous,upper_slope
+Scrophulariaceae,Melampyrum roseum var. ovalifolium,native,N,herbaceous,upper_slope
+Araceae,Arisaema amurense f. serratum,native,N,herbaceous,upper_slope
+Liliaceae,Hemerocallis dumortieri,native,N,herbaceous,lower_slope
+Convallariaceae,Smilacina japonica,native,N,herbaceous,upper_slope
+Araliaceae,Aralia cordata var. continentalis,native,N,herbaceous,lower_slope
+Asteraceae,Dendranthema boreale,native,N,herbaceous,valley_flatland
+Liliaceae,Veratrum versicolor f. viride,native,N,herbaceous,valley_flatland
+Violaceae,Viola albida var. chaerophylloides,native,N,herbaceous,valley_flatland
+Orchidaceae,Liparis kumokiri,native,N,herbaceous,ridge_summit
+Liliaceae,Allium thunbergii,native,N,herbaceous,upper_slope
+Araliaceae,Aralia cordata var. continentalis,native,N,herbaceous,valley_flatland
+Fabaceae,Vicia chosenensis,native,N,herbaceous,valley_flatland
+Lamiaceae,Elsholtzia splendens,native,N,herbaceous,valley_flatland
+Liliaceae,Ophiopogon japonicus,native,N,herbaceous,valley_flatland
+Liliaceae,Smilax riparia,native,N,herbaceous,valley_flatland
+Violaceae,Viola verecunda,native,N,herbaceous,valley_flatland
+Orchidaceae,Liparis kumokiri,native,N,herbaceous,lower_slope
+Campanulaceae,Codonopsis lanceolata,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum orientale,exotic,N,herbaceous,upper_slope
+Fumariaceae,Corydalis ochotensis,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum perfoliatum,native,N,herbaceous,upper_slope
+Poaceae,Arthraxon hispidus,native,N,herbaceous,upper_slope
+Lamiaceae,Mosla punctulata,native,N,herbaceous,upper_slope
+Fabaceae,Desmodium podocarpum subsp. oxyphyllum,native,N,herbaceous,upper_slope
+Lamiaceae,Mosla dianthera,native,N,herbaceous,upper_slope
+Vitaceae,Cayratia japonica,native,N,herbaceous,upper_slope
+Urticaceae,Boehmeria tricuspis,native,N,herbaceous,upper_slope
+Violaceae,Viola acuminata,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum filiforme,native,N,herbaceous,ridge_summit
+Urticaceae,Boehmeria tricuspis,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea septemloba,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea tenuipes,native,N,herbaceous,upper_slope
+Liliaceae,Ophiopogon japonicus,native,N,herbaceous,upper_slope
+Poaceae,Festuca parvigluma,native,N,herbaceous,upper_slope
+Rubiaceae,Asperula maximowiczii,native,N,herbaceous,lower_slope
+Fabaceae,Astragalus membranaceus,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum longisetum,native,N,herbaceous,lower_slope
+Saxifragaceae,Chrysosplenium grayanum,native,N,herbaceous,lower_slope
+Rubiaceae,Asperula maximowiczii,native,N,herbaceous,ridge_summit
+Brassicaceae,Cardamine flexuosa,native,N,herbaceous,ridge_summit
+Poaceae,Spodiopogon cotulifer,native,N,herbaceous,ridge_summit
+Boraginaceae,Trigonotis peduncularis,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex gifuensis,native,N,herbaceous,ridge_summit
+Asteraceae,Breea segetum,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex gifuensis,native,N,herbaceous,lower_slope
+Asteraceae,Carpesium macrocephalum,native,N,herbaceous,upper_slope
+Iridaceae,Iris sanguinea,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea tokoro,native,N,herbaceous,lower_slope
+Crassulaceae,Sedum kamtschaticum,native,N,herbaceous,ridge_summit
+Lamiaceae,Meehania urticifolia,native,N,herbaceous,lower_slope
+Liliaceae,Erythronium japonicum,native,N,herbaceous,lower_slope
+Apiaceae,Pimpinella brachycarpa,native,N,herbaceous,lower_slope
+Boraginaceae,Trigonotis peduncularis,native,N,herbaceous,upper_slope
+Gentianaceae,Swertia squarrosa,native,N,herbaceous,ridge_summit
+Apiaceae,Peucedanum terebinthaceum,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea nipponica,native,N,herbaceous,ridge_summit
+Apiaceae,Pimpinella brachycarpa,native,N,herbaceous,ridge_summit
+Rosaceae,Sanguisorba officinalis,native,N,herbaceous,ridge_summit
+Poaceae,Phragmites japonicus,native,N,herbaceous,ridge_summit
+Fumariaceae,Corydalis remota,native,N,herbaceous,lower_slope
+Fabaceae,Vicia unijuga,native,NA,herbaceous,upper_slope
+Liliaceae,Veratrum nigrum var. japonicum,native,N,herbaceous,lower_slope
+Aristolochiaceae,Aristolochia contorta,native,N,herbaceous,lower_slope
+Asteraceae,Pseudognaphalium affine,native,N,herbaceous,lower_slope
+Lamiaceae,Agastache rugosa,native,N,herbaceous,lower_slope
+Violaceae,Viola variegata,native,N,herbaceous,lower_slope
+Ranunculaceae,Thalictrum filamentosum,native,N,herbaceous,ridge_summit
+Rosaceae,Sanguisorba hakusanensis,native,N,herbaceous,ridge_summit
+Ranunculaceae,Thalictrum filamentosum,native,N,herbaceous,lower_slope
+Ranunculaceae,Thalictrum aquilegiifolium var. sibiricum,native,N,herbaceous,lower_slope
+Campanulaceae,Adenophora triphylla var. japonica,native,N,herbaceous,ridge_summit
+Brassicaceae,Cardamine flexuosa,native,N,herbaceous,lower_slope
+Liliaceae,Asparagus schoberioides,native,N,herbaceous,lower_slope
+Rosaceae,Sanguisorba hakusanensis,native,N,herbaceous,upper_slope
+Asteraceae,Taraxacum platycarpum,native,N,herbaceous,lower_slope
+Violaceae,Viola keiskei,native,N,herbaceous,lower_slope
+Violaceae,Viola orientalis,native,N,herbaceous,upper_slope
+Fabaceae,Vicia venosa var. cuspidata,native,NA,herbaceous,upper_slope
+Dryopteridaceae,Polystichum tripteron,native,N,herbaceous,upper_slope
+Fumariaceae,Corydalis remota,native,N,herbaceous,upper_slope
+Ranunculaceae,Hepatica asiatica,native,N,herbaceous,lower_slope
+Rubiaceae,Rubia chinensis,native,N,herbaceous,lower_slope
+Asteraceae,Artemisia montana,native,N,herbaceous,lower_slope
+Asteraceae,Crepidiastrum sonchifolium,native,N,herbaceous,lower_slope
+Brassicaceae,Capsella bursa-pastoris,native,N,herbaceous,lower_slope
+Thelypteridaceae,Thelypteris japonica,native,N,herbaceous,lower_slope
+Scrophulariaceae,Melampyrum roseum var. ovalifolium,native,N,herbaceous,lower_slope
+Rubiaceae,Mitchella undulata,native,N,herbaceous,lower_slope
+Thelypteridaceae,Thelypteris japonica,native,N,herbaceous,ridge_summit
+Asteraceae,Solidago virgaurea subsp. asiatica,native,N,herbaceous,ridge_summit
+Primulaceae,Lysimachia barystachys,native,N,herbaceous,ridge_summit
+Poaceae,Cymbopogon tortilis var. goeringii,native,N,herbaceous,ridge_summit
+Violaceae,Viola mandshurica,native,N,herbaceous,ridge_summit
+Scrophulariaceae,Melampyrum roseum,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea quinqueloba,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Dryopteris erythrosora,native,N,herbaceous,lower_slope
+Asteraceae,Pseudognaphalium affine,native,N,herbaceous,upper_slope
+Cyperaceae,Carex sabynensis,native,N,herbaceous,upper_slope
+Asteraceae,Dendranthema zawadskii var. latilobum,native,N,herbaceous,ridge_summit
+Lamiaceae,Mosla punctulata,native,N,herbaceous,ridge_summit
+Asteraceae,Saussurea seoulensis,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum pubescens,native,N,herbaceous,upper_slope
+Liliaceae,Veratrum patulum,native,N,herbaceous,upper_slope
+Asteraceae,Dendranthema indicum,native,N,herbaceous,upper_slope
+Papaveraceae,Dicentra spectabilis,native,N,herbaceous,upper_slope
+Berberidaceae,Caulophyllum robustum,native,N,herbaceous,upper_slope
+Ranunculaceae,Hepatica asiatica,native,N,herbaceous,upper_slope
+Balsaminaceae,Impatiens textori,native,N,herbaceous,upper_slope
+Liliaceae,Lilium lancifolium,native,N,herbaceous,upper_slope
+Liliaceae,Lilium lancifolium,native,N,herbaceous,lower_slope
+Clusiaceae,Hypericum ascyron,native,N,herbaceous,lower_slope
+Asteraceae,Crepidiastrum sonchifolium,native,N,herbaceous,upper_slope
+Urticaceae,Boehmeria platanifolia,native,N,herbaceous,upper_slope
+Athyriaceae,Athyrium sinense,native,N,herbaceous,upper_slope
+Lamiaceae,Salvia chanroenica,native,N,herbaceous,upper_slope
+Ranunculaceae,Actaea asiatica,native,N,herbaceous,upper_slope
+Gentianaceae,Swertia triflora f. japonica,native,N,herbaceous,upper_slope
+Rubiaceae,Galium trachyspermum,native,N,herbaceous,upper_slope
+Ranunculaceae,Cimicifuga dahurica,native,N,herbaceous,upper_slope
+Asteraceae,Dendranthema indicum,native,N,herbaceous,lower_slope
+Rubiaceae,Galium trachyspermum,native,N,herbaceous,lower_slope
+Fabaceae,Desmodium podocarpum subsp. oxyphyllum,native,N,herbaceous,lower_slope
+Ranunculaceae,Thalictrum rochebruneanum var. grandisepalum,native,N,herbaceous,upper_slope
+Dennstaedtiaceae,Dennstaedtia wilfordii,native,N,herbaceous,upper_slope
+Violaceae,Viola orientalis,native,N,herbaceous,ridge_summit
+Asteraceae,Ainsliaea acerifolia,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea tokoro,native,N,herbaceous,ridge_summit
+Aristolochiaceae,Asarum sieboldii,native,N,herbaceous,ridge_summit
+Chloranthaceae,Chloranthus fortunei,native,N,herbaceous,upper_slope
+Araceae,Arisaema peninsulae,native,N,herbaceous,upper_slope
+Ranunculaceae,Aconitum jaluense,native,N,herbaceous,upper_slope
+Violaceae,Viola orientalis,native,N,herbaceous,lower_slope
+Liliaceae,Hemerocallis hakuunensis,native,N,herbaceous,lower_slope
+Dryopteridaceae,Polystichum tripteron,native,N,herbaceous,lower_slope
+Ranunculaceae,Thalictrum actaeifolium var. brevistylum,native,N,herbaceous,lower_slope
+Liliaceae,Convallaria keiskei,native,N,herbaceous,lower_slope
+Araceae,Arisaema peninsulae,native,N,herbaceous,lower_slope
+Liliaceae,Veratrum versicolor,native,N,herbaceous,lower_slope
+Dryopteridaceae,Polystichum tripteron,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium pogonanthum,native,N,herbaceous,valley_flatland
+Pyrolaceae,Pyrola japonica,native,N,herbaceous,valley_flatland
+Rosaceae,Potentilla freyniana,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex okamotoi,native,N,herbaceous,valley_flatland
+Poaceae,Spodiopogon sibiricus,native,N,herbaceous,valley_flatland
+Asteraceae,Eupatorium tripartitum,native,N,herbaceous,valley_flatland
+Ranunculaceae,Thalictrum actaeifolium var. brevistylum,native,N,herbaceous,upper_slope
+Liliaceae,Polygonatum inflatum,native,N,herbaceous,upper_slope
+Urticaceae,Boehmeria longispica,native,N,herbaceous,upper_slope
+Rubiaceae,Asperula odorata,native,N,herbaceous,lower_slope
+Onocleaceae,Onoclea sensibilis,native,N,herbaceous,lower_slope
+Lamiaceae,Meehania urticifolia,native,N,herbaceous,valley_flatland
+Dioscoreaceae,Dioscorea nipponica,native,N,herbaceous,valley_flatland
+Aristolochiaceae,Asarum sieboldii,native,N,herbaceous,valley_flatland
+Violaceae,Viola rossii,native,N,herbaceous,valley_flatland
+Polygonaceae,Fallopia dentatoalata,native,N,herbaceous,upper_slope
+Asteraceae,Artemisia stolonifera,native,N,herbaceous,valley_flatland
+Liliaceae,Asparagus schoberioides,native,N,herbaceous,valley_flatland
+Asteraceae,Dendranthema zawadskii var. latilobum,native,N,herbaceous,valley_flatland
+Iridaceae,Iris rossii,native,N,herbaceous,valley_flatland
+Brassicaceae,Berteroella maximowiczii,native,N,herbaceous,valley_flatland
+Fabaceae,Sophora flavescens,native,N,herbaceous,valley_flatland
+Violaceae,Viola variegata,native,N,herbaceous,valley_flatland
+Crassulaceae,Sedum kamtschaticum,native,N,herbaceous,valley_flatland
+Dioscoreaceae,Dioscorea japonica,native,N,herbaceous,valley_flatland
+Lamiaceae,Isodon japonicus,native,N,herbaceous,valley_flatland
+Asteraceae,Crepidiastrum denticulatum,native,NA,herbaceous,valley_flatland
+Rubiaceae,Galium trifloriforme,native,N,herbaceous,valley_flatland
+Boraginaceae,Lithospermum erythrorhizon,native,N,herbaceous,valley_flatland
+Berberidaceae,Jeffersonia dubia,native,N,herbaceous,upper_slope
+Apiaceae,Cymopterus melanotilingia,native,N,herbaceous,upper_slope
+Poaceae,Melica nutans,native,N,herbaceous,upper_slope
+Papaveraceae,Coreanomecon hylomeconoides,native,N,herbaceous,upper_slope
+Apocynaceae,Cynanchum ascyrifolium,native,N,herbaceous,upper_slope
+Rubiaceae,Rubia chinensis,native,N,herbaceous,upper_slope
+Violaceae,Viola phalacrocarpa,native,N,herbaceous,upper_slope
+Fabaceae,Vicia chosenensis,native,N,herbaceous,lower_slope
+Ranunculaceae,Cimicifuga heracleifolia var. bifida,native,N,herbaceous,lower_slope
+Violaceae,Viola phalacrocarpa,native,N,herbaceous,lower_slope
+Rubiaceae,Galium trifloriforme,native,N,herbaceous,lower_slope
+Liliaceae,Lilium tsingtauense,native,N,herbaceous,upper_slope
+Ranunculaceae,Cimicifuga heracleifolia var. bifida,native,N,herbaceous,upper_slope
+Valerianaceae,Patrinia scabiosifolia,native,N,herbaceous,lower_slope
+Asteraceae,Euchiton japonicus,native,N,herbaceous,lower_slope
+Liliaceae,Lilium leichtlinii var. maximowiczii,native,NA,herbaceous,lower_slope
+Liliaceae,Hemerocallis dumortieri,native,N,herbaceous,valley_flatland
+Araceae,Arisaema amurense f. serratum,native,N,herbaceous,valley_flatland
+Athyriaceae,Athyrium vidalii,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris lacera,native,NA,herbaceous,valley_flatland
+Chloranthaceae,Chloranthus japonicus,native,N,herbaceous,valley_flatland
+Campanulaceae,Adenophora triphylla var. japonica,native,N,herbaceous,valley_flatland
+Asteraceae,Hieracium umbellatum,native,N,herbaceous,upper_slope
+Scrophulariaceae,Melampyrum roseum var. japonicum,native,N,herbaceous,upper_slope
+Campanulaceae,Adenophora remotiflora,native,N,herbaceous,upper_slope
+Onagraceae,Circaea cordata,native,N,herbaceous,upper_slope
+Scrophulariaceae,Melampyrum roseum var. japonicum,native,N,herbaceous,lower_slope
+Lamiaceae,Salvia japonica,native,N,herbaceous,upper_slope
+Violaceae,Viola grypoceras,native,N,herbaceous,upper_slope
+Fabaceae,Vicia venosa var. cuspidata,native,NA,herbaceous,valley_flatland
+Apocynaceae,Cynanchum wilfordii,native,N,herbaceous,valley_flatland
+Liliaceae,Lilium leichtlinii var. maximowiczii,native,NA,herbaceous,valley_flatland
+Rubiaceae,Galium verum var. asiaticum,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Silene firma,native,N,herbaceous,valley_flatland
+Scrophulariaceae,Melampyrum roseum var. japonicum,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Silene seoulensis,native,N,herbaceous,upper_slope
+Poaceae,Diarrhena japonica,native,N,herbaceous,upper_slope
+Ranunculaceae,Paeonia obovata,native,N,herbaceous,upper_slope
+Equisetaceae,Equisetum arvense,native,N,herbaceous,valley_flatland
+Liliaceae,Convallaria keiskei,native,N,herbaceous,valley_flatland
+Dioscoreaceae,Dioscorea tokoro,native,N,herbaceous,valley_flatland
+Ranunculaceae,Cimicifuga heracleifolia var. bifida,native,N,herbaceous,valley_flatland
+Ranunculaceae,Hepatica asiatica,native,N,herbaceous,valley_flatland
+Ranunculaceae,Aconitum jaluense,native,N,herbaceous,valley_flatland
+Orchidaceae,Platanthera ussuriensis,native,N,herbaceous,upper_slope
+Fabaceae,Lathyrus davidii,native,N,herbaceous,upper_slope
+Boraginaceae,Lithospermum erythrorhizon,native,N,herbaceous,upper_slope
+Apiaceae,Cymopterus melanotilingia,native,N,herbaceous,lower_slope
+Liliaceae,Lilium tsingtauense,native,N,herbaceous,lower_slope
+Apocynaceae,Cynanchum ascyrifolium,native,N,herbaceous,lower_slope
+Asteraceae,Aster ageratoides,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea septemloba,native,N,herbaceous,lower_slope
+Brassicaceae,Berteroella maximowiczii,native,N,herbaceous,lower_slope
+Asteraceae,Syneilesis palmata,native,N,herbaceous,ridge_summit
+Scrophulariaceae,Melampyrum setaceum,native,N,herbaceous,ridge_summit
+Valerianaceae,Patrinia scabiosifolia,native,N,herbaceous,ridge_summit
+Asteraceae,Leontopodium leontopodioides,native,N,herbaceous,ridge_summit
+Campanulaceae,Adenophora remotiflora,native,N,herbaceous,ridge_summit
+Brassicaceae,Cardamine amariformis,native,N,herbaceous,valley_flatland
+Brassicaceae,Cardamine leucantha,native,N,herbaceous,valley_flatland
+Poaceae,Diarrhena japonica,native,N,herbaceous,valley_flatland
+Convallariaceae,Smilacina japonica,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Pseudostellaria palibiniana,native,N,herbaceous,valley_flatland
+Liliaceae,Polygonatum involucratum,native,N,herbaceous,valley_flatland
+Liliaceae,Disporum viridescens,native,N,herbaceous,valley_flatland
+Violaceae,Viola grypoceras,native,N,herbaceous,lower_slope
+Poaceae,Melica onoei,native,N,herbaceous,valley_flatland
+Asteraceae,Carpesium divaricatum,native,N,herbaceous,valley_flatland
+Apiaceae,Angelica reflexa,native,N,herbaceous,upper_slope
+Poaceae,Sasa japonica,native,N,herbaceous,upper_slope
+Polygonaceae,Rumex acetosa,native,N,herbaceous,upper_slope
+Violaceae,Viola selkirkii,native,N,herbaceous,ridge_summit
+Hyacinthaceae,Scilla scilloides,native,N,herbaceous,upper_slope
+Asteraceae,Taraxacum officinale,exotic,N,herbaceous,lower_slope
+Asteraceae,Aster pilosus,exotic,Y,herbaceous,lower_slope
+Lamiaceae,Scutellaria pekinensis var. transitra,native,N,herbaceous,upper_slope
+Caryophyllaceae,Pseudostellaria setulosa,native,N,herbaceous,lower_slope
+Violaceae,Viola collina,native,NA,herbaceous,lower_slope
+Asteraceae,Ambrosia artemisiifolia,exotic,Y,herbaceous,lower_slope
+Polygonaceae,Rumex crispus,exotic,N,herbaceous,lower_slope
+Convolvulaceae,Cuscuta australis,native,N,herbaceous,lower_slope
+Urticaceae,Pilea japonica,native,N,herbaceous,lower_slope
+Asteraceae,Galinsoga quadriradiata,exotic,N,herbaceous,lower_slope
+Asteraceae,Aster yomena,native,N,herbaceous,lower_slope
+Onagraceae,Circaea mollis,native,N,herbaceous,lower_slope
+Clusiaceae,Hypericum erectum,native,N,herbaceous,upper_slope
+Fabaceae,Kummerowia striata,native,N,herbaceous,upper_slope
+Thelypteridaceae,Thelypteris japonica,native,N,herbaceous,upper_slope
+Tiliaceae,Corchoropsis tomentosa,native,N,herbaceous,upper_slope
+Onocleaceae,Pentarhizidium orientale,native,N,herbaceous,upper_slope
+Athyriaceae,Deparia japonica,native,N,herbaceous,lower_slope
+Araceae,Arisaema amurense f. serratum,native,N,herbaceous,ridge_summit
+Aristolochiaceae,Asarum maculatum,native,N,herbaceous,ridge_summit
+Athyriaceae,Deparia japonica,native,N,herbaceous,ridge_summit
+Caryophyllaceae,Pseudostellaria davidii,native,N,herbaceous,ridge_summit
+Thelypteridaceae,Thelypteris palustris,native,N,herbaceous,ridge_summit
+Liliaceae,Polygonatum lasianthum,native,N,herbaceous,lower_slope
+Poaceae,Phaenosperma globosum,native,N,herbaceous,lower_slope
+Lamiaceae,Scutellaria indica,native,N,herbaceous,ridge_summit
+Chloranthaceae,Chloranthus japonicus,native,N,herbaceous,ridge_summit
+Araceae,Pinellia tripartita,native,N,herbaceous,ridge_summit
+Fabaceae,Dunbaria villosa,native,N,herbaceous,upper_slope
+Orchidaceae,Oreorchis patens,native,N,herbaceous,upper_slope
+Urticaceae,Pilea peploides,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris varia,native,N,herbaceous,upper_slope
+Fabaceae,Dunbaria villosa,native,N,herbaceous,lower_slope
+Rubiaceae,Galium spurium var. echospermum,exotic,N,herbaceous,lower_slope
+Caryophyllaceae,Pseudostellaria heterophylla,native,N,herbaceous,ridge_summit
+Aristolochiaceae,Asarum maculatum,native,N,herbaceous,upper_slope
+Violaceae,Viola collina,native,NA,herbaceous,ridge_summit
+Liliaceae,Polygonatum involucratum,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium trachyspermum,native,N,herbaceous,ridge_summit
+Liliaceae,Liriope platyphylla,native,N,herbaceous,ridge_summit
+Liliaceae,Polygonatum lasianthum,native,N,herbaceous,ridge_summit
+Liliaceae,Asparagus schoberioides,native,N,herbaceous,ridge_summit
+Urticaceae,Pilea mongolica,native,N,herbaceous,ridge_summit
+Polygonaceae,Polygonum senticosum,native,N,herbaceous,ridge_summit
+Orchidaceae,Cephalanthera longibracteata,native,N,herbaceous,ridge_summit
+Ranunculaceae,Actaea asiatica,native,N,herbaceous,ridge_summit
+Poaceae,Themeda triandra subsp. japonica,native,N,herbaceous,lower_slope
+Caryophyllaceae,Dianthus chinensis,native,N,herbaceous,lower_slope
+Brassicaceae,Dontostemon dentatus,native,N,herbaceous,lower_slope
+Cyperaceae,Carex neurocarpa,native,N,herbaceous,lower_slope
+Polygalaceae,Polygala tenuifolia,native,N,herbaceous,lower_slope
+Poaceae,Cymbopogon tortilis var. goeringii,native,N,herbaceous,lower_slope
+Euphorbiaceae,Euphorbia sieboldiana,native,N,herbaceous,lower_slope
+Athyriaceae,Deparia conilii,native,N,herbaceous,lower_slope
+Asteraceae,Dendranthema zawadskii,native,N,herbaceous,upper_slope
+Iridaceae,Iris lactea var. chinensis,native,N,herbaceous,upper_slope
+Athyriaceae,Deparia conilii,native,N,herbaceous,upper_slope
+Apiaceae,Sium suave,native,N,herbaceous,upper_slope
+Tiliaceae,Corchoropsis tomentosa,native,N,herbaceous,lower_slope
+Fabaceae,Lathyrus davidii,native,N,herbaceous,lower_slope
+Ranunculaceae,Cimicifuga simplex,native,N,herbaceous,lower_slope
+Orchidaceae,Oreorchis patens,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum lapathifolium,native,N,herbaceous,lower_slope
+Poaceae,Agropyron tsukushiense var. transiens,native,N,herbaceous,upper_slope
+Rosaceae,Potentilla discolor,native,N,herbaceous,upper_slope
+Liliaceae,Asparagus cochinchinensis,native,N,herbaceous,upper_slope
+Dryopteridaceae,Polystichum polyblepharum,native,N,herbaceous,upper_slope
+Poaceae,Phaenosperma globosum,native,N,herbaceous,upper_slope
+Poaceae,Lophatherum gracile,native,N,herbaceous,lower_slope
+Poaceae,Lophatherum gracile,native,N,herbaceous,upper_slope
+Asteraceae,Aster yomena,native,N,herbaceous,upper_slope
+Poaceae,Eulalia speciosa,native,N,herbaceous,upper_slope
+Liliaceae,Allium microdictyon,native,N,herbaceous,upper_slope
+Poaceae,Calamagrostis epigejos,native,N,herbaceous,upper_slope
+Liliaceae,Paris verticillata,native,N,herbaceous,upper_slope
+Asteraceae,Parasenecio hastatus subsp. orientalis,native,N,herbaceous,upper_slope
+Asteraceae,Ligularia fischeri,native,N,herbaceous,upper_slope
+Saxifragaceae,Saxifraga fortunei var. incisolobata,native,NA,herbaceous,upper_slope
+Asteraceae,Bidens bipinnata,native,N,herbaceous,upper_slope
+Ranunculaceae,Pulsatilla cernua var. koreana,native,N,herbaceous,lower_slope
+Asteraceae,Adenocaulon himalaicum,native,N,herbaceous,upper_slope
+Asteraceae,Adenocaulon himalaicum,native,N,herbaceous,lower_slope
+Lamiaceae,Elsholtzia splendens,native,N,herbaceous,upper_slope
+Asteraceae,Aster meyendorffii,native,N,herbaceous,lower_slope
+Asteraceae,Petasites japonicus,native,N,herbaceous,upper_slope
+Violaceae,Viola verecunda,native,N,herbaceous,ridge_summit
+Lamiaceae,Elsholtzia ciliata,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium spurium var. echospermum,exotic,N,herbaceous,ridge_summit
+Asteraceae,Petasites japonicus,native,N,herbaceous,lower_slope
+Cyperaceae,NA,native,N,herbaceous,valley_flatland
+Athyriaceae,Deparia japonica,native,N,herbaceous,valley_flatland
+Poaceae,Bothriochloa ischaemum,native,N,herbaceous,valley_flatland
+Liliaceae,Veratrum versicolor,native,N,herbaceous,valley_flatland
+Urticaceae,Boehmeria tricuspis,native,N,herbaceous,valley_flatland
+Liliaceae,Liriope spicata,native,N,herbaceous,valley_flatland
+Fabaceae,Amphicarpaea bracteata subsp. edgeworthii,native,N,herbaceous,valley_flatland
+Cucurbitaceae,Sicyos angulatus,exotic,Y,herbaceous,valley_flatland
+Poaceae,Miscanthus sacchariflorus,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Stellaria media,exotic,N,herbaceous,valley_flatland
+Cucurbitaceae,Melothria japonica,native,N,herbaceous,valley_flatland
+Lamiaceae,Leonurus japonicus,native,N,herbaceous,valley_flatland
+Asteraceae,Aster pilosus,exotic,Y,herbaceous,valley_flatland
+Poaceae,Phragmites communis,native,N,herbaceous,valley_flatland
+Apocynaceae,Metaplexis japonica,native,N,herbaceous,valley_flatland
+Asteraceae,Xanthium canadense,exotic,N,herbaceous,valley_flatland
+Solanaceae,Solanum lyratum,native,N,herbaceous,valley_flatland
+Poaceae,Phragmites japonicus,native,N,herbaceous,valley_flatland
+Poaceae,Panicum bisulcatum,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum lapathifolium,native,N,herbaceous,valley_flatland
+Poaceae,Bothriochloa ischaemum,native,N,herbaceous,lower_slope
+Liliaceae,Polygonatum lasianthum,native,N,herbaceous,upper_slope
+Poaceae,Poa sphondylodes,native,N,herbaceous,upper_slope
+Acanthaceae,Justicia procumbens,native,N,herbaceous,lower_slope
+Oxalidaceae,Oxalis corniculata,exotic,N,herbaceous,valley_flatland
+Poaceae,Poa sphondylodes,native,N,herbaceous,valley_flatland
+Convolvulaceae,Ipomoea purpurea,exotic,N,herbaceous,lower_slope
+Poaceae,Calamagrostis epigejos,native,N,herbaceous,lower_slope
+Poaceae,Eragrostis ferruginea,native,N,herbaceous,lower_slope
+Asteraceae,Crassocephalum crepidioides,exotic,N,herbaceous,ridge_summit
+Poaceae,Poa sphondylodes,native,N,herbaceous,ridge_summit
+Araceae,Arisaema ringens,native,N,herbaceous,upper_slope
+Apiaceae,Glehnia littoralis,native,N,herbaceous,upper_slope
+Lamiaceae,Ajuga decumbens,native,N,herbaceous,upper_slope
+Ranunculaceae,Semiaquilegia adoxoides,native,N,herbaceous,upper_slope
+Urticaceae,Boehmeria pannosa,native,N,herbaceous,upper_slope
+Lamiaceae,Lamium album var. barbatum,native,N,herbaceous,upper_slope
+Apiaceae,Angelica dahurica,native,N,herbaceous,upper_slope
+Poaceae,Hierochloe odorata,native,N,herbaceous,upper_slope
+Fabaceae,Desmodium podocarpum subsp. oxyphyllum,native,N,herbaceous,valley_flatland
+Asteraceae,Youngia japonica,native,N,herbaceous,valley_flatland
+Urticaceae,Pilea mongolica,native,N,herbaceous,valley_flatland
+Apiaceae,Sanicula chinensis,native,N,herbaceous,valley_flatland
+Asteraceae,Conyza canadensis,exotic,N,herbaceous,valley_flatland
+Violaceae,Viola mandshurica,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum perfoliatum,native,N,herbaceous,valley_flatland
+Fumariaceae,Corydalis incisa,native,N,herbaceous,valley_flatland
+Lamiaceae,Scutellaria indica,native,N,herbaceous,valley_flatland
+Onagraceae,Circaea mollis,native,N,herbaceous,valley_flatland
+Rubiaceae,Galium spurium var. echospermum,exotic,N,herbaceous,valley_flatland
+Caryophyllaceae,Cerastium holosteoides var. hallaisanense,native,N,herbaceous,valley_flatland
+Vitaceae,Cayratia japonica,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Arachniodes aristatissima,native,N,herbaceous,lower_slope
+Araceae,Arisaema ringens,native,N,herbaceous,lower_slope
+Urticaceae,Boehmeria pannosa,native,N,herbaceous,lower_slope
+Primulaceae,Lysimachia japonica,native,N,herbaceous,lower_slope
+Dryopteridaceae,Arachniodes aristatissima,native,N,herbaceous,valley_flatland
+Ophioglossaceae,Botrychium japonicum,native,N,herbaceous,upper_slope
+Lycopodiaceae,Huperzia serrata,native,N,herbaceous,upper_slope
+Athyriaceae,Athyrium alpestre,native,N,herbaceous,upper_slope
+Dryopteridaceae,Arachniodes aristatissima,native,N,herbaceous,upper_slope
+Orchidaceae,Goodyera rosulacea,native,N,herbaceous,upper_slope
+Apiaceae,Pimpinella hallaisanensis,native,N,herbaceous,upper_slope
+Athyriaceae,Deparia japonica,native,N,herbaceous,upper_slope
+Poaceae,Brachypodium sylvaticum,native,N,herbaceous,upper_slope
+Orchidaceae,Calanthe discolor,native,N,herbaceous,upper_slope
+Asteraceae,Ainsliaea apiculata,native,N,herbaceous,upper_slope
+Ophioglossaceae,Botrychium japonicum,native,N,herbaceous,lower_slope
+Polypodiaceae,Lemmaphyllum microphyllum,native,N,herbaceous,lower_slope
+Orchidaceae,Goodyera schlechtendaliana,native,N,herbaceous,upper_slope
+Thelypteridaceae,Cyclosorus acuminatus,native,N,herbaceous,upper_slope
+Dryopteridaceae,Cyrtomium falcatum,native,N,herbaceous,upper_slope
+Dryopteridaceae,Polystichum tagawanum,native,N,herbaceous,upper_slope
+Apiaceae,Hydrocotyle maritima,native,N,herbaceous,upper_slope
+Dryopteridaceae,Polystichum tagawanum,native,N,herbaceous,lower_slope
+Lygodiaceae,Lygodium japonicum,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris monticola,native,N,herbaceous,lower_slope
+Orchidaceae,Goodyera schlechtendaliana,native,N,herbaceous,lower_slope
+Lycopodiaceae,Huperzia serrata,native,N,herbaceous,lower_slope
+Asteraceae,Farfugium japonicum,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris erythrosora,native,N,herbaceous,valley_flatland
+Araceae,Arisaema ringens,native,N,herbaceous,valley_flatland
+Poaceae,Sasa quelpaertensis,native,N,herbaceous,upper_slope
+Thelypteridaceae,Leptogramma pozoi subsp. mollisima,native,N,herbaceous,upper_slope
+Cucurbitaceae,Gynostemma pentaphyllum,native,N,herbaceous,upper_slope
+Orchidaceae,Cephalanthera erecta,native,N,herbaceous,valley_flatland
+Aspleniaceae,Asplenium incisum,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris uniformis,native,N,herbaceous,upper_slope
+Saxifragaceae,Kirengeshoma koreana,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris monticola,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris parasitica,native,N,herbaceous,valley_flatland
+Euphorbiaceae,Acalypha australis,native,N,herbaceous,upper_slope
+Polypodiaceae,Lemmaphyllum microphyllum,native,N,herbaceous,upper_slope
+Thelypteridaceae,Cyclosorus acuminatus,native,N,herbaceous,lower_slope
+Cucurbitaceae,Gynostemma pentaphyllum,native,N,herbaceous,lower_slope
+Ophioglossaceae,Botrychium ternatum,native,NA,herbaceous,lower_slope
+Lamiaceae,Clinopodium gracile var. multicaule,native,N,herbaceous,upper_slope
+Ranunculaceae,Aconitum pseudolaeve,native,N,herbaceous,upper_slope
+Papaveraceae,Hylomecon vernalis,native,N,herbaceous,upper_slope
+Solanaceae,Scopolia japonica,native,N,herbaceous,upper_slope
+Campanulaceae,Campanula punctata,native,N,herbaceous,lower_slope
+Liliaceae,Hemerocallis thunbergii,native,N,herbaceous,upper_slope
+Geraniaceae,Geranium thunbergii,native,N,herbaceous,upper_slope
+Fabaceae,Aeschynomene indica,native,N,herbaceous,upper_slope
+Fumariaceae,Corydalis pallida,native,N,herbaceous,lower_slope
+Lamiaceae,Elsholtzia splendens,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea tenuipes,native,N,herbaceous,lower_slope
+Liliaceae,Lilium distichum,native,N,herbaceous,upper_slope
+Dryopteridaceae,Arachniodes amabilis,native,N,herbaceous,upper_slope
+Liliaceae,Maianthemum bifolium,native,N,herbaceous,upper_slope
+Apiaceae,Sanicula tuberculata,native,N,herbaceous,upper_slope
+Liliaceae,Hosta minor,native,N,herbaceous,lower_slope
+Liliaceae,Lilium concolor var. pulchellum,native,N,herbaceous,lower_slope
+Violaceae,Viola verecunda,native,N,herbaceous,lower_slope
+Poaceae,Sasa quelpaertensis,native,N,herbaceous,lower_slope
+Poaceae,Sasa quelpaertensis,native,N,herbaceous,valley_flatland
+Liliaceae,Hosta minor,native,N,herbaceous,valley_flatland
+Balsaminaceae,Impatiens noli-tangere,native,N,herbaceous,lower_slope
+Lamiaceae,Phlomis umbrosa,native,N,herbaceous,lower_slope
+Dryopteridaceae,Polystichum lepidocaulon,native,N,herbaceous,lower_slope
+Lamiaceae,Stachys japonica,native,N,herbaceous,lower_slope
+Ranunculaceae,Cimicifuga japonica,native,N,herbaceous,lower_slope
+Araceae,Arisaema heterophyllum,native,N,herbaceous,lower_slope
+Pteridaceae,Coniogramme intermedia,native,N,herbaceous,lower_slope
+Poaceae,Dimeria ornithopoda,native,N,herbaceous,upper_slope
+Cyperaceae,Carex maximowiczii,native,N,herbaceous,upper_slope
+Juncaceae,Juncus effusus var. decipiens,native,N,herbaceous,upper_slope
+Haloragaceae,Haloragis micrantha,native,N,herbaceous,upper_slope
+Apocynaceae,Cynanchum amplexicaule,native,N,herbaceous,upper_slope
+Liliaceae,Allium taquetii,native,N,herbaceous,upper_slope
+Apiaceae,Hydrocotyle ramiflora,native,N,herbaceous,upper_slope
+Clusiaceae,Hypericum laxum,native,N,herbaceous,upper_slope
+Poaceae,Agrostis clavata var. nukabo,native,N,herbaceous,upper_slope
+Cyperaceae,Carex planiculmis,native,N,herbaceous,upper_slope
+Urticaceae,Boehmeria pannosa,native,N,herbaceous,valley_flatland
+Poaceae,Pennisetum alopecuroides,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum senticosum,native,N,herbaceous,valley_flatland
+Cyperaceae,Cyperus amuricus,native,N,herbaceous,valley_flatland
+Asteraceae,Artemisia japonica,native,N,herbaceous,valley_flatland
+Poaceae,Spodiopogon cotulifer,native,N,herbaceous,valley_flatland
+Asteraceae,Ambrosia artemisiifolia,exotic,Y,herbaceous,valley_flatland
+Fabaceae,Aeschynomene indica,native,N,herbaceous,valley_flatland
+Asteraceae,Aster tataricus,native,N,herbaceous,valley_flatland
+Fabaceae,Lespedeza cuneata,native,N,herbaceous,valley_flatland
+Hyacinthaceae,Scilla scilloides,native,N,herbaceous,valley_flatland
+Geraniaceae,Geranium sibiricum,native,N,herbaceous,valley_flatland
+Convolvulaceae,Pharbitis nil,exotic,N,herbaceous,valley_flatland
+Dioscoreaceae,Dioscorea quinqueloba,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris varia,native,N,herbaceous,valley_flatland
+Orchidaceae,Calanthe discolor,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Cyrtomium falcatum,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Polystichum lepidocaulon,native,N,herbaceous,valley_flatland
+Polypodiaceae,Lemmaphyllum microphyllum,native,N,herbaceous,valley_flatland
+Fabaceae,Rhynchosia volubilis,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris uniformis,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Cyrtomium fortunei,native,N,herbaceous,valley_flatland
+Commelinaceae,Pollia japonica,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Arachniodes amabilis,native,N,herbaceous,valley_flatland
+Fabaceae,Rhynchosia volubilis,native,N,herbaceous,valley_flatland
+Cucurbitaceae,Gynostemma pentaphyllum,native,N,herbaceous,valley_flatland
+Pteridaceae,Pteris multifida,native,N,herbaceous,valley_flatland
+Ophioglossaceae,Botrychium ternatum,native,NA,herbaceous,valley_flatland
+Onocleaceae,Pentarhizidium orientale,native,N,herbaceous,valley_flatland
+Asteraceae,Farfugium japonicum,native,N,herbaceous,upper_slope
+Asteraceae,Carduus crispus,exotic,N,herbaceous,lower_slope
+Fabaceae,Rhynchosia volubilis,native,N,herbaceous,upper_slope
+Davalliaceae,Davallia mariesii,native,N,herbaceous,upper_slope
+Cyperaceae,Carex fernaldiana,native,N,herbaceous,upper_slope
+Lamiaceae,Scutellaria strigillosa,native,N,herbaceous,upper_slope
+Asteraceae,Crepidiastrum chelidoniifolium,native,N,herbaceous,lower_slope
+Lamiaceae,Scutellaria strigillosa,native,N,herbaceous,lower_slope
+Asteraceae,Crepidiastrum chelidoniifolium,native,N,herbaceous,upper_slope
+Cyperaceae,Carex lenta,native,N,herbaceous,upper_slope
+Apiaceae,Angelica cartilaginomarginata,native,N,herbaceous,upper_slope
+Violaceae,Viola selkirkii,native,N,herbaceous,lower_slope
+Apiaceae,Angelica cartilaginomarginata,native,N,herbaceous,lower_slope
+Rosaceae,Filipendula glaberrima,native,N,herbaceous,upper_slope
+Caryophyllaceae,Dianthus chinensis,native,N,herbaceous,upper_slope
+Commelinaceae,Murdannia keisak,native,N,herbaceous,upper_slope
+Violaceae,Viola albida,native,N,herbaceous,upper_slope
+Cyperaceae,Carex alterniflora,native,N,herbaceous,upper_slope
+Apiaceae,Sanicula chinensis,native,N,herbaceous,upper_slope
+Asteraceae,Saussurea tanakae,native,N,herbaceous,upper_slope
+Primulaceae,Lysimachia barystachys,native,N,herbaceous,valley_flatland
+Asteraceae,Syneilesis palmata,native,N,herbaceous,valley_flatland
+Violaceae,Viola selkirkii,native,N,herbaceous,valley_flatland
+Apiaceae,Sanicula chinensis,native,N,herbaceous,ridge_summit
+Asteraceae,Serratula coronata subsp. insularis,native,N,herbaceous,ridge_summit
+Caryophyllaceae,Pseudostellaria palibiniana,native,N,herbaceous,ridge_summit
+Asteraceae,Synurus deltoides,native,N,herbaceous,ridge_summit
+Fabaceae,Vicia unijuga,native,NA,herbaceous,ridge_summit
+Gentianaceae,Swertia scabra,native,N,herbaceous,ridge_summit
+Woodsiaceae,Woodsia polystichoides,native,N,herbaceous,upper_slope
+Valerianaceae,Valeriana fauriei,native,N,herbaceous,upper_slope
+Scrophulariaceae,Melampyrum roseum,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum perfoliatum,native,N,herbaceous,ridge_summit
+Lamiaceae,Isodon japonicus,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex curaica,native,N,herbaceous,ridge_summit
+Hyacinthaceae,Scilla scilloides,native,N,herbaceous,ridge_summit
+Violaceae,Viola japonica,native,N,herbaceous,lower_slope
+Asteraceae,Ixeridium dentatum,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum perfoliatum,native,N,herbaceous,lower_slope
+Liliaceae,Allium thunbergii,native,N,herbaceous,lower_slope
+Asteraceae,Erechtites hieraciifolius,exotic,N,herbaceous,lower_slope
+Poaceae,Arthraxon hispidus,native,N,herbaceous,lower_slope
+Liliaceae,Asparagus cochinchinensis,native,N,herbaceous,lower_slope
+Dryopteridaceae,Polystichum braunii,native,N,herbaceous,lower_slope
+Thelypteridaceae,Thelypteris japonica var. glabrata,native,N,herbaceous,lower_slope
+Thelypteridaceae,Phegopteris connectilis,native,N,herbaceous,valley_flatland
+Brassicaceae,Cardamine flexuosa,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Polystichum ovato-paleaceum var. coraiense,native,N,herbaceous,valley_flatland
+Athyriaceae,Athyrium sinense,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris chinensis,native,N,herbaceous,ridge_summit
+Thelypteridaceae,Phegopteris connectilis,native,N,herbaceous,lower_slope
+Caryophyllaceae,Stellaria alsine var. undulata,native,N,herbaceous,lower_slope
+Campanulaceae,Adenophora polyantha,native,N,herbaceous,lower_slope
+Selaginellaceae,Selaginella involvens,native,N,herbaceous,lower_slope
+Rosaceae,Sanguisorba hakusanensis,native,N,herbaceous,lower_slope
+Asteraceae,Serratula coronata subsp. insularis,native,N,herbaceous,lower_slope
+Cyperaceae,Carex aphanolepis,native,N,herbaceous,upper_slope
+Apiaceae,Angelica polymorpha,native,N,herbaceous,lower_slope
+Selaginellaceae,Selaginella involvens,native,N,herbaceous,upper_slope
+Asteraceae,Lactuca raddeana,native,N,herbaceous,valley_flatland
+Lamiaceae,Agastache rugosa,native,N,herbaceous,valley_flatland
+Rubiaceae,Asperula odorata,native,N,herbaceous,upper_slope
+Liliaceae,Asparagus cochinchinensis,native,N,herbaceous,ridge_summit
+Asteraceae,Lactuca raddeana,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium kinuta,native,N,herbaceous,lower_slope
+Asteraceae,Taraxacum platycarpum,native,N,herbaceous,valley_flatland
+Poaceae,Festuca ovina,native,N,herbaceous,valley_flatland
+Brassicaceae,Cardamine amariformis,native,N,herbaceous,upper_slope
+Pyrolaceae,Chimaphila japonica,native,N,herbaceous,ridge_summit
+Asteraceae,Coreopsis alternifolia,exotic,N,herbaceous,lower_slope
+Ophioglossaceae,Botrychium robustum,native,N,herbaceous,upper_slope
+Brassicaceae,Cardamine komarovii,native,N,herbaceous,upper_slope
+Juncaceae,Juncus effusus var. decipiens,native,N,herbaceous,valley_flatland
+Thelypteridaceae,Thelypteris palustris,native,N,herbaceous,valley_flatland
+Poaceae,Miscanthus sacchariflorus,native,N,herbaceous,lower_slope
+Poaceae,Miscanthus sacchariflorus,native,N,herbaceous,upper_slope
+Aizoaceae,Tetragonia tetragonoides,native,N,herbaceous,upper_slope
+Liliaceae,Tulipa edulis,native,N,herbaceous,upper_slope
+Davalliaceae,Davallia mariesii,native,N,herbaceous,ridge_summit
+Convallariaceae,Smilacina japonica,native,N,herbaceous,ridge_summit
+Ranunculaceae,Hepatica asiatica,native,N,herbaceous,ridge_summit
+Cucurbitaceae,Trichosanthes kirilowii,native,N,herbaceous,upper_slope
+Asteraceae,Conyza canadensis,exotic,N,herbaceous,ridge_summit
+Asteraceae,Crassocephalum crepidioides,exotic,N,herbaceous,lower_slope
+Rubiaceae,Galium trachyspermum,native,N,herbaceous,valley_flatland
+Fabaceae,Glycine soja,native,N,herbaceous,valley_flatland
+Asteraceae,Ligularia fischeri,native,N,herbaceous,valley_flatland
+Rubiaceae,Galium dahuricum,native,N,herbaceous,valley_flatland
+Plagiogyriaceae,Plagiogyria euphlebia,native,N,herbaceous,ridge_summit
+Polygonaceae,Polygonum dissitiflorum,native,N,herbaceous,valley_flatland
+Ranunculaceae,Thalictrum filamentosum,native,N,herbaceous,valley_flatland
+Liliaceae,Veratrum nigrum var. japonicum,native,N,herbaceous,ridge_summit
+Asteraceae,Aster ageratoides,native,N,herbaceous,ridge_summit
+Liliaceae,Hosta minor,native,N,herbaceous,upper_slope
+Apiaceae,Oenanthe javanica,native,N,herbaceous,upper_slope
+Poaceae,Melica onoei,native,N,herbaceous,ridge_summit
+Asteraceae,Eupatorium rugosum,exotic,Y,herbaceous,lower_slope
+Clusiaceae,Hypericum erectum,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Dryopteris crassirhizoma,native,N,herbaceous,upper_slope
+Liliaceae,Paris verticillata,native,N,herbaceous,ridge_summit
+Brassicaceae,Capsella bursa-pastoris,native,N,herbaceous,ridge_summit
+Balsaminaceae,Impatiens textori,native,N,herbaceous,ridge_summit
+Asteraceae,Cacalia auriculata var. matsumurana,native,N,herbaceous,ridge_summit
+Violaceae,Viola rossii,native,N,herbaceous,ridge_summit
+Asteraceae,Synurus deltoides,native,N,herbaceous,lower_slope
+Juncaceae,Juncus effusus var. decipiens,native,N,herbaceous,lower_slope
+Scrophulariaceae,Pedicularis resupinata,native,N,herbaceous,lower_slope
+Asteraceae,Parasenecio firmus,native,N,herbaceous,lower_slope
+Poaceae,Pennisetum alopecuroides,native,N,herbaceous,lower_slope
+Solanaceae,Solanum nigrum,exotic,N,herbaceous,lower_slope
+Apiaceae,Heracleum moellendorffii,native,N,herbaceous,lower_slope
+Fumariaceae,Corydalis ochotensis,native,N,herbaceous,lower_slope
+Caryophyllaceae,Stellaria media,exotic,N,herbaceous,lower_slope
+Asteraceae,Galinsoga parviflora,exotic,N,herbaceous,lower_slope
+Fumariaceae,Corydalis pallida,native,N,herbaceous,upper_slope
+Poaceae,Beckmannia syzigachne,native,N,herbaceous,upper_slope
+Asteraceae,Galinsoga quadriradiata,exotic,N,herbaceous,upper_slope
+Asteraceae,Artemisia capillaris,native,N,herbaceous,upper_slope
+Asteraceae,Carduus crispus,exotic,N,herbaceous,upper_slope
+Brassicaceae,Rorippa indica,native,N,herbaceous,ridge_summit
+Asteraceae,Ambrosia artemisiifolia,exotic,Y,herbaceous,ridge_summit
+Polygonaceae,Polygonum longisetum,native,N,herbaceous,ridge_summit
+Apocynaceae,Cynanchum ascyrifolium,native,N,herbaceous,ridge_summit
+Liliaceae,Lilium concolor var. pulchellum,native,N,herbaceous,ridge_summit
+Asteraceae,Eupatorium rugosum,exotic,Y,herbaceous,ridge_summit
+Fabaceae,Trifolium repens,exotic,N,herbaceous,upper_slope
+Rubiaceae,Galium kamtschaticum,native,N,herbaceous,upper_slope
+Campanulaceae,Adenophora remotiflora,native,N,herbaceous,valley_flatland
+Liliaceae,Erythronium japonicum,native,N,herbaceous,valley_flatland
+Lamiaceae,Phlomis umbrosa,native,N,herbaceous,upper_slope
+Poaceae,Bromus remotiflorus,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex japonica,native,N,herbaceous,valley_flatland
+Cucurbitaceae,Trichosanthes kirilowii,native,N,herbaceous,lower_slope
+Brassicaceae,Sisymbrium luteum,native,N,herbaceous,upper_slope
+Ranunculaceae,Cimicifuga dahurica,native,N,herbaceous,lower_slope
+Poaceae,Bromus remotiflorus,native,N,herbaceous,upper_slope
+Polygonaceae,Rumex crispus,exotic,N,herbaceous,valley_flatland
+Asteraceae,Taraxacum officinale,exotic,N,herbaceous,valley_flatland
+Asteraceae,Dendranthema indicum,native,N,herbaceous,valley_flatland
+Asteraceae,Artemisia annua,native,N,herbaceous,upper_slope
+Asteraceae,Senecio vulgaris,exotic,N,herbaceous,valley_flatland
+Brassicaceae,Lepidium apetalum,exotic,N,herbaceous,valley_flatland
+Lamiaceae,Prunella asiatica,native,N,herbaceous,upper_slope
+Clusiaceae,Hypericum ascyron,native,N,herbaceous,valley_flatland
+Dennstaedtiaceae,Sphenomeris chinensis,native,N,herbaceous,upper_slope
+Crassulaceae,Sedum polytrichoides,native,N,herbaceous,ridge_summit
+Poaceae,Calamagrostis langsdorffii,native,N,herbaceous,valley_flatland
+Asteraceae,Aster koraiensis,native,N,herbaceous,lower_slope
+Cucurbitaceae,Sicyos angulatus,exotic,Y,herbaceous,upper_slope
+Brassicaceae,Arabis glabra,native,N,herbaceous,upper_slope
+Equisetaceae,Equisetum arvense,native,N,herbaceous,ridge_summit
+Polygonaceae,Polygonum sagittatum,native,N,herbaceous,ridge_summit
+Poaceae,Dactylis glomerata,exotic,N,herbaceous,ridge_summit
+Plantaginaceae,Plantago asiatica,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia japonica,native,N,herbaceous,ridge_summit
+Asteraceae,Ixeris polycephala,native,N,herbaceous,ridge_summit
+Poaceae,Bromus rigidus,exotic,N,herbaceous,ridge_summit
+Rosaceae,Potentilla anemonifolia,native,N,herbaceous,ridge_summit
+Poaceae,Bromus rigidus,exotic,N,herbaceous,upper_slope
+Apiaceae,Torilis japonica,native,N,herbaceous,upper_slope
+Asteraceae,Cirsium pendulum,native,N,herbaceous,upper_slope
+Crassulaceae,Sedum middendorffianum,native,N,herbaceous,upper_slope
+Poaceae,Bromus canadensis subsp. yezoensis,native,N,herbaceous,upper_slope
+Cyperaceae,Carex leiorhyncha,native,N,herbaceous,upper_slope
+Rosaceae,Geum aleppicum,native,N,herbaceous,upper_slope
+Rosaceae,Potentilla chinensis,native,N,herbaceous,upper_slope
+Woodsiaceae,Woodsia polystichoides,native,N,herbaceous,ridge_summit
+Thelypteridaceae,Phegopteris decursive-pinnata,native,N,herbaceous,ridge_summit
+Aspleniaceae,Asplenium incisum,native,N,herbaceous,ridge_summit
+Pteridaceae,Cheilanthes argentea,native,N,herbaceous,ridge_summit
+Asteraceae,Conyza bonariensis,exotic,N,herbaceous,valley_flatland
+Asteraceae,Lactuca indica var. laciniata,native,N,herbaceous,valley_flatland
+Asteraceae,Aster meyendorffii,native,N,herbaceous,upper_slope
+Cucurbitaceae,Sicyos angulatus,exotic,Y,herbaceous,lower_slope
+Asteraceae,Bidens pilosa,exotic,N,herbaceous,lower_slope
+Poaceae,Sasa japonica,native,N,herbaceous,ridge_summit
+Chenopodiaceae,Chenopodium ficifolium,exotic,N,herbaceous,ridge_summit
+Asteraceae,Sigesbeckia glabrescens,native,N,herbaceous,upper_slope
+Poaceae,Echinochloa crus-galli,native,N,herbaceous,upper_slope
+Oxalidaceae,Oxalis corniculata,exotic,N,herbaceous,upper_slope
+Solanaceae,Solanum nigrum,exotic,N,herbaceous,upper_slope
+Asteraceae,Bidens parviflora,native,N,herbaceous,upper_slope
+Liliaceae,Disporum uniflorum,native,N,herbaceous,upper_slope
+Urticaceae,Pilea mongolica,native,N,herbaceous,lower_slope
+Asteraceae,Sigesbeckia glabrescens,native,N,herbaceous,lower_slope
+Liliaceae,Hemerocallis dumortieri,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex dispalata,native,N,herbaceous,lower_slope
+Liliaceae,Polygonatum stenophyllum,native,N,herbaceous,lower_slope
+Brassicaceae,Cardamine leucantha,native,N,herbaceous,lower_slope
+Apiaceae,Anthriscus sylvestris,native,N,herbaceous,lower_slope
+Onocleaceae,Matteuccia struthiopteris,native,N,herbaceous,lower_slope
+Poaceae,Bromus japonicus,native,N,herbaceous,lower_slope
+Liliaceae,Polygonatum involucratum,native,N,herbaceous,lower_slope
+Asteraceae,Dendranthema zawadskii,native,N,herbaceous,lower_slope
+Asteraceae,Aster tataricus,native,N,herbaceous,lower_slope
+Lamiaceae,Salvia chanroenica,native,N,herbaceous,lower_slope
+Ranunculaceae,Aconitum coreanum,native,N,herbaceous,upper_slope
+Asteraceae,Echinops setifer,native,N,herbaceous,upper_slope
+Lamiaceae,Leonurus macranthus,native,N,herbaceous,lower_slope
+Rosaceae,Geum aleppicum,native,N,herbaceous,lower_slope
+Ranunculaceae,Aconitum coreanum,native,N,herbaceous,lower_slope
+Apiaceae,Pimpinella komarovii,native,N,herbaceous,upper_slope
+Crassulaceae,Sedum polytrichoides,native,N,herbaceous,lower_slope
+Commelinaceae,Commelina coreana,native,N,herbaceous,lower_slope
+Dipsacaceae,Scabiosa tschiliensis,native,N,herbaceous,lower_slope
+Apocynaceae,Marsdenia tomentosa,native,N,herbaceous,upper_slope
+Ranunculaceae,Thalictrum ichangense,native,N,herbaceous,lower_slope
+Aspleniaceae,Asplenium ruprechtii,native,N,herbaceous,lower_slope
+Euphorbiaceae,Euphorbia pekinensis,native,N,herbaceous,upper_slope
+Fabaceae,Vicia nipponica,native,N,herbaceous,upper_slope
+Rubiaceae,Galium kinuta,native,N,herbaceous,upper_slope
+Solanaceae,Solanum americanum,exotic,N,herbaceous,lower_slope
+Chenopodiaceae,Chenopodium album,exotic,N,herbaceous,lower_slope
+Asteraceae,Ambrosia trifida,exotic,Y,herbaceous,lower_slope
+Apiaceae,Peucedanum insolens,native,N,herbaceous,upper_slope
+Euphorbiaceae,Acalypha australis,native,N,herbaceous,lower_slope
+Scrophulariaceae,Phtheirospermum japonicum,native,N,herbaceous,lower_slope
+Lamiaceae,Elsholtzia ciliata,native,N,herbaceous,upper_slope
+Urticaceae,Pilea japonica,native,N,herbaceous,upper_slope
+Asteraceae,Saussurea gracilis,native,N,herbaceous,upper_slope
+Araliaceae,Aralia cordata var. continentalis,native,N,herbaceous,upper_slope
+Juncaceae,Luzula capitata,native,N,herbaceous,lower_slope
+Urticaceae,Pilea japonica,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris crassirhizoma,native,N,herbaceous,valley_flatland
+Asteraceae,Aster tataricus,native,N,herbaceous,upper_slope
+Asteraceae,Cirsium setidens,native,N,herbaceous,upper_slope
+Caryophyllaceae,Pseudostellaria heterophylla,native,N,herbaceous,valley_flatland
+Ranunculaceae,Aconitum villosum,native,N,herbaceous,upper_slope
+Liliaceae,Disporum smilacinum,native,N,herbaceous,NA
+Asteraceae,Ainsliaea acerifolia,native,N,herbaceous,NA
+Cyperaceae,Carex siderosticta,native,N,herbaceous,NA
+Asteraceae,Aster scaber,native,N,herbaceous,NA
+Poaceae,Moliniopsis japonica,native,N,herbaceous,ridge_summit
+Ranunculaceae,Cimicifuga heracleifolia,native,N,herbaceous,upper_slope
+Lamiaceae,Meehania urticifolia,native,N,herbaceous,ridge_summit
+Asteraceae,Crassocephalum crepidioides,exotic,N,herbaceous,upper_slope
+Liliaceae,Disporum viridescens,native,N,herbaceous,lower_slope
+Fumariaceae,Corydalis speciosa,native,N,herbaceous,valley_flatland
+Asteraceae,Ligularia jaluensis,native,N,herbaceous,valley_flatland
+Saxifragaceae,Astilbe koreana,native,N,herbaceous,valley_flatland
+Ranunculaceae,Actaea asiatica,native,N,herbaceous,valley_flatland
+Lamiaceae,Lycopus lucidus,native,N,herbaceous,lower_slope
+Araceae,Pinellia ternata,native,N,herbaceous,lower_slope
+Saxifragaceae,Mukdenia rossii,native,N,herbaceous,valley_flatland
+Asteraceae,Solidago virgaurea subsp. asiatica,native,N,herbaceous,valley_flatland
+Valerianaceae,Patrinia villosa,native,N,herbaceous,valley_flatland
+Liliaceae,Heloniopsis koreana,native,N,herbaceous,valley_flatland
+Boraginaceae,Brachybotrys paridiformis,native,N,herbaceous,valley_flatland
+Apiaceae,Torilis japonica,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex dispalata,native,N,herbaceous,valley_flatland
+Fabaceae,Vicia anguste-pinnata,native,N,herbaceous,valley_flatland
+Apiaceae,Osmorhiza aristata,native,N,herbaceous,valley_flatland
+Apiaceae,Osmorhiza aristata,native,N,herbaceous,lower_slope
+Fumariaceae,Corydalis ternata,native,N,herbaceous,lower_slope
+Araceae,Arisaema amurense,native,N,herbaceous,lower_slope
+Lamiaceae,Lamium album var. barbatum,native,N,herbaceous,lower_slope
+Araceae,Arisaema amurense,native,N,herbaceous,upper_slope
+Apiaceae,Angelica decursiva,native,N,herbaceous,lower_slope
+Apiaceae,Osmorhiza aristata,native,N,herbaceous,ridge_summit
+Lamiaceae,Lamium album var. barbatum,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Cyrtomium fortunei,native,N,herbaceous,ridge_summit
+Araceae,Arisaema amurense,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Leptorumohra miqueliana,native,N,herbaceous,ridge_summit
+Asteraceae,Hemistepta lyrata,native,N,herbaceous,valley_flatland
+Poaceae,Phyllostachys nigra var. henonis,native,N,herbaceous,valley_flatland
+Lamiaceae,Lamium amplexicaule,native,N,herbaceous,valley_flatland
+Brassicaceae,Capsella bursa-pastoris,native,N,herbaceous,valley_flatland
+Chenopodiaceae,Chenopodium album var. centrorubrum,native,N,herbaceous,valley_flatland
+Apiaceae,Hydrocotyle sibthorpioides,native,N,herbaceous,lower_slope
+Poaceae,Bromus tectorum,exotic,N,herbaceous,lower_slope
+Poaceae,Lolium multiflorum,exotic,N,herbaceous,lower_slope
+Fabaceae,Trifolium repens,exotic,N,herbaceous,lower_slope
+Chenopodiaceae,Chenopodium album var. centrorubrum,native,N,herbaceous,lower_slope
+Orchidaceae,Spiranthes sinensis,native,N,herbaceous,lower_slope
+Poaceae,Echinochloa utilis,native,N,herbaceous,lower_slope
+Asteraceae,Xanthium strumarium,exotic,N,herbaceous,lower_slope
+Poaceae,Imperata cylindrica var. koenigii,native,N,herbaceous,valley_flatland
+Poaceae,Imperata cylindrica var. koenigii,native,N,herbaceous,lower_slope
+Poaceae,Bromus unioloides,exotic,N,herbaceous,lower_slope
+Nephrolepidaceae,Nephrolepis cordifolia,native,N,herbaceous,lower_slope
+Liliaceae,Asparagus cochinchinensis,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex japonica,native,N,herbaceous,upper_slope
+Liliaceae,Tricyrtis macropoda,native,N,herbaceous,upper_slope
+Dryopteridaceae,Leptorumohra miqueliana,native,N,herbaceous,upper_slope
+Primulaceae,Lysimachia davurica,native,N,herbaceous,upper_slope
+Violaceae,Viola lactiflora,native,N,herbaceous,lower_slope
+Fabaceae,Vicia venosa var. cuspidata,native,NA,herbaceous,ridge_summit
+Violaceae,Viola variegata,native,N,herbaceous,ridge_summit
+Orchidaceae,Cephalanthera erecta,native,N,herbaceous,ridge_summit
+Ranunculaceae,Thalictrum rochebruneanum var. grandisepalum,native,N,herbaceous,ridge_summit
+Campanulaceae,Codonopsis lanceolata,native,N,herbaceous,ridge_summit
+Valerianaceae,Patrinia villosa,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium kinuta,native,N,herbaceous,ridge_summit
+Liliaceae,Hemerocallis hakuunensis,native,N,herbaceous,ridge_summit
+Asteraceae,Dendranthema zawadskii,native,N,herbaceous,ridge_summit
+Araceae,Arisaema peninsulae,native,N,herbaceous,ridge_summit
+Ranunculaceae,Thalictrum rochebruneanum var. grandisepalum,native,N,herbaceous,lower_slope
+Polygonaceae,Fallopia dentatoalata,native,N,herbaceous,valley_flatland
+Asteraceae,Dendranthema zawadskii,native,N,herbaceous,valley_flatland
+Poaceae,Microstegium japonicum,native,N,herbaceous,upper_slope
+Rosaceae,Sanguisorba officinalis,native,N,herbaceous,valley_flatland
+Ranunculaceae,Thalictrum actaeifolium var. brevistylum,native,N,herbaceous,ridge_summit
+Liliaceae,Hosta capitata,native,N,herbaceous,lower_slope
+Clusiaceae,Hypericum erectum,native,N,herbaceous,valley_flatland
+Fabaceae,Vicia nipponica,native,N,herbaceous,lower_slope
+Brassicaceae,Cardamine leucantha,native,N,herbaceous,upper_slope
+Onocleaceae,Matteuccia struthiopteris,native,N,herbaceous,upper_slope
+Boraginaceae,Trigonotis radicans var. sericea,native,N,herbaceous,upper_slope
+Asteraceae,Scorzonera albicaulis,native,N,herbaceous,upper_slope
+Woodsiaceae,Woodsia manchuriensis,native,N,herbaceous,upper_slope
+Poaceae,Zoysia japonica,native,N,herbaceous,valley_flatland
+Amaranthaceae,Amaranthus lividus,exotic,N,herbaceous,upper_slope
+Aspleniaceae,Asplenium ruprechtii,native,N,herbaceous,upper_slope
+Selaginellaceae,Selaginella tamariscina,native,N,herbaceous,upper_slope
+Ranunculaceae,Aconitum austrokoreense,native,N,herbaceous,upper_slope
+Aspleniaceae,Asplenium pekinense,native,N,herbaceous,upper_slope
+Urticaceae,Pilea mongolica,native,N,herbaceous,upper_slope
+Fabaceae,Vigna angularis var. nipponensis,native,N,herbaceous,valley_flatland
+Urticaceae,Boehmeria longispica,native,N,herbaceous,valley_flatland
+Cyperaceae,Scirpus karuisawensis,native,N,herbaceous,valley_flatland
+Lamiaceae,Nepeta cataria,native,N,herbaceous,valley_flatland
+Ranunculaceae,Aconitum longecassidatum,native,N,herbaceous,valley_flatland
+Apiaceae,Oenanthe javanica,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris uniformis,native,N,herbaceous,lower_slope
+Ranunculaceae,Thalictrum aquilegiifolium var. sibiricum,native,N,herbaceous,ridge_summit
+Euphorbiaceae,Euphorbia sieboldiana,native,N,herbaceous,ridge_summit
+Euphorbiaceae,Euphorbia sieboldiana,native,N,herbaceous,upper_slope
+Convolvulaceae,Calystegia hederacea,native,N,herbaceous,upper_slope
+Geraniaceae,Geranium sibiricum,native,N,herbaceous,lower_slope
+Urticaceae,Pilea peploides,native,N,herbaceous,lower_slope
+Apiaceae,Oenanthe javanica,native,N,herbaceous,lower_slope
+Rubiaceae,Rubia pubescens,native,N,herbaceous,lower_slope
+Ranunculaceae,Aconitum jaluense,native,N,herbaceous,lower_slope
+Convolvulaceae,Cuscuta japonica,native,N,herbaceous,lower_slope
+Asteraceae,Aster tataricus,native,N,herbaceous,ridge_summit
+Equisetaceae,Equisetum hyemale,native,N,herbaceous,upper_slope
+Rubiaceae,Galium paradoxum,native,N,herbaceous,upper_slope
+Rosaceae,Agrimonia coreana,native,N,herbaceous,upper_slope
+Scrophulariaceae,Scrophularia kakudensis,native,N,herbaceous,upper_slope
+Saxifragaceae,Astilbe koreana,native,N,herbaceous,upper_slope
+Urticaceae,Urtica angustifolia,native,N,herbaceous,upper_slope
+Boraginaceae,Brachybotrys paridiformis,native,N,herbaceous,upper_slope
+Asteraceae,Saussurea seoulensis,native,N,herbaceous,lower_slope
+Asteraceae,Cacalia auriculata var. matsumurana,native,N,herbaceous,upper_slope
+Violaceae,Viola albida,native,N,herbaceous,lower_slope
+Asteraceae,Parasenecio auriculatus,native,N,herbaceous,upper_slope
+Liliaceae,Allium microdictyon,native,N,herbaceous,lower_slope
+Araceae,Symplocarpus renifolius,native,N,herbaceous,lower_slope
+Araceae,Symplocarpus renifolius,native,N,herbaceous,upper_slope
+Asteraceae,Parasenecio auriculatus,native,N,herbaceous,lower_slope
+Poaceae,Paspalum dilatatum,exotic,N,herbaceous,valley_flatland
+Asteraceae,Saussurea grandifolia,native,N,herbaceous,lower_slope
+Orchidaceae,Oreorchis patens,native,N,herbaceous,valley_flatland
+Poaceae,Paspalum thunbergii,native,N,herbaceous,lower_slope
+Poaceae,Paspalum dilatatum,exotic,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris lacera,native,NA,herbaceous,ridge_summit
+Asteraceae,Saussurea gracilis,native,N,herbaceous,ridge_summit
+Apiaceae,Cymopterus melanotilingia,native,N,herbaceous,ridge_summit
+Violaceae,Viola ovato-oblonga,native,N,herbaceous,upper_slope
+Poaceae,Festuca ovina,native,N,herbaceous,ridge_summit
+Polypodiaceae,Lepisorus thunbergianus,native,N,herbaceous,ridge_summit
+Apiaceae,Sanicula tuberculata,native,N,herbaceous,valley_flatland
+Asteraceae,Aster yomena,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum longisetum,native,N,herbaceous,valley_flatland
+Asteraceae,Sigesbeckia glabrescens,native,N,herbaceous,valley_flatland
+Rosaceae,Geum japonicum,native,N,herbaceous,valley_flatland
+Pyrolaceae,Monotropa uniflora,native,N,herbaceous,lower_slope
+Asteraceae,Conyza bonariensis,exotic,N,herbaceous,ridge_summit
+Poaceae,Themeda triandra subsp. japonica,native,N,herbaceous,ridge_summit
+Valerianaceae,Valeriana fauriei,native,N,herbaceous,lower_slope
+Ranunculaceae,Aconitum pseudolaeve,native,N,herbaceous,lower_slope
+Boraginaceae,Lithospermum erythrorhizon,native,N,herbaceous,lower_slope
+Euphorbiaceae,Euphorbia pekinensis,native,N,herbaceous,lower_slope
+Apiaceae,Peucedanum insolens,native,N,herbaceous,lower_slope
+Orchidaceae,Platanthera chlorantha subsp. orientalis,native,N,herbaceous,lower_slope
+Rosaceae,Aruncus dioicus var. kamtschaticus,native,N,herbaceous,upper_slope
+Apiaceae,Bupleurum falcatum,native,N,herbaceous,upper_slope
+Asteraceae,Artemisia annua,native,N,herbaceous,lower_slope
+Ranunculaceae,Thalictrum aquilegiifolium var. sibiricum,native,N,herbaceous,valley_flatland
+Rubiaceae,Galium dahuricum,native,N,herbaceous,ridge_summit
+Woodsiaceae,Woodsia manchuriensis,native,N,herbaceous,ridge_summit
+Aspleniaceae,Asplenium ruprechtii,native,N,herbaceous,ridge_summit
+Fabaceae,Vicia amoena,native,NA,herbaceous,ridge_summit
+Fabaceae,Lathyrus davidii,native,N,herbaceous,ridge_summit
+Liliaceae,Lilium amabile,native,N,herbaceous,ridge_summit
+Rosaceae,Aruncus dioicus var. kamtschaticus,native,N,herbaceous,ridge_summit
+Rosaceae,Aruncus dioicus var. kamtschaticus,native,N,herbaceous,lower_slope
+Dennstaedtiaceae,Dennstaedtia wilfordii,native,N,herbaceous,lower_slope
+Rubiaceae,Galium dahuricum,native,N,herbaceous,lower_slope
+Asteraceae,Aster koraiensis,native,N,herbaceous,upper_slope
+Thelypteridaceae,Metathelypteris laxa,native,N,herbaceous,upper_slope
+Thelypteridaceae,Thelypteris glanduligera,native,N,herbaceous,upper_slope
+Cyperaceae,Carex tristachya,native,N,herbaceous,lower_slope
+Urticaceae,Urtica thunbergiana,native,N,herbaceous,valley_flatland
+Ranunculaceae,Aconitum kusnezoffii,native,N,herbaceous,upper_slope
+Orchidaceae,Cremastra appendiculata,native,N,herbaceous,upper_slope
+Ranunculaceae,Cimicifuga simplex,native,N,herbaceous,upper_slope
+Fumariaceae,Corydalis ternata,native,N,herbaceous,upper_slope
+Fumariaceae,Corydalis incisa,native,N,herbaceous,upper_slope
+Rubiaceae,Rubia hexaphylla,native,N,herbaceous,upper_slope
+Poaceae,Diarrhena fauriei,native,N,herbaceous,upper_slope
+Liliaceae,Lilium leichtlinii var. maximowiczii,native,NA,herbaceous,ridge_summit
+Caryophyllaceae,Lychnis cognata,native,N,herbaceous,upper_slope
+Liliaceae,Streptopus ovalis,native,N,herbaceous,upper_slope
+Fabaceae,Desmodium podocarpum subsp. oxyphyllum,native,N,herbaceous,ridge_summit
+Orchidaceae,Epipactis papillosa,native,N,herbaceous,ridge_summit
+Rubiaceae,Rubia hexaphylla,native,N,herbaceous,ridge_summit
+Asteraceae,Bidens bipinnata,native,N,herbaceous,valley_flatland
+Orchidaceae,Cephalanthera longibracteata,native,N,herbaceous,valley_flatland
+Poaceae,Eulalia speciosa,native,N,herbaceous,lower_slope
+Poaceae,Panicum bisulcatum,native,N,herbaceous,lower_slope
+Poaceae,Isachne globosa,native,N,herbaceous,lower_slope
+Asteraceae,Crepidiastrixeris denticulato-platyphylla,native,N,herbaceous,lower_slope
+Gentianaceae,Swertia pseudochensis,native,N,herbaceous,lower_slope
+Saxifragaceae,Parnassia palustris var. multiseta,native,N,herbaceous,lower_slope
+Fabaceae,Desmodium podocarpum,native,N,herbaceous,lower_slope
+Cyperaceae,Carex polyschoena,native,N,herbaceous,lower_slope
+Cyperaceae,Carex polyschoena,native,N,herbaceous,upper_slope
+Scrophulariaceae,Melampyrum setaceum,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum viscoferum,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum japonicum,native,N,herbaceous,upper_slope
+Poaceae,Stipa pekinensis,native,N,herbaceous,lower_slope
+Asteraceae,Sonchus oleraceus,exotic,N,herbaceous,upper_slope
+Liliaceae,Hemerocallis hakuunensis,native,N,herbaceous,valley_flatland
+Liliaceae,Polygonatum lasianthum,native,N,herbaceous,valley_flatland
+Asteraceae,Saussurea pulchella,native,N,herbaceous,lower_slope
+Gentianaceae,Swertia scabra,native,N,herbaceous,lower_slope
+Poaceae,Diarrhena mandshurica,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex gifuensis,native,N,herbaceous,valley_flatland
+Lamiaceae,Teucrium viscidum var. miquelianum,native,N,herbaceous,valley_flatland
+Rubiaceae,Asperula maximowiczii,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex polyschoena,native,N,herbaceous,valley_flatland
+Liliaceae,Veratrum nigrum var. japonicum,native,N,herbaceous,valley_flatland
+Apiaceae,Pimpinella brachycarpa,native,N,herbaceous,valley_flatland
+Lamiaceae,Phlomis umbrosa,native,N,herbaceous,valley_flatland
+Violaceae,Viola keiskei,native,N,herbaceous,valley_flatland
+Fumariaceae,Corydalis ochotensis,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Cucubalus baccifer var. japonicus,native,N,herbaceous,valley_flatland
+Rubiaceae,Galium kinuta,native,N,herbaceous,valley_flatland
+Rubiaceae,Rubia chinensis,native,N,herbaceous,valley_flatland
+Juncaceae,Luzula capitata,native,N,herbaceous,upper_slope
+Caryophyllaceae,Pseudostellaria coreana,native,N,herbaceous,ridge_summit
+Liliaceae,Disporum viridescens,native,N,herbaceous,ridge_summit
+Liliaceae,Hosta capitata,native,N,herbaceous,ridge_summit
+Liliaceae,Hemerocallis minor,native,N,herbaceous,ridge_summit
+Asteraceae,Leibnitzia anandria,native,N,herbaceous,ridge_summit
+Lamiaceae,Mosla dianthera,native,N,herbaceous,lower_slope
+Dennstaedtiaceae,Pteridium aquilinum subsp. latiusculum,native,N,herbaceous,lower_slope
+Dennstaedtiaceae,Pteridium aquilinum subsp. latiusculum,native,N,herbaceous,ridge_summit
+Dennstaedtiaceae,Pteridium aquilinum subsp. latiusculum,native,N,herbaceous,upper_slope
+Scrophulariaceae,Pedicularis resupinata,native,N,herbaceous,upper_slope
+Araliaceae,Aralia cordata,native,N,herbaceous,upper_slope
+Rubiaceae,Asperula lasiantha,native,N,herbaceous,upper_slope
+Gentianaceae,Swertia japonica,native,N,herbaceous,upper_slope
+Violaceae,Viola albida,native,N,herbaceous,valley_flatland
+Liliaceae,Ophiopogon jaburan,native,N,herbaceous,lower_slope
+Aspleniaceae,Asplenium pekinense,native,N,herbaceous,lower_slope
+Pteridaceae,Cheilanthes argentea,native,N,herbaceous,upper_slope
+Violaceae,Viola albida f. takahashii,native,N,herbaceous,upper_slope
+Liliaceae,Ophiopogon jaburan,native,N,herbaceous,valley_flatland
+Crassulaceae,Hylotelephium erythrostictum,native,N,herbaceous,upper_slope
+Rosaceae,Geum japonicum,native,N,herbaceous,upper_slope
+Asteraceae,Parasenecio auriculatus var. matsumurana,native,N,herbaceous,upper_slope
+Liliaceae,Lilium callosum,native,N,herbaceous,upper_slope
+Apocynaceae,Cynanchum atratum,native,N,herbaceous,upper_slope
+Apiaceae,Angelica decursiva,native,N,herbaceous,valley_flatland
+Violaceae,Viola albida f. takahashii,native,N,herbaceous,lower_slope
+Boraginaceae,Lithospermum erythrorhizon,native,N,herbaceous,ridge_summit
+Lygodiaceae,Lygodium japonicum,native,N,herbaceous,ridge_summit
+Orchidaceae,Bletilla striata,native,N,herbaceous,upper_slope
+Liliaceae,Liriope spicata,native,N,herbaceous,ridge_summit
+Boraginaceae,Lithospermum zollingeri,native,N,herbaceous,upper_slope
+Fumariaceae,Corydalis pallida,native,N,herbaceous,valley_flatland
+Lygodiaceae,Lygodium japonicum,native,N,herbaceous,valley_flatland
+Boraginaceae,Lithospermum zollingeri,native,N,herbaceous,lower_slope
+Fabaceae,Desmodium oldhamii,native,N,herbaceous,lower_slope
+Orchidaceae,Bletilla striata,native,N,herbaceous,lower_slope
+Orchidaceae,Calanthe discolor,native,N,herbaceous,ridge_summit
+Violaceae,Viola keiskei,native,N,herbaceous,ridge_summit
+Athyriaceae,Athyrium sinense,native,N,herbaceous,ridge_summit
+Onocleaceae,Onoclea sensibilis,native,N,herbaceous,ridge_summit
+Ranunculaceae,Cimicifuga heracleifolia var. bifida,native,N,herbaceous,ridge_summit
+Asteraceae,Farfugium japonicum,native,N,herbaceous,lower_slope
+Balsaminaceae,Impatiens noli-tangere,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum posumbu,native,N,herbaceous,lower_slope
+Urticaceae,Urtica thunbergiana,native,N,herbaceous,lower_slope
+Asteraceae,Breea segetum,native,N,herbaceous,lower_slope
+Iridaceae,Iris sanguinea,native,N,herbaceous,ridge_summit
+Caryophyllaceae,Stellaria alsine var. undulata,native,N,herbaceous,upper_slope
+Poaceae,Poa sphondylodes,native,N,herbaceous,lower_slope
+Asteraceae,Ixeris chinensis subsp. strigosa,native,N,herbaceous,ridge_summit
+Selaginellaceae,Selaginella tamariscina,native,N,herbaceous,lower_slope
+Berberidaceae,Caulophyllum robustum,native,N,herbaceous,valley_flatland
+Primulaceae,Lysimachia japonica,native,N,herbaceous,upper_slope
+Iridaceae,Iris ruthenica var. nana,native,N,herbaceous,upper_slope
+Geraniaceae,Geranium thunbergii,native,N,herbaceous,lower_slope
+Poaceae,Eragrostis multicaulis,native,N,herbaceous,upper_slope
+Juncaceae,Luzula capitata,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea tenuipes,native,N,herbaceous,ridge_summit
+Caryophyllaceae,Cucubalus baccifer var. japonicus,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia sylvatica,native,N,herbaceous,ridge_summit
+Asteraceae,Aster yomena,native,N,herbaceous,ridge_summit
+Ophioglossaceae,Botrychium ternatum,native,NA,herbaceous,ridge_summit
+Selaginellaceae,Selaginella tamariscina,native,N,herbaceous,ridge_summit
+Asteraceae,Cirsium japonicum var. ussuriense,native,N,herbaceous,ridge_summit
+Chenopodiaceae,Chenopodium album var. centrorubrum,native,N,herbaceous,upper_slope
+Poaceae,Bromus unioloides,exotic,N,herbaceous,upper_slope
+Osmundaceae,Osmunda cinnamomea,native,N,herbaceous,upper_slope
+Orchidaceae,Liparis krameri,native,N,herbaceous,lower_slope
+Ranunculaceae,Paeonia japonica,native,N,herbaceous,lower_slope
+Ranunculaceae,Actaea asiatica,native,N,herbaceous,lower_slope
+Liliaceae,Allium macrostemon,native,N,herbaceous,upper_slope
+Poaceae,Festuca arundinacea,exotic,N,herbaceous,ridge_summit
+Poaceae,Festuca arundinacea,exotic,N,herbaceous,lower_slope
+Violaceae,Viola diamantiaca,native,N,herbaceous,upper_slope
+Apiaceae,Angelica gigas,native,N,herbaceous,ridge_summit
+Violaceae,Viola diamantiaca,native,N,herbaceous,ridge_summit
+Saxifragaceae,Rodgersia podophylla,native,N,herbaceous,upper_slope
+Ranunculaceae,Paeonia japonica,native,N,herbaceous,upper_slope
+Ranunculaceae,Thalictrum rochebruneanum var. grandisepalum,native,N,herbaceous,valley_flatland
+Liliaceae,Polygonatum inflatum,native,N,herbaceous,valley_flatland
+Violaceae,Viola diamantiaca,native,N,herbaceous,valley_flatland
+Saxifragaceae,Saxifraga fortunei var. incisolobata,native,NA,herbaceous,valley_flatland
+Araceae,Arisaema amurense,native,N,herbaceous,valley_flatland
+Saxifragaceae,Chrysosplenium grayanum,native,N,herbaceous,valley_flatland
+Apiaceae,Angelica gigas,native,N,herbaceous,valley_flatland
+Apiaceae,Angelica dahurica,native,N,herbaceous,valley_flatland
+Solanaceae,Scopolia japonica,native,N,herbaceous,valley_flatland
+Ranunculaceae,Cimicifuga dahurica,native,N,herbaceous,valley_flatland
+Poaceae,Trisetum bifidum,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex forficula,native,N,herbaceous,valley_flatland
+Onocleaceae,Matteuccia struthiopteris,native,N,herbaceous,valley_flatland
+Lamiaceae,Lamium album var. barbatum,native,N,herbaceous,valley_flatland
+Papaveraceae,Hylomecon vernalis,native,N,herbaceous,valley_flatland
+Oxalidaceae,Oxalis obtriangulata,native,N,herbaceous,valley_flatland
+Saxifragaceae,Chrysosplenium pseudofauriei,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Pseudostellaria davidii,native,N,herbaceous,valley_flatland
+Poaceae,Milium effusum,native,N,herbaceous,valley_flatland
+Brassicaceae,Cardamine impatiens,native,N,herbaceous,valley_flatland
+Polygonaceae,Fallopia dumetorum,native,N,herbaceous,valley_flatland
+Balsaminaceae,Impatiens noli-tangere,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum posumbu,native,N,herbaceous,valley_flatland
+Liliaceae,Veratrum patulum,native,N,herbaceous,valley_flatland
+Rosaceae,Geum aleppicum,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex pediformis var. pedunculata,native,N,herbaceous,valley_flatland
+Rubiaceae,Galium spurium var. echinospermum,native,N,herbaceous,valley_flatland
+Araceae,Arisaema peninsulae,native,N,herbaceous,valley_flatland
+Brassicaceae,Cardamine fallax,native,N,herbaceous,valley_flatland
+Campanulaceae,Adenophora verticillata,native,N,herbaceous,lower_slope
+Poaceae,Festuca parvigluma,native,N,herbaceous,valley_flatland
+Fabaceae,Vicia amoena,native,NA,herbaceous,valley_flatland
+Aristolochiaceae,Aristolochia contorta,native,N,herbaceous,valley_flatland
+Campanulaceae,Adenophora verticillata,native,N,herbaceous,upper_slope
+Liliaceae,Lilium distichum,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex kamagariensis,native,N,herbaceous,upper_slope
+Liliaceae,Allium thunbergii,native,N,herbaceous,ridge_summit
+Fabaceae,Vicia chosenensis,native,N,herbaceous,ridge_summit
+Ranunculaceae,Aconitum kusnezoffii,native,N,herbaceous,valley_flatland
+Asteraceae,Carpesium macrocephalum,native,N,herbaceous,valley_flatland
+Ranunculaceae,Cimicifuga simplex,native,N,herbaceous,valley_flatland
+Apiaceae,Pimpinella koreana,native,N,herbaceous,upper_slope
+Apiaceae,Pimpinella koreana,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium kamtschaticum,native,N,herbaceous,lower_slope
+Rosaceae,Potentilla anserina,native,N,herbaceous,lower_slope
+Apiaceae,Heracleum moellendorffii,native,N,herbaceous,upper_slope
+Apiaceae,Pimpinella komarovii,native,N,herbaceous,ridge_summit
+Ranunculaceae,Cimicifuga heracleifolia,native,N,herbaceous,valley_flatland
+Violaceae,Viola tokubuchiana var. takedana,native,N,herbaceous,upper_slope
+Aspleniaceae,Asplenium ruprechtii,native,N,herbaceous,valley_flatland
+Lamiaceae,Salvia chanryoenica,native,N,herbaceous,upper_slope
+Campanulaceae,Hanabusaya asiatica,native,N,herbaceous,upper_slope
+Scrophulariaceae,Pedicularis resupinata var. umbrosa,native,N,herbaceous,upper_slope
+Valerianaceae,Patrinia saniculifolia,native,N,herbaceous,ridge_summit
+Gentianaceae,Gentiana triflora f. japonica,native,N,herbaceous,valley_flatland
+Asteraceae,Parasenecio koraiensis,native,N,herbaceous,valley_flatland
+Campanulaceae,Hanabusaya asiatica,native,N,herbaceous,valley_flatland
+Liliaceae,Paris verticillata,native,N,herbaceous,valley_flatland
+Asteraceae,Parasenecio auriculatus var. kamtschaticus,native,N,herbaceous,upper_slope
+Lamiaceae,Salvia chanryoenica,native,N,herbaceous,ridge_summit
+Dipsacaceae,Scabiosa tschiliensis,native,N,herbaceous,upper_slope
+Valerianaceae,Patrinia saniculifolia,native,N,herbaceous,upper_slope
+Berberidaceae,Epimedium koreanum,native,N,herbaceous,lower_slope
+Rubiaceae,Galium spurium var. echinospermum,native,N,herbaceous,lower_slope
+Asteraceae,Parasenecio hastatus subsp. orientalis,native,N,herbaceous,valley_flatland
+Apiaceae,Cryptotaenia japonica,native,N,herbaceous,ridge_summit
+Violaceae,Viola albida,native,N,herbaceous,ridge_summit
+Araceae,Arisaema heterophyllum,native,N,herbaceous,valley_flatland
+Ranunculaceae,Aconitum pseudolaeve,native,N,herbaceous,valley_flatland
+Dennstaedtiaceae,Dennstaedtia wilfordii,native,N,herbaceous,valley_flatland
+Primulaceae,Primula jesoana var. pubescens,native,N,herbaceous,upper_slope
+Liliaceae,Erythronium japonicum,native,N,herbaceous,ridge_summit
+Convallariaceae,Smilacina japonica,native,N,herbaceous,lower_slope
+Gentianaceae,Gentiana scabra,native,N,herbaceous,valley_flatland
+Fabaceae,Chamaecrista nomame,native,N,herbaceous,valley_flatland
+Lamiaceae,Prunella asiatica,native,N,herbaceous,valley_flatland
+Poaceae,Dactylis glomerata,exotic,N,herbaceous,valley_flatland
+Brassicaceae,Descurainia sophia,exotic,N,herbaceous,valley_flatland
+Liliaceae,Allium macrostemon,native,N,herbaceous,valley_flatland
+Lamiaceae,Elsholtzia splendens,native,N,herbaceous,ridge_summit
+Nephrolepidaceae,Nephrolepis cordifolia,native,N,herbaceous,upper_slope
+Liliaceae,Heloniopsis koreana,native,N,herbaceous,ridge_summit
+Poaceae,Themeda triandra,native,N,herbaceous,upper_slope
+Liliaceae,Lilium distichum,native,N,herbaceous,ridge_summit
+Crassulaceae,Sedum polytrichoides,native,N,herbaceous,upper_slope
+Phytolaccaceae,Phytolacca acinosa,exotic,N,herbaceous,upper_slope
+Asteraceae,Crassocephalum crepidioides,exotic,N,herbaceous,valley_flatland
+Poaceae,Microstegium japonicum,native,N,herbaceous,valley_flatland
+Liliaceae,Hosta capitata,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris sacrosancta,native,N,herbaceous,valley_flatland
+Apiaceae,Angelica polymorpha,native,N,herbaceous,upper_slope
+Poaceae,Polypogon fugax,native,N,herbaceous,upper_slope
+Cyperaceae,Carex dispalata,native,N,herbaceous,upper_slope
+Asteraceae,Cirsium japonicum var. ussuriense,native,N,herbaceous,valley_flatland
+Woodsiaceae,Woodsia polystichoides,native,N,herbaceous,valley_flatland
+Rosaceae,Potentilla dickinsii,native,N,herbaceous,ridge_summit
+Juncaceae,Juncus effusus var. decipiens,native,N,herbaceous,NA
+Lamiaceae,Mosla punctulata,native,N,herbaceous,NA
+Chenopodiaceae,Chenopodium album var. centrorubrum,native,N,herbaceous,NA
+Phytolaccaceae,Phytolacca americana,exotic,N,herbaceous,NA
+Polygonaceae,Polygonum hydropiper,native,N,herbaceous,NA
+Commelinaceae,Commelina communis,native,N,herbaceous,NA
+Poaceae,Setaria viridis,native,N,herbaceous,NA
+Asteraceae,Ambrosia artemisiifolia,exotic,Y,herbaceous,NA
+Asteraceae,Artemisia princeps,native,N,herbaceous,NA
+Cannabaceae,Humulus japonicus,native,N,herbaceous,NA
+Fabaceae,Kummerowia striata,native,N,herbaceous,valley_flatland
+Apiaceae,Angelica polymorpha,native,N,herbaceous,valley_flatland
+Poaceae,Festuca arundinacea,exotic,N,herbaceous,valley_flatland
+Asteraceae,Prenanthes ochroleuca,native,N,herbaceous,lower_slope
+Selaginellaceae,Selaginella rossii,native,N,herbaceous,upper_slope
+Polygonaceae,Rumex acetosa,native,N,herbaceous,lower_slope
+Liliaceae,Tricyrtis macropoda,native,N,herbaceous,valley_flatland
+Asteraceae,Prenanthes ochroleuca,native,N,herbaceous,valley_flatland
+Liliaceae,Lilium lancifolium,native,N,herbaceous,valley_flatland
+Asteraceae,Eupatorium lindleyanum,native,N,herbaceous,valley_flatland
+Poaceae,Phragmites communis,native,N,herbaceous,lower_slope
+Campanulaceae,Adenophora divaricata,native,N,herbaceous,upper_slope
+Violaceae,Viola japonica,native,N,herbaceous,upper_slope
+Poaceae,Agrostis clavata var. nukabo,native,N,herbaceous,lower_slope
+Dryopteridaceae,Arachniodes standishii,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Dryopteris sacrosancta,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium spurium var. echinospermum,native,N,herbaceous,upper_slope
+Lamiaceae,Mentha arvensis var. piperascens,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Arachniodes standishii,native,N,herbaceous,valley_flatland
+Liliaceae,Lilium distichum,native,N,herbaceous,lower_slope
+Ranunculaceae,Cimicifuga heracleifolia,native,N,herbaceous,lower_slope
+Saxifragaceae,Rodgersia podophylla,native,N,herbaceous,valley_flatland
+Rosaceae,Filipendula glaberrima,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Lychnis cognata,native,N,herbaceous,valley_flatland
+Asteraceae,Crepidiastrum sonchifolium,native,N,herbaceous,valley_flatland
+Araceae,Acorus calamus,native,N,herbaceous,valley_flatland
+Poaceae,Leersia japonica,native,N,herbaceous,valley_flatland
+Liliaceae,Lilium lancifolium,native,N,herbaceous,ridge_summit
+Saxifragaceae,Mukdenia rossii var. multiloba,native,N,herbaceous,ridge_summit
+Liliaceae,Veratrum nigrum var. ussuriense,native,N,herbaceous,upper_slope
+Gentianaceae,Gentiana scabra,native,N,herbaceous,upper_slope
+Gentianaceae,Gentiana scabra,native,N,herbaceous,ridge_summit
+Fumariaceae,Corydalis speciosa,native,N,herbaceous,ridge_summit
+Cyperaceae,Cyperus amuricus,native,N,herbaceous,lower_slope
+Asteraceae,Aster pilosus,exotic,Y,herbaceous,upper_slope
+Asteraceae,Aster meyendorffii,native,N,herbaceous,ridge_summit
+Urticaceae,Urtica thunbergiana,native,N,herbaceous,upper_slope
+Rubiaceae,Galium paradoxum,native,N,herbaceous,valley_flatland
+Primulaceae,Primula sieboldii,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Polystichum braunii,native,N,herbaceous,valley_flatland
+Athyriaceae,Deparia coreana,native,N,herbaceous,upper_slope
+Apiaceae,Sillaphyton podagraria,native,N,herbaceous,upper_slope
+Athyriaceae,Cornopteris crenulato-serrulata,native,N,herbaceous,valley_flatland
+Euphorbiaceae,Euphorbia sieboldiana,native,N,herbaceous,valley_flatland
+Papaveraceae,Dicentra spectabilis,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Leptorumohra miqueliana,native,N,herbaceous,valley_flatland
+Osmundaceae,Osmunda claytoniana,native,N,herbaceous,upper_slope
+Liliaceae,Lilium concolor var. pulchellum,native,N,herbaceous,upper_slope
+Dennstaedtiaceae,Dennstaedtia hirsuta,native,N,herbaceous,upper_slope
+Asteraceae,Ligularia jamesii,native,N,herbaceous,upper_slope
+Apiaceae,Cryptotaenia japonica,native,N,herbaceous,upper_slope
+Asteraceae,Achillea alpina,native,N,herbaceous,upper_slope
+Asteraceae,Eupatorium rugosum,exotic,Y,herbaceous,valley_flatland
+Lamiaceae,Lycopus lucidus,native,N,herbaceous,upper_slope
+Lamiaceae,Lycopus lucidus,native,N,herbaceous,ridge_summit
+Liliaceae,Allium thunbergii,native,N,herbaceous,valley_flatland
+Lamiaceae,Lycopus lucidus,native,N,herbaceous,valley_flatland
+Urticaceae,Pilea peploides,native,N,herbaceous,valley_flatland
+Asteraceae,Adenocaulon himalaicum,native,N,herbaceous,valley_flatland
+Equisetaceae,Equisetum hyemale,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris crassirhizoma,native,N,herbaceous,ridge_summit
+Crassulaceae,Orostachys minuta,native,N,herbaceous,ridge_summit
+Fabaceae,Vicia nipponica,native,N,herbaceous,valley_flatland
+Apiaceae,Peucedanum terebinthaceum,native,N,herbaceous,valley_flatland
+Fabaceae,Vicia amoena,native,NA,herbaceous,lower_slope
+Scrophulariaceae,Phtheirospermum japonicum,native,N,herbaceous,upper_slope
+Scrophulariaceae,Phtheirospermum japonicum,native,N,herbaceous,ridge_summit
+Gentianaceae,Gentiana squarrosa,native,N,herbaceous,lower_slope
+Rubiaceae,Asperula odorata,native,N,herbaceous,valley_flatland
+Lamiaceae,Salvia chanryoenica,native,N,herbaceous,lower_slope
+Ranunculaceae,Paeonia japonica,native,N,herbaceous,valley_flatland
+Poaceae,Microstegium vimineum var. polystachyum,native,N,herbaceous,valley_flatland
+Onagraceae,Circaea alpina,native,N,herbaceous,valley_flatland
+Ranunculaceae,Anemone reflexa,native,N,herbaceous,upper_slope
+Athyriaceae,Deparia pycnosora,native,N,herbaceous,upper_slope
+Poaceae,Diarrhena japonica,native,N,herbaceous,lower_slope
+Scrophulariaceae,Melampyrum setaceum var. nakaianum,native,N,herbaceous,upper_slope
+Poaceae,Cleistogenes hackelii,native,N,herbaceous,valley_flatland
+Polypodiaceae,Lepisorus ussuriensis,native,N,herbaceous,valley_flatland
+Saxifragaceae,Chrysosplenium grayanum,native,N,herbaceous,upper_slope
+Poaceae,Agrostis clavata,native,N,herbaceous,upper_slope
+Scrophulariaceae,Melampyrum setaceum var. nakaianum,native,N,herbaceous,lower_slope
+Cyperaceae,Carex forficula,native,N,herbaceous,lower_slope
+Polygonaceae,Polygonum nepalense,native,N,herbaceous,lower_slope
+Liliaceae,Polygonatum falcatum,native,N,herbaceous,valley_flatland
+Onagraceae,Circaea lutetiana subsp. quadrisulcata,native,N,herbaceous,lower_slope
+Apiaceae,Cryptotaenia japonica,native,N,herbaceous,lower_slope
+Urticaceae,Urtica angustifolia,native,N,herbaceous,lower_slope
+Cucurbitaceae,Actinostemma lobatum,native,N,herbaceous,lower_slope
+Boraginaceae,Trigonotis radicans var. sericea,native,N,herbaceous,lower_slope
+Ranunculaceae,Paeonia obovata,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Pseudostellaria setulosa,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum muricatum,native,N,herbaceous,valley_flatland
+Asteraceae,Crepidiastrum sonchifolium,native,N,herbaceous,ridge_summit
+Clusiaceae,Hypericum ascyron,native,N,herbaceous,ridge_summit
+Saxifragaceae,Saxifraga fortunei var. incisolobata,native,NA,herbaceous,ridge_summit
+Ranunculaceae,Ranunculus sceleratus,native,N,herbaceous,valley_flatland
+Euphorbiaceae,Acalypha australis,native,N,herbaceous,valley_flatland
+Polypodiaceae,Lepisorus thunbergianus,native,N,herbaceous,upper_slope
+Poaceae,Moliniopsis japonica,native,N,herbaceous,valley_flatland
+Asteraceae,Synurus deltoides,native,N,herbaceous,valley_flatland
+Dioscoreaceae,Dioscorea septemloba,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum viscosum,native,N,herbaceous,valley_flatland
+Apiaceae,Bupleurum longeradiatum,native,N,herbaceous,valley_flatland
+Asteraceae,Saussurea gracilis,native,N,herbaceous,valley_flatland
+Liliaceae,Hemerocallis minor,native,N,herbaceous,valley_flatland
+Campanulaceae,Platycodon grandiflorus,native,N,herbaceous,ridge_summit
+Lamiaceae,Ajuga spectabilis,native,N,herbaceous,ridge_summit
+Apiaceae,Angelica polymorpha,native,N,herbaceous,ridge_summit
+Apiaceae,Ostericum grosseserratum,native,N,herbaceous,upper_slope
+Apiaceae,Osmorhiza aristata,native,N,herbaceous,upper_slope
+Athyriaceae,Diplazium mesosorum,native,N,herbaceous,valley_flatland
+Thelypteridaceae,Thelypteris beddomei,native,N,herbaceous,upper_slope
+Asteraceae,Artemisia feddei,native,N,herbaceous,upper_slope
+Asteraceae,Lactuca triangulata,native,N,herbaceous,upper_slope
+Violaceae,Viola tokubuchiana var. takedana,native,N,herbaceous,lower_slope
+Asteraceae,Artemisia montana,native,N,herbaceous,valley_flatland
+Ranunculaceae,Aconitum pseudolaeve,native,N,herbaceous,ridge_summit
+Campanulaceae,Adenophora liliifolia,native,N,herbaceous,lower_slope
+Poaceae,Calamagrostis pseudophragmites,native,N,herbaceous,upper_slope
+Poaceae,Trisetum bifidum,native,N,herbaceous,upper_slope
+Cyperaceae,Carex leiorhyncha,native,N,herbaceous,valley_flatland
+Lythraceae,Rotala indica,native,N,herbaceous,valley_flatland
+Asteraceae,Ambrosia trifida,exotic,Y,herbaceous,valley_flatland
+Asteraceae,Carpesium abrotanoides,native,N,herbaceous,valley_flatland
+Poaceae,Stipa pekinensis,native,N,herbaceous,valley_flatland
+Campanulaceae,Asyneuma japonicum,native,N,herbaceous,valley_flatland
+Rosaceae,Potentilla cryptotaeniae,native,N,herbaceous,valley_flatland
+Poaceae,Arthraxon hispidus,native,N,herbaceous,valley_flatland
+Lindsaeaceae,Odontosoria chinensis,native,N,herbaceous,upper_slope
+Poaceae,Trisetum bifidum,native,N,herbaceous,lower_slope
+Asteraceae,Taraxacum platycarpum,native,N,herbaceous,upper_slope
+Apiaceae,Ostericum grosseserratum,native,N,herbaceous,lower_slope
+Asteraceae,Carpesium divaricatum,native,N,herbaceous,lower_slope
+Asteraceae,Carpesium divaricatum,native,N,herbaceous,upper_slope
+Scrophulariaceae,Pseudolysimachion dauricum,native,N,herbaceous,upper_slope
+Liliaceae,Allium spirale,native,N,herbaceous,ridge_summit
+Polypodiaceae,Lepisorus ussuriensis,native,N,herbaceous,ridge_summit
+Selaginellaceae,Selaginella rossii,native,N,herbaceous,ridge_summit
+Liliaceae,Lilium cernuum,native,N,herbaceous,ridge_summit
+Orchidaceae,Amitostigma gracile,native,N,herbaceous,ridge_summit
+Asteraceae,Dendranthema sichotense,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex polyschoena,native,N,herbaceous,ridge_summit
+Woodsiaceae,Woodsia microsora,native,N,herbaceous,ridge_summit
+Asteraceae,Euchiton japonicus,native,N,herbaceous,upper_slope
+Commelinaceae,Streptolirion volubile,native,N,herbaceous,upper_slope
+Urticaceae,Urtica laetevirens,native,N,herbaceous,upper_slope
+Caryophyllaceae,Pseudostellaria davidii,native,N,herbaceous,upper_slope
+Asteraceae,Hieracium umbellatum,native,N,herbaceous,lower_slope
+Fabaceae,Rhynchosia acuminatifolia,native,N,herbaceous,upper_slope
+Fabaceae,Rhynchosia acuminatifolia,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris saxifragi-varia,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris saxifragi-varia,native,N,herbaceous,upper_slope
+Gleicheniaceae,Dicranopteris linearis,native,N,herbaceous,upper_slope
+Polygonaceae,Polygonum viscosum,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris expansa,native,N,herbaceous,upper_slope
+Asteraceae,Eupatorium makinoi var. oppositifolium,native,N,herbaceous,upper_slope
+Orchidaceae,Oreorchis patens,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Dryopteris bissetiana,native,N,herbaceous,valley_flatland
+Gleicheniaceae,Dicranopteris linearis,native,N,herbaceous,lower_slope
+Boraginaceae,Trigonotis radicans var. sericea,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex pediformis,native,N,herbaceous,upper_slope
+Cyperaceae,Carex pediformis,native,N,herbaceous,lower_slope
+Rosaceae,Potentilla anemonifolia,native,N,herbaceous,upper_slope
+Dioscoreaceae,Dioscorea tenuipes,native,N,herbaceous,valley_flatland
+Athyriaceae,Cornopteris crenulato-serrulata,native,N,herbaceous,lower_slope
+Liliaceae,Polygonatum falcatum,native,N,herbaceous,upper_slope
+Asteraceae,Aster spathulifolius,native,N,herbaceous,lower_slope
+Asteraceae,Hololeion maximowiczii,native,N,herbaceous,valley_flatland
+Campanulaceae,Platycodon grandiflorus,native,N,herbaceous,valley_flatland
+Campanulaceae,Adenophora verticillata var. hirsuta,native,N,herbaceous,valley_flatland
+Liliaceae,Veratrum versicolor f. viride,native,N,herbaceous,upper_slope
+Poaceae,Arthraxon hispidus,native,N,herbaceous,ridge_summit
+Apiaceae,Ostericum sieboldii,native,N,herbaceous,valley_flatland
+Polygonaceae,Polygonum sagittatum,native,N,herbaceous,valley_flatland
+Crassulaceae,Sedum sarmentosum,native,N,herbaceous,valley_flatland
+Fabaceae,Vicia cracca,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex fernaldiana,native,N,herbaceous,valley_flatland
+Primulaceae,Lysimachia davurica,native,N,herbaceous,valley_flatland
+Poaceae,Phyllostachys nigra var. henonis,native,N,herbaceous,ridge_summit
+Athyriaceae,Athyrium alpestre,native,N,herbaceous,lower_slope
+Ranunculaceae,Hepatica insularis,native,N,herbaceous,upper_slope
+Fabaceae,Dumasia truncata,native,N,herbaceous,upper_slope
+Fabaceae,Dumasia truncata,native,N,herbaceous,lower_slope
+Araceae,Pinellia ternata,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia indica,native,N,herbaceous,upper_slope
+Rubiaceae,Rubia argyi,native,N,herbaceous,upper_slope
+Boraginaceae,Trigonotis icumae,native,N,herbaceous,upper_slope
+Brassicaceae,Draba nemorosa,native,N,herbaceous,lower_slope
+Rubiaceae,Rubia argyi,native,N,herbaceous,lower_slope
+Asteraceae,Artemisia indica,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria thunbergii,native,N,herbaceous,valley_flatland
+Rubiaceae,Rubia argyi,native,N,herbaceous,valley_flatland
+Poaceae,Phragmites australis,native,N,herbaceous,valley_flatland
+Iridaceae,Iris sanguinea,native,N,herbaceous,valley_flatland
+Asteraceae,Artemisia indica,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia indica,native,N,herbaceous,lower_slope
+Juncaceae,Juncus decipiens,native,N,herbaceous,lower_slope
+Saxifragaceae,Astilbe chinensis,native,N,herbaceous,lower_slope
+Polygonaceae,Persicaria thunbergii,native,N,herbaceous,lower_slope
+Liliaceae,Gagea nakaiana,native,N,herbaceous,lower_slope
+Amaranthaceae,Achyranthes bidentata var. japonica,native,N,herbaceous,ridge_summit
+Rubiaceae,Rubia argyi,native,N,herbaceous,ridge_summit
+Poaceae,Agrostis clavata var. nukabo,native,N,herbaceous,ridge_summit
+Polygonaceae,Persicaria senticosa,native,N,herbaceous,upper_slope
+Poaceae,Elymus tsukushiensis,native,N,herbaceous,upper_slope
+Rubiaceae,Rubia cordifolia,native,N,herbaceous,lower_slope
+Rubiaceae,Galium spurium,exotic,N,herbaceous,lower_slope
+Polygonaceae,Persicaria senticosa,native,N,herbaceous,lower_slope
+Rubiaceae,Galium spurium,exotic,N,herbaceous,upper_slope
+Poaceae,Pseudosasa japonica,native,N,herbaceous,lower_slope
+Iridaceae,Iris minutoaurea,native,N,herbaceous,lower_slope
+Gentianaceae,Gentiana zollingeri,native,N,herbaceous,upper_slope
+Liliaceae,Gagea nakaiana,native,N,herbaceous,upper_slope
+Liliaceae,Asparagus oligoclonos,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria longiseta,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria filiformis,native,N,herbaceous,valley_flatland
+Amaranthaceae,Achyranthes bidentata var. japonica,native,N,herbaceous,valley_flatland
+Ranunculaceae,Thalictrum actaeifolium var. brevistylum,native,N,herbaceous,valley_flatland
+Dioscoreaceae,Dioscorea polystachya,native,N,herbaceous,valley_flatland
+Dioscoreaceae,Dioscorea polystachya,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium spurium,exotic,N,herbaceous,valley_flatland
+Rubiaceae,Galium koreanum,native,N,herbaceous,valley_flatland
+Papaveraceae,Coreanomecon hylomeconoides,native,N,herbaceous,valley_flatland
+Ranunculaceae,Adonis amurensis,native,N,herbaceous,valley_flatland
+Saxifragaceae,Astilbe chinensis,native,N,herbaceous,upper_slope
+Fabaceae,Astragalus mongholicus var. dahuricus,native,N,herbaceous,valley_flatland
+Fabaceae,Astragalus mongholicus var. dahuricus,native,N,herbaceous,lower_slope
+Berberidaceae,Epimedium koreanum,native,N,herbaceous,upper_slope
+Cyperaceae,Carex longerostrata,native,N,herbaceous,valley_flatland
+Saxifragaceae,Astilbe chinensis,native,N,herbaceous,valley_flatland
+Rubiaceae,Rubia cordifolia,native,N,herbaceous,valley_flatland
+Liliaceae,Maianthemum japonicum,native,N,herbaceous,valley_flatland
+Fumariaceae,Corydalis ambigua,native,N,herbaceous,valley_flatland
+Liliaceae,Maianthemum japonicum,native,N,herbaceous,upper_slope
+Asteraceae,Dendranthema oreastrum,native,N,herbaceous,upper_slope
+Gentianaceae,Gentiana squarrosa,native,N,herbaceous,valley_flatland
+Lamiaceae,Elsholtzia ciliata,native,N,herbaceous,valley_flatland
+Rubiaceae,Galium bungei var. trachyspermum,native,N,herbaceous,valley_flatland
+Berberidaceae,Caulophyllum robustum,native,N,herbaceous,lower_slope
+Liliaceae,Maianthemum japonicum,native,N,herbaceous,lower_slope
+Rubiaceae,Galium bungei var. trachyspermum,native,N,herbaceous,lower_slope
+Dryopteridaceae,Leptorumohra miqueliana,native,N,herbaceous,lower_slope
+Osmundaceae,Osmunda cinnamomea,native,N,herbaceous,lower_slope
+Brassicaceae,Cardamine impatiens,native,N,herbaceous,lower_slope
+Violaceae,Viola hirtipes,native,N,herbaceous,lower_slope
+Asteraceae,Ainsliaea acerifolia var. subapoda,native,N,herbaceous,upper_slope
+Dioscoreaceae,Dioscorea coreana,native,N,herbaceous,valley_flatland
+Dioscoreaceae,Dioscorea coreana,native,N,herbaceous,upper_slope
+Asteraceae,Carpesium abrotanoides,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea coreana,native,N,herbaceous,ridge_summit
+Rubiaceae,Rubia cordifolia,native,N,herbaceous,ridge_summit
+Lamiaceae,Agastache rugosa,native,N,herbaceous,ridge_summit
+Saxifragaceae,Saxifraga fortunei var. alpina,native,NA,herbaceous,upper_slope
+Dioscoreaceae,Dioscorea coreana,native,N,herbaceous,lower_slope
+Asteraceae,Ainsliaea acerifolia var. subapoda,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea polystachya,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria nepalensis,native,N,herbaceous,valley_flatland
+Scrophulariaceae,Pedicularis resupinata,native,N,herbaceous,valley_flatland
+Fabaceae,Astragalus mongholicus var. dahuricus,native,N,herbaceous,upper_slope
+Dryopteridaceae,Polystichum braunii,native,N,herbaceous,upper_slope
+Rubiaceae,Galium maximowiczii,native,N,herbaceous,upper_slope
+Gentianaceae,Gentiana scabra,native,N,herbaceous,lower_slope
+Ranunculaceae,Cimicifuga foetida,native,N,herbaceous,lower_slope
+Caryophyllaceae,Pseudostellaria coreana,native,N,herbaceous,upper_slope
+Ranunculaceae,Cimicifuga foetida,native,N,herbaceous,upper_slope
+Caryophyllaceae,Pseudostellaria coreana,native,N,herbaceous,lower_slope
+Araceae,Arisaema serratum,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea polystachya,native,N,herbaceous,lower_slope
+Commelinaceae,Commelina coreana,native,N,herbaceous,upper_slope
+Caryophyllaceae,Silene baccifera,native,N,herbaceous,upper_slope
+Verbenaceae,Tripora divaricata,native,N,herbaceous,ridge_summit
+Caryophyllaceae,Silene seoulensis,native,N,herbaceous,ridge_summit
+Apocynaceae,Cynanchum paniculatum,native,N,herbaceous,valley_flatland
+Apocynaceae,Cynanchum paniculatum,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex neurocarpa,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium bungei var. trachyspermum,native,N,herbaceous,upper_slope
+Lamiaceae,Clinopodium chinense var. shibetchense,native,N,herbaceous,upper_slope
+Araceae,Arisaema serratum,native,N,herbaceous,upper_slope
+Onagraceae,Circaea cordata,native,N,herbaceous,valley_flatland
+Poaceae,Oplismenus undulatifolius var. japonicus,native,NA,herbaceous,lower_slope
+Liliaceae,Allium sacculiferum,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex fusanensis,native,N,herbaceous,ridge_summit
+Poaceae,Arundinella hirta var. hondana,native,N,herbaceous,upper_slope
+Orchidaceae,Amitostigma gracile,native,N,herbaceous,upper_slope
+Poaceae,Diarrhena fauriei,native,N,herbaceous,valley_flatland
+Apocynaceae,Cynanchum atratum,native,N,herbaceous,valley_flatland
+Orchidaceae,Liparis kumokiri,native,N,herbaceous,valley_flatland
+Campanulaceae,Adenophora divaricata,native,N,herbaceous,valley_flatland
+Poaceae,Arundinella hirta var. hondana,native,N,herbaceous,ridge_summit
+Poaceae,Arundinella hirta var. hondana,native,N,herbaceous,lower_slope
+Asteraceae,Crepidiastrum chelidoniifolium,native,N,herbaceous,valley_flatland
+Crassulaceae,Sedum aizoon,native,N,herbaceous,valley_flatland
+Poaceae,Melica scabrosa,native,N,herbaceous,valley_flatland
+Fumariaceae,Corydalis remota,native,N,herbaceous,valley_flatland
+Apocynaceae,Cynanchum ascyrifolium,native,N,herbaceous,valley_flatland
+Urticaceae,Urtica angustifolia,native,N,herbaceous,valley_flatland
+Gentianaceae,Gentiana squarrosa,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris saxifragi-varia,native,N,herbaceous,ridge_summit
+Fabaceae,Hylodesmum podocarpum subsp. oxyphyllum,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex alterniflora,native,N,herbaceous,ridge_summit
+Asteraceae,Xanthium strumarium,exotic,N,herbaceous,upper_slope
+Liliaceae,Polygonatum humile,native,N,herbaceous,upper_slope
+Amaranthaceae,Achyranthes bidentata var. japonica,native,N,herbaceous,upper_slope
+Liliaceae,Barnardia japonica,native,N,herbaceous,lower_slope
+Saxifragaceae,Saxifraga fortunei var. alpina,native,NA,herbaceous,lower_slope
+Asteraceae,Bidens tripartita,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria filiformis,native,N,herbaceous,ridge_summit
+Polygonaceae,Persicaria filiformis,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria dissitiflora,native,N,herbaceous,lower_slope
+Iridaceae,Iris ruthenica,native,N,herbaceous,upper_slope
+Lamiaceae,Scutellaria pekinensis var. transitra,native,N,herbaceous,lower_slope
+Polypodiaceae,Lepisorus ussuriensis,native,N,herbaceous,upper_slope
+Violaceae,Viola acuminata,native,N,herbaceous,ridge_summit
+Fumariaceae,Corydalis maculata,native,N,herbaceous,valley_flatland
+Ranunculaceae,Anemone reflexa,native,N,herbaceous,valley_flatland
+Lamiaceae,Clinopodium multicaule,native,N,herbaceous,upper_slope
+Asteraceae,Petasites japonicus,native,N,herbaceous,valley_flatland
+Juncaceae,Juncus decipiens,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria hydropiper,native,N,herbaceous,valley_flatland
+Lamiaceae,Clinopodium chinense var. parviflorum,native,N,herbaceous,valley_flatland
+Poaceae,Festuca extremiorientalis,native,N,herbaceous,upper_slope
+Orchidaceae,Platanthera chlorantha,native,N,herbaceous,valley_flatland
+Lamiaceae,Scutellaria pekinensis var. transitra,native,N,herbaceous,valley_flatland
+Liliaceae,Barnardia japonica,native,N,herbaceous,valley_flatland
+Liliaceae,Metanarthecium luteoviride,native,N,herbaceous,upper_slope
+Fabaceae,Hylodesmum podocarpum subsp. oxyphyllum,native,N,herbaceous,valley_flatland
+Orchidaceae,Gastrodia elata,native,N,herbaceous,valley_flatland
+Orchidaceae,Gastrodia elata,native,N,herbaceous,upper_slope
+Fabaceae,Hylodesmum podocarpum subsp. oxyphyllum,native,N,herbaceous,upper_slope
+Amaranthaceae,Achyranthes bidentata var. japonica,native,N,herbaceous,lower_slope
+Rubiaceae,Galium odoratum,native,N,herbaceous,upper_slope
+Violaceae,Viola tokubuchiana var. takedana,native,N,herbaceous,valley_flatland
+Asteraceae,Saussurea grandifolia,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Silene firma,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia montana,native,N,herbaceous,ridge_summit
+Scrophulariaceae,Scrophularia koraiensis,native,N,herbaceous,valley_flatland
+Liliaceae,Disporum uniflorum,native,N,herbaceous,valley_flatland
+Liliaceae,Veratrum versicolor f. viride,native,N,herbaceous,ridge_summit
+Liliaceae,Lilium tsingtauense,native,N,herbaceous,ridge_summit
+Fabaceae,Hylodesmum oldhamii,native,N,herbaceous,upper_slope
+Gentianaceae,Gentiana squarrosa,native,N,herbaceous,ridge_summit
+Fabaceae,Vicia cracca,native,N,herbaceous,ridge_summit
+Saxifragaceae,Astilbe chinensis,native,N,herbaceous,ridge_summit
+Lindsaeaceae,Odontosoria chinensis,native,N,herbaceous,lower_slope
+Poaceae,Calamagrostis pseudophragmites,native,N,herbaceous,lower_slope
+Lamiaceae,Salvia chanryoenica,native,N,herbaceous,valley_flatland
+Rubiaceae,Rubia cordifolia,native,N,herbaceous,upper_slope
+Asteraceae,Cirsium setidens,native,N,herbaceous,valley_flatland
+Apiaceae,Cymopterus melanotilingia,native,N,herbaceous,valley_flatland
+Aristolochiaceae,Asarum versicolor,native,N,herbaceous,valley_flatland
+Apocynaceae,Cynanchum atratum,native,N,herbaceous,ridge_summit
+Araceae,Pinellia ternata,native,N,herbaceous,valley_flatland
+Valerianaceae,Patrinia scabiosifolia,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Dianthus chinensis,native,N,herbaceous,valley_flatland
+Poaceae,Cymbopogon goeringii,native,N,herbaceous,lower_slope
+Liliaceae,Veratrum oxysepalum,native,N,herbaceous,lower_slope
+Urticaceae,Boehmeria japonica,native,N,herbaceous,upper_slope
+Fabaceae,Hylodesmum podocarpum subsp. oxyphyllum,native,N,herbaceous,lower_slope
+Asteraceae,Aster subulatus,exotic,N,herbaceous,lower_slope
+Rubiaceae,Galium bungei var. trachyspermum,native,N,herbaceous,ridge_summit
+Polygonaceae,Persicaria sagittata var. sieboldii,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex laevissima,native,N,herbaceous,valley_flatland
+Asteraceae,Cirsium pendulum,native,N,herbaceous,valley_flatland
+Boraginaceae,Brachybotrys paridiformis,native,N,herbaceous,lower_slope
+Ranunculaceae,Paeonia obovata,native,N,herbaceous,lower_slope
+Campanulaceae,Campanula punctata,native,N,herbaceous,valley_flatland
+Fabaceae,Lathyrus davidii,native,N,herbaceous,valley_flatland
+Valerianaceae,Valeriana fauriei,native,N,herbaceous,valley_flatland
+Saxifragaceae,Saxifraga fortunei var. alpina,native,NA,herbaceous,valley_flatland
+Fumariaceae,Corydalis remota f. linearis,native,N,herbaceous,valley_flatland
+Fumariaceae,Corydalis remota f. linearis,native,N,herbaceous,lower_slope
+Saxifragaceae,Rodgersia podophylla,native,N,herbaceous,lower_slope
+Ranunculaceae,Anemone reflexa,native,N,herbaceous,lower_slope
+Lamiaceae,Salvia japonica,native,N,herbaceous,lower_slope
+Polygonaceae,Persicaria filiformis,native,N,herbaceous,lower_slope
+Polygonaceae,Persicaria hydropiper,native,N,herbaceous,lower_slope
+Lamiaceae,Salvia plebeia,native,N,herbaceous,lower_slope
+Geraniaceae,Geranium carolinianum,exotic,N,herbaceous,lower_slope
+Polygonaceae,Persicaria perfoliata,native,N,herbaceous,lower_slope
+Lamiaceae,Salvia plebeia,native,N,herbaceous,upper_slope
+Poaceae,Avena fatua,exotic,N,herbaceous,upper_slope
+Caryophyllaceae,Lychnis cognata,native,N,herbaceous,lower_slope
+Equisetaceae,Equisetum hyemale,native,N,herbaceous,lower_slope
+Liliaceae,Veratrum oxysepalum,native,N,herbaceous,upper_slope
+Saxifragaceae,Chrysosplenium japonicum,native,N,herbaceous,upper_slope
+Papaveraceae,Hylomecon vernalis,native,N,herbaceous,lower_slope
+Rubiaceae,Galium maximowiczii,native,N,herbaceous,lower_slope
+Fabaceae,Chamaecrista nomame,native,N,herbaceous,ridge_summit
+Athyriaceae,Athyrium iseanum,native,N,herbaceous,lower_slope
+Polygonaceae,Rumex acetosella,exotic,Y,herbaceous,upper_slope
+Athyriaceae,Athyrium iseanum,native,N,herbaceous,upper_slope
+Liliaceae,Tricyrtis macropoda,native,N,herbaceous,ridge_summit
+Athyriaceae,Athyrium iseanum,native,N,herbaceous,ridge_summit
+Thelypteridaceae,Thelypteris quelpartensis,native,N,herbaceous,upper_slope
+Rubiaceae,Galium maximowiczii,native,N,herbaceous,valley_flatland
+Asteraceae,Artemisia sylvatica,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea quinquelobata,native,N,herbaceous,upper_slope
+Fabaceae,Vicia venosa,native,N,herbaceous,upper_slope
+Fabaceae,Vicia venosa,native,N,herbaceous,ridge_summit
+Liliaceae,Heloniopsis koreana,native,N,herbaceous,lower_slope
+Asteraceae,Cirsium japonicum var. maackii,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria thunbergii,native,N,herbaceous,upper_slope
+Cyperaceae,Carex dimorpholepis,native,N,herbaceous,upper_slope
+Liliaceae,Trillium tschonoskii,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria muricata,native,N,herbaceous,lower_slope
+Scrophulariaceae,Melampyrum setaceum var. nakaianum,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Dryopteris monticola,native,N,herbaceous,upper_slope
+Athyriaceae,Athyrium sinense,native,N,herbaceous,valley_flatland
+Athyriaceae,Athyrium acutipinnulum,native,N,herbaceous,upper_slope
+Apiaceae,Dystaenia takesimana,native,N,herbaceous,upper_slope
+Apiaceae,Anthriscus sylvestris,native,N,herbaceous,upper_slope
+Asteraceae,Sonchus asper,exotic,N,herbaceous,upper_slope
+Liliaceae,Maianthemum dilatatum,native,N,herbaceous,upper_slope
+Dryopteridaceae,Arachniodes standishii,native,N,herbaceous,upper_slope
+Ranunculaceae,Hepatica maxima,native,N,herbaceous,upper_slope
+Liliaceae,Trillium camschatcense,native,N,herbaceous,upper_slope
+Liliaceae,Trillium camschatcense,native,N,herbaceous,lower_slope
+Dryopteridaceae,Arachniodes standishii,native,N,herbaceous,lower_slope
+Rubiaceae,Galium odoratum,native,N,herbaceous,lower_slope
+Apiaceae,Dystaenia takesimana,native,N,herbaceous,lower_slope
+Liliaceae,Maianthemum dilatatum,native,N,herbaceous,lower_slope
+Araceae,Arisaema takesimense,native,N,herbaceous,upper_slope
+Liliaceae,Lilium hansonii,native,N,herbaceous,upper_slope
+Rosaceae,Duchesnea indica,native,N,herbaceous,lower_slope
+Liliaceae,Lilium hansonii,native,N,herbaceous,lower_slope
+Athyriaceae,Athyrium acutipinnulum,native,N,herbaceous,lower_slope
+Apiaceae,Dystaenia takesimana,native,N,herbaceous,valley_flatland
+Athyriaceae,Athyrium acutipinnulum,native,N,herbaceous,valley_flatland
+Valerianaceae,Valeriana dageletiana,native,N,herbaceous,valley_flatland
+Rosaceae,Duchesnea indica,native,N,herbaceous,valley_flatland
+Asteraceae,Aster pseudoglehnii,native,NA,herbaceous,lower_slope
+Araceae,Arisaema takesimense,native,N,herbaceous,lower_slope
+Fabaceae,Vicia sativa,native,N,herbaceous,upper_slope
+Asteraceae,Aster pseudoglehnii,native,NA,herbaceous,upper_slope
+Onagraceae,Oenothera biennis,exotic,N,herbaceous,upper_slope
+Asteraceae,Lactuca indica,native,N,herbaceous,upper_slope
+Poaceae,Sasa quelpaertensis,native,N,herbaceous,NA
+Rubiaceae,Mitchella undulata,native,N,herbaceous,NA
+Polypodiaceae,Selliguea hastata,native,N,herbaceous,NA
+Asteraceae,Ainsliaea apiculata,native,N,herbaceous,NA
+Dryopteridaceae,Dryopteris erythrosora,native,N,herbaceous,NA
+Lycopodiaceae,Huperzia miyoshiana,native,N,herbaceous,NA
+Onocleaceae,Onoclea sensibilis,native,N,herbaceous,NA
+Lycopodiaceae,Huperzia serrata,native,N,herbaceous,NA
+Vitaceae,Cayratia japonica,native,N,herbaceous,NA
+Violaceae,Viola albida var. chaerophylloides,native,N,herbaceous,NA
+Araceae,Arisaema amurense f. serratum,native,N,herbaceous,NA
+Poaceae,Oplismenus undulatifolius,native,N,herbaceous,NA
+Dryopteridaceae,Dryopteris crassirhizoma,native,N,herbaceous,NA
+Dryopteridaceae,Polystichum tripteron,native,N,herbaceous,NA
+Ophioglossaceae,Botrychium ternatum,native,NA,herbaceous,NA
+Dryopteridaceae,Dryopteris lacera,native,NA,herbaceous,NA
+Caryophyllaceae,Pseudostellaria heterophylla,native,N,herbaceous,NA
+Orchidaceae,Goodyera schlechtendaliana,native,N,herbaceous,NA
+Dryopteridaceae,Arachniodes aristatissima,native,N,herbaceous,NA
+Polypodiaceae,Lemmaphyllum microphyllum,native,N,herbaceous,NA
+Fabaceae,Hylodesmum podocarpum subsp. oxyphyllum,native,N,herbaceous,NA
+Ranunculaceae,Semiaquilegia adoxoides,native,N,herbaceous,NA
+Pteridaceae,Coniogramme intermedia,native,N,herbaceous,NA
+Dryopteridaceae,Cyrtomium fortunei,native,N,herbaceous,NA
+Orchidaceae,Calanthe discolor,native,N,herbaceous,NA
+Amaranthaceae,Achyranthes bidentata var. japonica,native,N,herbaceous,NA
+Araceae,Arisaema ringens,native,N,herbaceous,NA
+Dioscoreaceae,Dioscorea septemloba,native,N,herbaceous,NA
+Poaceae,Diarrhena japonica,native,N,herbaceous,NA
+Cyperaceae,Carex humilis var. nana,native,N,herbaceous,NA
+Polygonaceae,Persicaria filiformis,native,N,herbaceous,NA
+Dioscoreaceae,Dioscorea polystachya,native,N,herbaceous,NA
+Rosaceae,Duchesnea indica,native,N,herbaceous,NA
+Liliaceae,Ophiopogon jaburan,native,N,herbaceous,NA
+Violaceae,Viola mandshurica,native,N,herbaceous,NA
+Fabaceae,Hylodesmum podocarpum,native,N,herbaceous,NA
+Urticaceae,Pilea japonica,native,N,herbaceous,NA
+Woodsiaceae,Woodsia polystichoides,native,N,herbaceous,NA
+Cucurbitaceae,Gynostemma pentaphyllum,native,N,herbaceous,NA
+Cucurbitaceae,Trichosanthes kirilowii,native,N,herbaceous,NA
+Polypodiaceae,Lepisorus ussuriensis,native,N,herbaceous,NA
+Dennstaedtiaceae,Pteridium aquilinum var. latiusculum,native,N,herbaceous,NA
+Pyrolaceae,Pyrola japonica,native,N,herbaceous,NA
+Euphorbiaceae,Mercurialis leiocarpa,native,N,herbaceous,NA
+Dryopteridaceae,Polystichum ovato-paleaceum var. coraiense,native,N,herbaceous,NA
+Liliaceae,Polygonatum odoratum var. pluriflorum,native,N,herbaceous,NA
+Athyriaceae,Athyrium yokoscense,native,N,herbaceous,NA
+Polygonaceae,Persicaria hastatosagittata,native,N,herbaceous,NA
+Chloranthaceae,Chloranthus fortunei,native,N,herbaceous,NA
+Ranunculaceae,Aconitum jaluense,native,N,herbaceous,NA
+Urticaceae,Boehmeria tricuspis,native,N,herbaceous,NA
+Violaceae,Viola acuminata,native,N,herbaceous,NA
+Dennstaedtiaceae,Dennstaedtia wilfordii,native,N,herbaceous,NA
+Violaceae,Viola collina,native,NA,herbaceous,NA
+Orchidaceae,Cephalanthera longibracteata,native,N,herbaceous,NA
+Phrymaceae,Phryma leptostachya var. oblongifolia,native,N,herbaceous,NA
+Asteraceae,Artemisia indica,native,N,herbaceous,NA
+Rosaceae,Agrimonia pilosa,native,N,herbaceous,NA
+Fumariaceae,Corydalis ochotensis,native,N,herbaceous,NA
+Dryopteridaceae,Arachniodes standishii,native,N,herbaceous,NA
+Lamiaceae,Isodon inflexus,native,N,herbaceous,NA
+Polygonaceae,Persicaria hydropiper,native,N,herbaceous,upper_slope
+Fabaceae,Trifolium pratense,exotic,N,herbaceous,valley_flatland
+Liliaceae,Barnardia japonica,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria senticosa,native,N,herbaceous,valley_flatland
+Asteraceae,Youngia japonica subsp. elstonii,native,N,herbaceous,lower_slope
+Liliaceae,Veratrum maackii,native,N,herbaceous,lower_slope
+Apiaceae,Angelica amurensis,native,N,herbaceous,upper_slope
+Athyriaceae,Cornopteris crenulato-serrulata,native,N,herbaceous,upper_slope
+Poaceae,Microstegium vimineum,native,N,herbaceous,valley_flatland
+Juncaceae,Juncus tenuis,native,N,herbaceous,valley_flatland
+Lamiaceae,Stachys japonica,native,N,herbaceous,valley_flatland
+Poaceae,Phragmites japonicus,native,N,herbaceous,lower_slope
+Cyperaceae,Scirpus radicans,native,N,herbaceous,lower_slope
+Apiaceae,Angelica amurensis,native,N,herbaceous,lower_slope
+Cyperaceae,Carex dimorpholepis,native,N,herbaceous,lower_slope
+Liliaceae,Allium macrostemon,native,N,herbaceous,lower_slope
+Ranunculaceae,Ranunculus japonicus,native,N,herbaceous,upper_slope
+Asteraceae,Ixeridium dentatum,native,N,herbaceous,valley_flatland
+Asteraceae,Ixeridium dentatum f. amplifolia,native,N,herbaceous,valley_flatland
+Rosaceae,Duchesnea indica,native,N,herbaceous,upper_slope
+Urticaceae,Urtica laetevirens,native,N,herbaceous,lower_slope
+Plagiogyriaceae,Plagiogyria euphlebia,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris gymnophylla,native,N,herbaceous,upper_slope
+Liliaceae,Polygonatum humile,native,N,herbaceous,lower_slope
+Polygonaceae,Persicaria maculosa,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris hondoensis,native,N,herbaceous,lower_slope
+Thelypteridaceae,Thelypteris beddomei,native,N,herbaceous,lower_slope
+Polygonaceae,Persicaria longiseta,native,N,herbaceous,upper_slope
+Poaceae,Pseudosasa japonica,native,N,herbaceous,ridge_summit
+Solanaceae,Solanum nigrum,exotic,N,herbaceous,ridge_summit
+Cucurbitaceae,Melothria japonica,native,N,herbaceous,ridge_summit
+Rosaceae,Potentilla centigrana,native,N,herbaceous,upper_slope
+Urticaceae,Girardinia diversifolia subsp. suborbiculata,native,N,herbaceous,valley_flatland
+Primulaceae,Androsace umbellata,native,N,herbaceous,upper_slope
+Rubiaceae,Galium aparine,exotic,N,herbaceous,lower_slope
+Poaceae,Bothriochloa ischaemum,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria senticosa,native,N,herbaceous,ridge_summit
+Lamiaceae,Salvia japonica,native,N,herbaceous,ridge_summit
+Geraniaceae,Geranium carolinianum,exotic,N,herbaceous,ridge_summit
+Fumariaceae,Corydalis pallida,native,N,herbaceous,ridge_summit
+Poaceae,Pseudosasa japonica,native,N,herbaceous,upper_slope
+Liliaceae,Veratrum maackii,native,N,herbaceous,upper_slope
+Araliaceae,Aralia cordata var. continentalis,native,N,herbaceous,ridge_summit
+Liliaceae,Maianthemum japonicum,native,N,herbaceous,ridge_summit
+Liliaceae,Veratrum maackii,native,N,herbaceous,ridge_summit
+Asteraceae,Ligularia fischeri,native,N,herbaceous,ridge_summit
+Campanulaceae,Adenophora remotiflora,native,N,herbaceous,lower_slope
+Asteraceae,Parasenecio auriculatus var. matsumurana,native,N,herbaceous,lower_slope
+Poaceae,Glyceria leptolepis,native,N,herbaceous,valley_flatland
+Asteraceae,Aster pilosus,exotic,Y,herbaceous,ridge_summit
+Poaceae,Echinochloa crus-galli,native,N,herbaceous,lower_slope
+Poaceae,Schizachyrium brevifolium,native,N,herbaceous,upper_slope
+Poaceae,Festuca arundinacea,exotic,N,herbaceous,upper_slope
+Polygonaceae,Persicaria longiseta,native,N,herbaceous,lower_slope
+Geraniaceae,Geranium thunbergii,native,N,herbaceous,valley_flatland
+Araceae,Arisaema thunbergii,native,N,herbaceous,lower_slope
+Ranunculaceae,Aconitum longecassidatum,native,N,herbaceous,lower_slope
+Dennstaedtiaceae,Dennstaedtia hirsuta,native,N,herbaceous,lower_slope
+Osmundaceae,Osmunda cinnamomea,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria posumbu,native,N,herbaceous,valley_flatland
+Araceae,Arisaema thunbergii,native,N,herbaceous,upper_slope
+Poaceae,Agrostis clavata var. nukabo,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex breviculmis,native,N,herbaceous,valley_flatland
+Primulaceae,Androsace umbellata,native,N,herbaceous,valley_flatland
+Cyperaceae,Scirpus radicans,native,N,herbaceous,valley_flatland
+Rosaceae,Potentilla kleiniana,native,N,herbaceous,valley_flatland
+Poaceae,Diarrhena koryoensis,native,N,herbaceous,upper_slope
+Cyperaceae,Carex conica,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria praetermissa,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria viscosa,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris fuscipes,native,N,herbaceous,upper_slope
+Orchidaceae,Gastrodia pubilabiata,native,N,herbaceous,upper_slope
+Dryopteridaceae,Leptorumohra borealis,native,N,herbaceous,upper_slope
+Poaceae,Poa acroleuca,native,N,herbaceous,upper_slope
+Asteraceae,Rhynchospermum verticillatum,native,N,herbaceous,upper_slope
+Orchidaceae,Gastrodia pubilabiata,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex conica,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria viscosa,native,N,herbaceous,valley_flatland
+Poaceae,Poa acroleuca,native,N,herbaceous,valley_flatland
+Thelypteridaceae,Thelypteris japonica,native,N,herbaceous,valley_flatland
+Orchidaceae,Goodyera schlechtendaliana,native,N,herbaceous,valley_flatland
+Poaceae,Lophatherum gracile,native,N,herbaceous,valley_flatland
+Orchidaceae,Liparis makinoana,native,N,herbaceous,upper_slope
+Thelypteridaceae,Leptogramma pozoi subsp. mollisima,native,N,herbaceous,valley_flatland
+Poaceae,Diarrhena koryoensis,native,N,herbaceous,valley_flatland
+Lycopodiaceae,Huperzia serrata,native,N,herbaceous,valley_flatland
+Campanulaceae,Peracarpa carnosa,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Polystichum polyblepharum,native,N,herbaceous,valley_flatland
+Liliaceae,Veratrum oxysepalum,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris nipponensis,native,N,herbaceous,upper_slope
+Orchidaceae,Goodyera velutina,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris nipponensis,native,N,herbaceous,lower_slope
+Poaceae,Arundinella hirta,native,N,herbaceous,NA
+Thelypteridaceae,Thelypteris palustris,native,N,herbaceous,NA
+Liliaceae,Smilax nipponica,native,N,herbaceous,NA
+Asteraceae,Dendranthema zawadskii var. latilobum,native,N,herbaceous,NA
+Dryopteridaceae,Dryopteris varia,native,N,herbaceous,NA
+Lamiaceae,Scutellaria indica,native,N,herbaceous,NA
+Primulaceae,Lysimachia clethroides,native,N,herbaceous,NA
+Violaceae,Viola rossii,native,N,herbaceous,NA
+Chloranthaceae,Chloranthus japonicus,native,N,herbaceous,NA
+Cyperaceae,Carex lanceolata,native,N,herbaceous,NA
+Rutaceae,Dictamnus dasycarpus,native,N,herbaceous,NA
+Liliaceae,Convallaria keiskei,native,N,herbaceous,NA
+Campanulaceae,Adenophora triphylla var. japonica,native,N,herbaceous,NA
+Dryopteridaceae,Dryopteris chinensis,native,N,herbaceous,NA
+Athyriaceae,Deparia japonica,native,N,herbaceous,NA
+Liliaceae,Veratrum oxysepalum,native,N,herbaceous,ridge_summit
+Poaceae,Molinia japonica,native,N,herbaceous,upper_slope
+Ranunculaceae,Anemone narcissiflora,native,N,herbaceous,valley_flatland
+Poaceae,Diarrhena japonica,native,N,herbaceous,ridge_summit
+Asteraceae,Parasenecio firmus,native,N,herbaceous,upper_slope
+Campanulaceae,Adenophora stricta,native,N,herbaceous,upper_slope
+Asteraceae,Parasenecio adenostyloides,native,N,herbaceous,upper_slope
+Liliaceae,Veratrum maackii,native,N,herbaceous,valley_flatland
+Asteraceae,Parasenecio auriculatus var. matsumurana,native,N,herbaceous,valley_flatland
+Liliaceae,Trillium tschonoskii,native,N,herbaceous,valley_flatland
+Ranunculaceae,Eranthis stellata,native,N,herbaceous,valley_flatland
+Ranunculaceae,Anemone raddeana,native,N,herbaceous,valley_flatland
+Onocleaceae,Onoclea sensibilis,native,N,herbaceous,valley_flatland
+Oxalidaceae,Oxalis obtriangulata,native,N,herbaceous,upper_slope
+Asteraceae,Carpesium macrocephalum,native,N,herbaceous,ridge_summit
+Asteraceae,Carpesium macrocephalum,native,N,herbaceous,lower_slope
+Athyriaceae,Deparia pycnosora var. albosquamata,native,NA,herbaceous,valley_flatland
+Dryopteridaceae,Polystichum retrosopaleaceum,native,N,herbaceous,valley_flatland
+Saxifragaceae,Saxifraga oblongifolia,native,N,herbaceous,valley_flatland
+Solanaceae,Scopolia japonica,native,N,herbaceous,lower_slope
+Liliaceae,Trillium camschatcense,native,N,herbaceous,valley_flatland
+Apiaceae,Peucedanum terebinthaceum var. deltoideum,native,N,herbaceous,valley_flatland
+Athyriaceae,Deparia pycnosora var. albosquamata,native,NA,herbaceous,upper_slope
+Saxifragaceae,Saxifraga oblongifolia,native,N,herbaceous,upper_slope
+Brassicaceae,Cardamine leucantha,native,N,herbaceous,ridge_summit
+Valerianaceae,Valeriana fauriei,native,N,herbaceous,ridge_summit
+Campanulaceae,Campanula punctata,native,N,herbaceous,ridge_summit
+Papaveraceae,Hylomecon vernalis,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium kamtschaticum,native,N,herbaceous,ridge_summit
+Asteraceae,Adenocaulon himalaicum,native,N,herbaceous,ridge_summit
+Athyriaceae,Deparia pycnosora var. albosquamata,native,NA,herbaceous,lower_slope
+Ranunculaceae,Anemone narcissiflora,native,N,herbaceous,lower_slope
+Cyperaceae,Carex egena,native,N,herbaceous,upper_slope
+Apiaceae,Peucedanum terebinthaceum var. deltoideum,native,N,herbaceous,upper_slope
+Polygonaceae,Fallopia ciliinervis,native,N,herbaceous,lower_slope
+Boraginaceae,Trigonotis icumae,native,N,herbaceous,lower_slope
+Polygonaceae,Fallopia ciliinervis,native,N,herbaceous,upper_slope
+Asteraceae,Crepidiastrum chelidoniifolium,native,N,herbaceous,ridge_summit
+Athyriaceae,Deparia pterorachis,native,N,herbaceous,lower_slope
+Liliaceae,Polygonatum falcatum,native,N,herbaceous,lower_slope
+Fabaceae,Glycine soja,native,N,herbaceous,ridge_summit
+Polygonaceae,Persicaria longiseta,native,N,herbaceous,ridge_summit
+Polygonaceae,Persicaria hydropiper,native,N,herbaceous,ridge_summit
+Asteraceae,Achillea alpina,native,N,herbaceous,ridge_summit
+Asteraceae,Petasites japonicus,native,N,herbaceous,ridge_summit
+Fumariaceae,Corydalis pauciovulata,native,N,herbaceous,valley_flatland
+Rosaceae,Aruncus dioicus var. kamtschaticus,native,N,herbaceous,valley_flatland
+Poaceae,Molinia japonica,native,N,herbaceous,lower_slope
+Asteraceae,Cirsium japonicum var. maackii,native,N,herbaceous,lower_slope
+Poaceae,Themeda triandra,native,N,herbaceous,lower_slope
+Liliaceae,Veratrum nigrum,native,N,herbaceous,lower_slope
+Caryophyllaceae,Pseudostellaria setulosa,native,N,herbaceous,upper_slope
+Brassicaceae,Thlaspi arvense,exotic,N,herbaceous,upper_slope
+Lamiaceae,Mentha canadensis,native,N,herbaceous,upper_slope
+Asteraceae,Ixeridium dentatum f. amplifolia,native,N,herbaceous,lower_slope
+Cyperaceae,Cyperus amuricus,native,N,herbaceous,upper_slope
+Poaceae,Microstegium vimineum,native,N,herbaceous,ridge_summit
+Convolvulaceae,Ipomoea purpurea,exotic,N,herbaceous,upper_slope
+Polygonaceae,Persicaria viscosa,native,N,herbaceous,ridge_summit
+Chenopodiaceae,Chenopodium album,exotic,N,herbaceous,ridge_summit
+Polygonaceae,Persicaria thunbergii,native,N,herbaceous,ridge_summit
+Polygonaceae,Persicaria conspicua,native,N,herbaceous,upper_slope
+Lamiaceae,Glechoma grandis,native,N,herbaceous,lower_slope
+Asteraceae,Youngia japonica subsp. elstonii,native,N,herbaceous,upper_slope
+Violaceae,Viola lactiflora,native,N,herbaceous,valley_flatland
+Ranunculaceae,Hepatica maxima,native,N,herbaceous,ridge_summit
+Liliaceae,Maianthemum dilatatum,native,N,herbaceous,ridge_summit
+Rubiaceae,Mitchella undulata,native,N,herbaceous,ridge_summit
+Araceae,Arisaema serratum,native,N,herbaceous,ridge_summit
+Asteraceae,Saussurea macrolepis,native,N,herbaceous,ridge_summit
+Violaceae,Viola kusanoana,native,N,herbaceous,ridge_summit
+Violaceae,Viola kusanoana,native,N,herbaceous,upper_slope
+Ranunculaceae,Hepatica maxima,native,N,herbaceous,lower_slope
+Liliaceae,Disporum sessile,native,N,herbaceous,lower_slope
+Liliaceae,Allium ochotense,native,N,herbaceous,lower_slope
+Poaceae,Sasa kurilensis,native,N,herbaceous,lower_slope
+Asteraceae,Solidago virgaurea subsp. gigantea,native,N,herbaceous,lower_slope
+Asteraceae,Solidago virgaurea subsp. gigantea,native,N,herbaceous,upper_slope
+Liliaceae,Allium ochotense,native,N,herbaceous,upper_slope
+Liliaceae,Allium ochotense,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium odoratum,native,N,herbaceous,ridge_summit
+Asteraceae,Saussurea grandifolia,native,N,herbaceous,ridge_summit
+Apiaceae,Dystaenia takesimana,native,N,herbaceous,ridge_summit
+Vitaceae,Cayratia japonica,native,N,herbaceous,ridge_summit
+Liliaceae,Disporum sessile,native,N,herbaceous,ridge_summit
+Scrophulariaceae,Scrophularia takesimensis,native,N,herbaceous,upper_slope
+Cyperaceae,Carex blepharicarpa,native,N,herbaceous,upper_slope
+Crassulaceae,Sedum takesimense,native,N,herbaceous,upper_slope
+Asteraceae,Aster pseudoglehnii,native,NA,herbaceous,ridge_summit
+Liliaceae,Disporum sessile,native,N,herbaceous,upper_slope
+Dryopteridaceae,Polystichum retrosopaleaceum,native,N,herbaceous,upper_slope
+Poaceae,Sasa kurilensis,native,N,herbaceous,upper_slope
+Fabaceae,Hylodesmum oldhamii,native,N,herbaceous,ridge_summit
+Caryophyllaceae,Lychnis cognata,native,N,herbaceous,ridge_summit
+Polygonaceae,Fallopia multiflora,exotic,N,herbaceous,valley_flatland
+Asteraceae,Parasenecio auriculatus var. kamtschaticus,native,N,herbaceous,valley_flatland
+Fabaceae,Hylodesmum oldhamii,native,N,herbaceous,lower_slope
+Cyperaceae,Carex wahuensis var. robusta,native,N,herbaceous,lower_slope
+Cucurbitaceae,Trichosanthes kirilowii,native,N,herbaceous,valley_flatland
+Polypodiaceae,Pyrrosia lingua,native,N,herbaceous,lower_slope
+Pteridaceae,Coniogramme intermedia,native,N,herbaceous,ridge_summit
+Asteraceae,Hypochaeris radicata,exotic,Y,herbaceous,ridge_summit
+Cyperaceae,Cyperus amuricus,native,N,herbaceous,ridge_summit
+Asteraceae,Youngia japonica subsp. elstonii,native,N,herbaceous,ridge_summit
+Thelypteridaceae,Thelypteris glanduligera,native,N,herbaceous,ridge_summit
+Polypodiaceae,Pyrrosia lingua,native,N,herbaceous,ridge_summit
+Polygonaceae,Rumex crispus,exotic,N,herbaceous,ridge_summit
+Onagraceae,Oenothera glazioviana,exotic,N,herbaceous,valley_flatland
+Asteraceae,Hypochaeris radicata,exotic,Y,herbaceous,valley_flatland
+Thelypteridaceae,Thelypteris glanduligera,native,N,herbaceous,valley_flatland
+Pteridaceae,Coniogramme intermedia,native,N,herbaceous,upper_slope
+Asteraceae,Ainsliaea apiculata,native,N,herbaceous,valley_flatland
+Violaceae,Viola boissieuana,native,N,herbaceous,valley_flatland
+Polypodiaceae,Lepisorus thunbergianus,native,N,herbaceous,valley_flatland
+Araceae,Arisaema ringens,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Dryopteris erythrosora,native,N,herbaceous,ridge_summit
+Violaceae,Viola grypoceras,native,N,herbaceous,ridge_summit
+Ophioglossaceae,Botrychium virginianum,native,N,herbaceous,ridge_summit
+Orchidaceae,Lecanorchis japonica,native,N,herbaceous,upper_slope
+Pyrolaceae,Monotropa uniflora,native,N,herbaceous,upper_slope
+Gentianaceae,Tripterospermum japonicum,native,N,herbaceous,upper_slope
+Poaceae,Sasa quelpaertensis,native,N,herbaceous,ridge_summit
+Acanthaceae,Strobilanthes oliganthus,native,N,herbaceous,ridge_summit
+Dennstaedtiaceae,Hypolepis punctata,native,N,herbaceous,valley_flatland
+Pteridaceae,Coniogramme intermedia,native,N,herbaceous,valley_flatland
+Ranunculaceae,Adonis multiflora,native,N,herbaceous,valley_flatland
+Aristolochiaceae,Asarum maculatum,native,N,herbaceous,valley_flatland
+Orchidaceae,Tipularia japonica,native,N,herbaceous,valley_flatland
+Violaceae,Viola grypoceras,native,N,herbaceous,valley_flatland
+Violaceae,Viola japonica,native,N,herbaceous,valley_flatland
+Scrophulariaceae,Mazus pumilus,native,N,herbaceous,valley_flatland
+Orchidaceae,Cephalanthera falcata,native,N,herbaceous,valley_flatland
+Orchidaceae,Cephalanthera subaphylla,native,N,herbaceous,valley_flatland
+Asteraceae,Rhynchospermum verticillatum,native,N,herbaceous,valley_flatland
+Orchidaceae,Goodyera maximowicziana,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria perfoliata,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris hondoensis,native,N,herbaceous,valley_flatland
+Ranunculaceae,Cimicifuga japonica,native,N,herbaceous,upper_slope
+Violaceae,Viola albida var. takahashii,native,N,herbaceous,upper_slope
+Poaceae,Diarrhena fauriei,native,N,herbaceous,lower_slope
+Violaceae,Viola albida var. takahashii,native,N,herbaceous,lower_slope
+Asteraceae,Ainsliaea apiculata,native,N,herbaceous,lower_slope
+Rubiaceae,Galium trifidum,native,N,herbaceous,upper_slope
+Lamiaceae,Ajuga decumbens,native,N,herbaceous,valley_flatland
+Orchidaceae,Goodyera biflora,native,N,herbaceous,upper_slope
+Ranunculaceae,Hepatica insularis,native,N,herbaceous,valley_flatland
+Violaceae,Viola albida var. takahashii,native,N,herbaceous,valley_flatland
+Rubiaceae,Galium trifidum,native,N,herbaceous,valley_flatland
+Athyriaceae,Deparia pterorachis,native,N,herbaceous,valley_flatland
+Rubiaceae,Mitchella undulata,native,N,herbaceous,upper_slope
+Araceae,Arisaema serratum,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Polystichum ovato-paleaceum var. coraiense,native,N,herbaceous,upper_slope
+Orchidaceae,Calanthe sieboldii,native,N,herbaceous,valley_flatland
+Ranunculaceae,Cimicifuga japonica,native,N,herbaceous,valley_flatland
+Campanulaceae,Codonopsis ussuriensis,native,N,herbaceous,ridge_summit
+Apiaceae,Hydrocotyle sibthorpioides,native,N,herbaceous,upper_slope
+Orchidaceae,Liparis makinoana,native,N,herbaceous,valley_flatland
+Orchidaceae,Calanthe reflexa,native,N,herbaceous,upper_slope
+Orchidaceae,Calanthe reflexa,native,N,herbaceous,valley_flatland
+Polypodiaceae,Lepisorus thunbergianus,native,N,herbaceous,lower_slope
+Dryopteridaceae,Dryopteris fuscipes,native,N,herbaceous,valley_flatland
+Ranunculaceae,Semiaquilegia adoxoides,native,N,herbaceous,valley_flatland
+Orchidaceae,Platanthera hologlottis,native,N,herbaceous,upper_slope
+Polypodiaceae,Pyrrosia hastata,native,N,herbaceous,valley_flatland
+Ranunculaceae,Hepatica insularis,native,N,herbaceous,lower_slope
+Orchidaceae,Liparis krameri,native,N,herbaceous,ridge_summit
+Fabaceae,Vicia cracca,native,N,herbaceous,upper_slope
+Asteraceae,Ageratina altissima,exotic,Y,herbaceous,valley_flatland
+Osmundaceae,Osmunda claytoniana,native,N,herbaceous,valley_flatland
+Liliaceae,Polygonatum inflatum,native,N,herbaceous,lower_slope
+Asteraceae,Ageratina altissima,exotic,Y,herbaceous,lower_slope
+Caryophyllaceae,Arenaria serpyllifolia,native,N,herbaceous,valley_flatland
+Athyriaceae,Deparia coreana,native,N,herbaceous,lower_slope
+Hypodematiaceae,Hypodematium glanduloso-pilosum,native,N,herbaceous,lower_slope
+Asteraceae,Saussurea seoulensis,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris gymnophylla,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Pseudostellaria coreana,native,N,herbaceous,valley_flatland
+Rosaceae,Geum japonicum,native,N,herbaceous,lower_slope
+Polygonaceae,Persicaria lapathifolia,native,N,herbaceous,valley_flatland
+Athyriaceae,Athyrium alpestre,native,N,herbaceous,valley_flatland
+Chenopodiaceae,Chenopodium album,exotic,N,herbaceous,valley_flatland
+Onagraceae,Oenothera biennis,exotic,N,herbaceous,lower_slope
+Asteraceae,Ageratina altissima,exotic,Y,herbaceous,upper_slope
+Onocleaceae,Onoclea sensibilis,native,N,herbaceous,upper_slope
+Onagraceae,Oenothera biennis,exotic,N,herbaceous,valley_flatland
+Poaceae,Lophatherum sinense,native,N,herbaceous,lower_slope
+Fumariaceae,Corydalis heterocarpa,native,N,herbaceous,upper_slope
+Rosaceae,Agrimonia coreana,native,N,herbaceous,valley_flatland
+Poaceae,Agrostis clavata,native,N,herbaceous,valley_flatland
+Campanulaceae,Adenophora grandiflora,native,N,herbaceous,lower_slope
+Apiaceae,Sanicula rubriflora,native,N,herbaceous,lower_slope
+Potamogetonaceae,Potamogeton distinctus,native,N,herbaceous,lower_slope
+Liliaceae,Allium monanthum,native,N,herbaceous,lower_slope
+Apiaceae,Ostericum sieboldii,native,N,herbaceous,upper_slope
+Fumariaceae,Corydalis heterocarpa,native,N,herbaceous,lower_slope
+Asteraceae,Saussurea seoulensis,native,N,herbaceous,ridge_summit
+Liliaceae,Polygonatum humile,native,N,herbaceous,ridge_summit
+Athyriaceae,Athyrium concinnum,native,N,herbaceous,upper_slope
+Hypodematiaceae,Hypodematium glanduloso-pilosum,native,N,herbaceous,upper_slope
+Poaceae,Pseudosasa japonica,native,N,herbaceous,valley_flatland
+Apiaceae,Ostericum sieboldii,native,N,herbaceous,lower_slope
+Urticaceae,Boehmeria japonica,native,N,herbaceous,valley_flatland
+Liliaceae,Tricyrtis macropoda,native,N,herbaceous,lower_slope
+Ranunculaceae,Adonis amurensis,native,N,herbaceous,lower_slope
+Asteraceae,Xanthium strumarium,exotic,N,herbaceous,valley_flatland
+Asteraceae,Sonchus oleraceus,exotic,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria dissitiflora,native,N,herbaceous,valley_flatland
+Saxifragaceae,Astilboides tabularis,native,N,herbaceous,valley_flatland
+Ranunculaceae,Aconitum jaluense,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Polystichum craspedosorum,native,N,herbaceous,valley_flatland
+Poaceae,Molinia japonica,native,N,herbaceous,valley_flatland
+Ranunculaceae,Thalictrum uchiyamae,native,N,herbaceous,upper_slope
+Lamiaceae,Ajuga spectabilis,native,N,herbaceous,upper_slope
+Lamiaceae,Ajuga spectabilis,native,N,herbaceous,lower_slope
+Poaceae,Eragrostis multicaulis,native,N,herbaceous,lower_slope
+Lamiaceae,Lamium amplexicaule,native,N,herbaceous,lower_slope
+Primulaceae,Androsace umbellata,native,N,herbaceous,lower_slope
+Brassicaceae,Cardamine komarovii,native,N,herbaceous,valley_flatland
+Selaginellaceae,Selaginella rossii,native,N,herbaceous,lower_slope
+Cucurbitaceae,Schizopepon bryoniifolius,native,N,herbaceous,upper_slope
+Asteraceae,Carpesium triste,native,N,herbaceous,upper_slope
+Brassicaceae,Cardamine scutata,native,N,herbaceous,lower_slope
+Lamiaceae,Teucrium viscidum var. miquelianum,native,N,herbaceous,lower_slope
+Verbenaceae,Tripora divaricata,native,N,herbaceous,lower_slope
+Liliaceae,Hosta clausa,native,N,herbaceous,lower_slope
+Urticaceae,Boehmeria platanifolia,native,N,herbaceous,ridge_summit
+Caryophyllaceae,Gypsophila oldhamiana,native,N,herbaceous,ridge_summit
+Asteraceae,Artemisia annua,native,N,herbaceous,ridge_summit
+Brassicaceae,Thlaspi arvense,exotic,N,herbaceous,valley_flatland
+Caryophyllaceae,Gypsophila oldhamiana,native,N,herbaceous,valley_flatland
+Poaceae,Diarrhena fauriei,native,N,herbaceous,ridge_summit
+Araceae,Arisaema thunbergii,native,N,herbaceous,valley_flatland
+Asteraceae,Artemisia codonocephala,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex dimorpholepis,native,N,herbaceous,valley_flatland
+Saxifragaceae,Chrysosplenium japonicum,native,N,herbaceous,valley_flatland
+Commelinaceae,Streptolirion volubile,native,N,herbaceous,valley_flatland
+Liliaceae,Disporum sessile,native,N,herbaceous,valley_flatland
+Poaceae,Bromus japonicus,native,N,herbaceous,upper_slope
+Asteraceae,Artemisia selengensis,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex bostrychostigma,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria muricata,native,N,herbaceous,valley_flatland
+Ranunculaceae,Cimicifuga foetida,native,N,herbaceous,valley_flatland
+Fumariaceae,Corydalis heterocarpa,native,N,herbaceous,valley_flatland
+Araceae,Symplocarpus renifolius,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex miyabei,native,N,herbaceous,valley_flatland
+Liliaceae,Polygonatum stenophyllum,native,N,herbaceous,valley_flatland
+Saxifragaceae,Chrysosplenium japonicum,native,N,herbaceous,lower_slope
+Polygonaceae,Persicaria sagittata var. sieboldii,native,N,herbaceous,lower_slope
+Boraginaceae,Trigonotis peduncularis,native,N,herbaceous,valley_flatland
+Juncaceae,Luzula capitata,native,N,herbaceous,valley_flatland
+Campanulaceae,Adenophora verticillata var. hirsuta,native,N,herbaceous,lower_slope
+Caryophyllaceae,Cerastium fontanum subsp. vulgare,native,N,herbaceous,lower_slope
+Ranunculaceae,Megaleranthis saniculifolia,native,N,herbaceous,upper_slope
+Liliaceae,Polygonatum humile,native,N,herbaceous,valley_flatland
+Liliaceae,Tulipa edulis,native,N,herbaceous,valley_flatland
+Orchidaceae,Liparis krameri,native,N,herbaceous,valley_flatland
+Balsaminaceae,Impatiens textorii,native,N,herbaceous,valley_flatland
+Asteraceae,Lactuca indica,native,N,herbaceous,lower_slope
+Polygonaceae,Persicaria maculosa,native,N,herbaceous,valley_flatland
+Liliaceae,Streptopus koreanus,native,N,herbaceous,upper_slope
+Cyperaceae,Carex vesicaria,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Dryopteris expansa,native,N,herbaceous,valley_flatland
+Thelypteridaceae,Thelypteris quelpartensis,native,N,herbaceous,valley_flatland
+Araceae,Symplocarpus nipponicus,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea quinquelobata,native,N,herbaceous,lower_slope
+Ranunculaceae,Caltha palustris,native,N,herbaceous,lower_slope
+Poaceae,Melica nutans,native,N,herbaceous,valley_flatland
+Campanulaceae,Hanabusaya asiatica,native,N,herbaceous,lower_slope
+Ranunculaceae,Aconitum longecassidatum,native,N,herbaceous,upper_slope
+Poaceae,Cymbopogon goeringii,native,N,herbaceous,upper_slope
+Juncaceae,Juncus decipiens,native,N,herbaceous,upper_slope
+Poaceae,Digitaria ciliaris,native,N,herbaceous,upper_slope
+Liliaceae,Lilium amabile,native,N,herbaceous,valley_flatland
+Ranunculaceae,Anemone raddeana,native,N,herbaceous,lower_slope
+Rosaceae,Potentilla dickinsii,native,N,herbaceous,upper_slope
+Saxifragaceae,Chrysosplenium barbatum,native,N,herbaceous,upper_slope
+Ranunculaceae,Anemone raddeana,native,N,herbaceous,upper_slope
+Balsaminaceae,Impatiens textorii,native,N,herbaceous,upper_slope
+Apiaceae,Angelica amurensis,native,N,herbaceous,valley_flatland
+Ranunculaceae,Cimicifuga austrokoreana,native,N,herbaceous,valley_flatland
+Lamiaceae,Clinopodium gracile,native,N,herbaceous,valley_flatland
+Liliaceae,Allium monanthum,native,N,herbaceous,valley_flatland
+Lamiaceae,Leonurus japonicus,native,N,herbaceous,lower_slope
+Poaceae,Phragmites japonicus,native,N,herbaceous,upper_slope
+Asteraceae,Sonchus oleraceus,exotic,N,herbaceous,ridge_summit
+Caryophyllaceae,Pseudostellaria davidii,native,N,herbaceous,lower_slope
+Fumariaceae,Corydalis alata,native,N,herbaceous,upper_slope
+Saxifragaceae,Mukdenia rossii,native,N,herbaceous,upper_slope
+Apiaceae,Cryptotaenia japonica,native,N,herbaceous,valley_flatland
+Ranunculaceae,Paeonia lactiflora,native,N,herbaceous,valley_flatland
+Poaceae,Molinia japonica,native,N,herbaceous,ridge_summit
+Fabaceae,Rhynchosia acuminatifolia,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium koreanum,native,N,herbaceous,upper_slope
+Liliaceae,Disporum uniflorum,native,N,herbaceous,lower_slope
+Dioscoreaceae,Dioscorea quinquelobata,native,N,herbaceous,valley_flatland
+Liliaceae,Barnardia japonica,native,N,herbaceous,ridge_summit
+Polygonaceae,Persicaria posumbu,native,N,herbaceous,lower_slope
+Scrophulariaceae,Melampyrum roseum var. ovalifolium,native,N,herbaceous,ridge_summit
+Dryopteridaceae,Dryopteris maximowiczii,native,N,herbaceous,valley_flatland
+Poaceae,Digitaria ciliaris,native,N,herbaceous,valley_flatland
+Asteraceae,Galinsoga quadriradiata,exotic,N,herbaceous,valley_flatland
+Asteraceae,Centipeda minima,native,N,herbaceous,valley_flatland
+Poaceae,Elymus tsukushiensis,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex sabynensis,native,N,herbaceous,valley_flatland
+Asteraceae,Ixeris chinensis subsp. strigosa,native,N,herbaceous,lower_slope
+Cyperaceae,Carex sabynensis,native,N,herbaceous,lower_slope
+Liliaceae,Polygonatum sibiricum,native,N,herbaceous,valley_flatland
+Liliaceae,Streptopus ovalis,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium spurium,exotic,N,herbaceous,ridge_summit
+Ranunculaceae,Cimicifuga heracleifolia,native,N,herbaceous,ridge_summit
+Liliaceae,Polygonatum inflatum,native,N,herbaceous,ridge_summit
+Campanulaceae,Adenophora verticillata var. hirsuta,native,N,herbaceous,ridge_summit
+Dioscoreaceae,Dioscorea quinquelobata,native,N,herbaceous,ridge_summit
+Poaceae,Phaenosperma globosum,native,N,herbaceous,ridge_summit
+Urticaceae,Nanocnide japonica,native,N,herbaceous,valley_flatland
+Apiaceae,Bupleurum longeradiatum,native,N,herbaceous,upper_slope
+Scrophulariaceae,Pseudolysimachion longifolium,native,N,herbaceous,upper_slope
+Geraniaceae,Geranium knuthii,native,N,herbaceous,upper_slope
+Ranunculaceae,Anemone koraiensis,native,N,herbaceous,upper_slope
+Lamiaceae,Scutellaria insignis,native,N,herbaceous,lower_slope
+Fabaceae,Hylodesmum podocarpum var. mandshuricum,native,N,herbaceous,lower_slope
+Lamiaceae,Scutellaria insignis,native,N,herbaceous,upper_slope
+Violaceae,Viola yedoensis,native,N,herbaceous,valley_flatland
+Asteraceae,Lactuca indica,native,N,herbaceous,valley_flatland
+Poaceae,Eragrostis multicaulis,native,N,herbaceous,valley_flatland
+Cyperaceae,Carex aphanolepis,native,N,herbaceous,valley_flatland
+Polypodiaceae,Polypodium vulgare,native,N,herbaceous,lower_slope
+Liliaceae,Polygonatum thunbergii,native,N,herbaceous,upper_slope
+Polygonaceae,Fallopia multiflora,exotic,N,herbaceous,upper_slope
+Dryopteridaceae,Arachniodes amabilis,native,N,herbaceous,ridge_summit
+Apiaceae,Sanicula tuberculata,native,N,herbaceous,lower_slope
+Asteraceae,Eupatorium makinoi var. oppositifolium,native,N,herbaceous,ridge_summit
+Violaceae,Viola phalacrocarpa,native,N,herbaceous,valley_flatland
+Boraginaceae,Trigonotis icumae,native,N,herbaceous,valley_flatland
+Poaceae,Elymus tsukushiensis,native,N,herbaceous,valley_flatland
+Convolvulaceae,Ipomoea purpurea,exotic,N,herbaceous,valley_flatland
+Commelinaceae,Commelina coreana,native,N,herbaceous,valley_flatland
+Orchidaceae,Bletilla striata,native,N,herbaceous,valley_flatland
+Asteraceae,Sigesbeckia pubescens,native,N,herbaceous,upper_slope
+Cystopteridaceae,Gymnocarpium dryopteris,native,N,herbaceous,upper_slope
+Rosaceae,Potentilla squamosa,native,N,herbaceous,lower_slope
+Poaceae,Elymus tsukushiensis,native,N,herbaceous,lower_slope
+Asteraceae,Eupatorium makinoi var. oppositifolium,native,N,herbaceous,lower_slope
+Gentianaceae,Gentiana triflora,native,N,herbaceous,lower_slope
+Asteraceae,Eupatorium makinoi var. oppositifolium,native,N,herbaceous,valley_flatland
+Primulaceae,Primula jesoana var. pubescens,native,N,herbaceous,valley_flatland
+Dryopteridaceae,Leptorumohra borealis,native,N,herbaceous,lower_slope
+Caryophyllaceae,Silene baccifera,native,N,herbaceous,lower_slope
+Poaceae,Agrostis clavata,native,N,herbaceous,lower_slope
+Commelinaceae,Streptolirion volubile,native,N,herbaceous,lower_slope
+Rosaceae,Agrimonia coreana,native,N,herbaceous,ridge_summit
+Asteraceae,Saussurea conandrifolia,native,N,herbaceous,valley_flatland
+Apiaceae,Sanicula rubriflora,native,N,herbaceous,valley_flatland
+Polygonaceae,Persicaria lapathifolia,native,N,herbaceous,upper_slope
+Liliaceae,Polygonatum thunbergii,native,N,herbaceous,valley_flatland
+Brassicaceae,Sisymbrium luteum,native,N,herbaceous,valley_flatland
+Rubiaceae,Galium kamtschaticum,native,N,herbaceous,valley_flatland
+Poaceae,Bromus japonicus,native,N,herbaceous,valley_flatland
+Iridaceae,Iris ruthenica,native,N,herbaceous,lower_slope
+Polygonaceae,Bistorta officinalis subsp. japonica,native,N,herbaceous,upper_slope
+Dryopteridaceae,Dryopteris saxifragi-varia,native,N,herbaceous,valley_flatland
+Athyriaceae,Athyrium iseanum,native,N,herbaceous,valley_flatland
+Caryophyllaceae,Silene baccifera,native,N,herbaceous,valley_flatland
+Poaceae,Eulalia speciosa,native,N,herbaceous,ridge_summit
+Valerianaceae,Patrinia saniculifolia,native,N,herbaceous,lower_slope
+Lamiaceae,Ajuga spectabilis,native,N,herbaceous,valley_flatland
+Poaceae,Phragmites australis,native,N,herbaceous,upper_slope
+Moraceae,Fatoua villosa,native,N,herbaceous,valley_flatland
+Poaceae,Imperata cylindrica,native,N,herbaceous,valley_flatland
+Asteraceae,Tagetes minuta,exotic,N,herbaceous,upper_slope
+Poaceae,Poa pratensis,exotic,N,herbaceous,lower_slope
+Poaceae,Eriochloa villosa,native,N,herbaceous,valley_flatland
+Polygonaceae,Rumex acetosa,native,N,herbaceous,valley_flatland
+Ranunculaceae,Pulsatilla cernua,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria perfoliata,native,N,herbaceous,ridge_summit
+Rosaceae,Geum japonicum,native,N,herbaceous,ridge_summit
+Cyperaceae,Carex dimorpholepis,native,N,herbaceous,ridge_summit
+Ranunculaceae,Aconitum austrokoreense,native,N,herbaceous,valley_flatland
+Rubiaceae,Galium koreanum,native,N,herbaceous,lower_slope
+Apiaceae,Sillaphyton podagraria,native,N,herbaceous,ridge_summit
+Apiaceae,Sillaphyton podagraria,native,N,herbaceous,lower_slope
+Ranunculaceae,Aconitum austrokoreense,native,N,herbaceous,lower_slope
+Apiaceae,Sillaphyton podagraria,native,N,herbaceous,valley_flatland
+Poaceae,Calamagrostis purpurea,native,N,herbaceous,upper_slope
+Asteraceae,Carduus crispus,exotic,N,herbaceous,ridge_summit
+Asteraceae,Artemisia lancea,native,N,herbaceous,upper_slope
+Rosaceae,Duchesnea indica,native,N,herbaceous,ridge_summit
+Rosaceae,Sanguisorba stipulata,native,N,herbaceous,upper_slope
+Asteraceae,Rhaponticum uniflorum,native,N,herbaceous,upper_slope
+Polygonaceae,Persicaria nepalensis,native,N,herbaceous,ridge_summit
+Violaceae,Viola tokubuchiana var. takedana,native,N,herbaceous,ridge_summit
+Rosaceae,Potentilla supina,native,N,herbaceous,valley_flatland
+Scrophulariaceae,Pedicularis resupinata,native,N,herbaceous,ridge_summit
+Asteraceae,Ageratina altissima,exotic,Y,herbaceous,ridge_summit
+Dennstaedtiaceae,Dennstaedtia hirsuta,native,N,herbaceous,valley_flatland
+Apiaceae,Bupleurum longeradiatum,native,N,herbaceous,ridge_summit
+Boraginaceae,Trigonotis radicans var. sericea,native,N,herbaceous,ridge_summit
+Gentianaceae,Gentiana zollingeri,native,N,herbaceous,ridge_summit
+Polypodiaceae,Pleurosoriopsis makinoi,native,N,herbaceous,upper_slope
+Primulaceae,Primula jesoana var. pubescens,native,N,herbaceous,ridge_summit
+Osmundaceae,Osmunda cinnamomea,native,N,herbaceous,ridge_summit
+Rubiaceae,Galium maximowiczii,native,N,herbaceous,ridge_summit
+Saxifragaceae,Chrysosplenium flagelliferum,native,N,herbaceous,valley_flatland
+Liliaceae,Lloydia triflora,native,N,herbaceous,valley_flatland
+Ranunculaceae,Anemone koraiensis,native,N,herbaceous,valley_flatland
+Saxifragaceae,Chrysosplenium barbatum,native,N,herbaceous,valley_flatland
+Fumariaceae,Corydalis remota,native,N,herbaceous,ridge_summit
+Onagraceae,Circaea mollis,native,N,herbaceous,upper_slope
+Brassicaceae,Erysimum amurense,native,N,herbaceous,valley_flatland
+Lamiaceae,Nepeta cataria,native,N,herbaceous,upper_slope
+Euphorbiaceae,Mercurialis leiocarpa,native,N,herbaceous,upper_slope
+Ranunculaceae,Pulsatilla cernua,native,N,herbaceous,lower_slope
+Brassicaceae,Erysimum amurense,native,N,herbaceous,lower_slope
+Poaceae,Zoysia japonica,native,N,herbaceous,lower_slope
+Geraniaceae,Geranium wilfordii,native,N,herbaceous,upper_slope
