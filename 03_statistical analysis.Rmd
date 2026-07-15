@@ -1,0 +1,727 @@
+---
+title: "03_statistical analysis"
+output: html_document
+date: "2026-07-15"
+editor_options: 
+  chunk_output_type: console
+---
+## Purpose
+
+This script reproduces the statistical analyses, species summaries, and manuscript figures using the deposited vegetation and imputed trait datasets. Phylogeny construction and trait imputation are documented separately in `01_phylogeny_construction.Rmd` and `02_trait_imputation.Rmd`.
+
+```{r setup}
+
+library(readr)
+library(tidyverse)
+library(ade4)
+library(scatterplot3d)
+library(ggpubr)
+
+```
+
+## Read in datasets
+
+```{r read-data}
+
+traits_scaled <- read_csv(
+  "traits_scaled.csv"
+) %>%
+  mutate(
+    species = str_replace_all(
+      species, "_", " ")
+  )
+
+traits_unscaled <- read_csv(
+  "traits_unscaled.csv"
+)
+
+vegetation <- read_csv(
+  "vegetation_data.csv",
+  na = ""
+)
+
+```
+
+## Join imputed traits to vegetation data
+
+```{r join-data}
+
+#function to prepare data for analysis
+prepare_analysis_data <- function(vegetation_data, trait_data) {
+
+  vegetation_data %>%
+    mutate(
+      category = case_when(
+        family == "Asteraceae" & category == "exotic" ~ "Aster_exotic",
+        family == "Asteraceae" & category == "native" ~ "Aster_native",
+        TRUE ~ category
+      ),
+      category = factor(
+        category,
+        levels = c(
+          "native",
+          "Aster_exotic",
+          "Aster_native"
+        )
+      )
+    ) %>%
+    filter(
+      !is.na(category),
+      !is.na(topography)
+    ) %>%
+    left_join(
+      trait_data,
+      by = "species"
+    ) %>%
+    mutate(
+      presence = 1
+    ) %>%
+    select(
+      topography,
+      family,
+      species,
+      category,
+      presence,
+      height_m,
+      SLA_mm2_mg.1,
+      seed_dry_mass_mg
+    ) %>%
+    distinct() %>%
+    pivot_wider(
+      names_from = topography,
+      values_from = presence,
+      values_fill = 0
+    ) %>%
+    filter(
+      !is.na(height_m),
+      !is.na(SLA_mm2_mg.1),
+      !is.na(seed_dry_mass_mg)
+    )
+}
+
+analysis_scaled <- prepare_analysis_data(
+  vegetation_data = vegetation,
+  trait_data = traits_scaled
+)
+
+analysis_unscaled <- prepare_analysis_data(
+  vegetation_data = vegetation,
+  trait_data = traits_unscaled
+)
+
+dim(analysis_scaled)
+
+dim(analysis_unscaled)
+
+```
+
+## Separate topographic groups
+
+```{r topo-groups}
+
+# separate topographic groups for scaled trait data
+upper_slope <- analysis_scaled %>%
+  filter(upper_slope == 1)
+
+lower_slope <- analysis_scaled %>%
+  filter(lower_slope == 1)
+
+ridge_summit <- analysis_scaled %>%
+  filter(ridge_summit == 1)
+
+valley_flatland <- analysis_scaled %>%
+  filter(valley_flatland == 1)
+
+# and separate topographic groups for unscaled trait data
+upper_slope_unscaled <- analysis_unscaled %>%
+  filter(upper_slope == 1)
+
+lower_slope_unscaled <- analysis_unscaled %>%
+  filter(lower_slope == 1)
+
+ridge_summit_unscaled <- analysis_unscaled %>%
+  filter(ridge_summit == 1)
+
+valley_flatland_unscaled <- analysis_unscaled %>%
+  filter(valley_flatland == 1)
+
+# check counts for species categories in each topo group
+table(upper_slope$category)
+table(lower_slope$category)
+table(ridge_summit$category)
+table(valley_flatland$category)
+
+
+```
+
+## Cumulative distribution function analyses
+
+CDFs were calculated from species’ Euclidean distances to the centroid of native non-Asteraceae species in standardized three-dimensional trait space. Randomization tests compared native Asteraceae and exotic Asteraceae with the native reference group within each topographic group.
+
+```{r cdf-functions}
+
+calculate_cdf <- function(threshold, distances) {
+  length(
+    distances[abs(distances) <= threshold]
+  ) / length(distances)
+}
+
+randomize_cdf <- function(
+  scores,
+  status,
+  test_group,
+  n_randomizations = 999
+) {
+  
+  native_centroid <- apply(
+    scores[status == "native", ],
+    2,
+    mean
+  )
+  
+  n_test_species <- sum(
+    status == test_group
+  )
+  
+  distances <- as.matrix(
+    dist(
+      rbind(
+        native_centroid,
+        scores
+      ),
+      method = "euclidean"
+    )
+  )[, 1]
+  
+  distances <- distances[-1]
+  
+  x_values <- seq(
+    from = 0,
+    to = max(distances),
+    length.out = 1000
+  )
+  
+  pooled_distances <- distances[
+    status %in% c(
+      "native",
+      test_group
+    )
+  ]
+  
+  randomized_cdfs <- vector(
+    "list",
+    n_randomizations
+  )
+  
+  for (i in seq_len(n_randomizations)) {
+    
+    sampled_distances <- sample(
+      pooled_distances,
+      size = n_test_species,
+      replace = FALSE
+    )
+    
+    randomized_cdfs[[i]] <- vapply(
+      x_values,
+      calculate_cdf,
+      FUN.VALUE = numeric(1),
+      distances = sampled_distances
+    )
+  }
+  
+  randomized_cdfs
+}
+
+```
+
+## Calculate observed and randomized CDFs
+
+```{r calculate-cdfs}
+
+topographic_data <- list(
+  upper_slope = upper_slope,
+  lower_slope = lower_slope,
+  ridge_summit = ridge_summit,
+  valley_flatland = valley_flatland
+)
+
+trait_columns <- c(
+  "height_m",
+  "SLA_mm2_mg.1",
+  "seed_dry_mass_mg"
+)
+
+cdf_results <- vector(
+  "list",
+  length(topographic_data)
+)
+
+names(cdf_results) <- names(topographic_data)
+
+for (topography_name in names(topographic_data)) {
+  
+  current_data <- topographic_data[[topography_name]]
+  
+  scores <- as.data.frame(
+    current_data[, trait_columns]
+  )
+  
+  status <- current_data$category
+  
+  native_centroid <- apply(
+    scores[status == "native", ],
+    2,
+    mean
+  )
+  
+  distances <- as.matrix(
+    dist(
+      rbind(
+        native_centroid,
+        scores
+      )
+    )
+  )[, 1]
+  
+  distances <- distances[-1]
+  
+  x_values <- seq(
+    from = 0,
+    to = max(distances),
+    length.out = 1000
+  )
+  
+  observed_cdfs <- list(
+    native = vapply(
+      x_values,
+      calculate_cdf,
+      FUN.VALUE = numeric(1),
+      distances = distances[status == "native"]
+    ),
+    
+    Aster_native = vapply(
+      x_values,
+      calculate_cdf,
+      FUN.VALUE = numeric(1),
+      distances = distances[status == "Aster_native"]
+    ),
+    
+    Aster_exotic = vapply(
+      x_values,
+      calculate_cdf,
+      FUN.VALUE = numeric(1),
+      distances = distances[status == "Aster_exotic"]
+    )
+  )
+  
+  set.seed(1234)
+  
+  randomized_native_asteraceae <- randomize_cdf(
+    scores = scores,
+    status = status,
+    test_group = "Aster_native",
+    n_randomizations = 999
+  )
+  
+  set.seed(1234)
+  
+  randomized_exotic_asteraceae <- randomize_cdf(
+    scores = scores,
+    status = status,
+    test_group = "Aster_exotic",
+    n_randomizations = 999
+  )
+  
+  cdf_results[[topography_name]] <- list(
+    x = x_values,
+    observed = observed_cdfs,
+    randomized = list(
+      Aster_native = randomized_native_asteraceae,
+      Aster_exotic = randomized_exotic_asteraceae
+    )
+  )
+}
+
+```
+
+## Test differences among CDFs
+
+```{r cdf-test-functions}
+
+area_between_cdfs <- function(
+  cdf_1,
+  cdf_2,
+  x_values
+) {
+  
+  differences <- (
+    cdf_2 - cdf_1
+  )[-1] * diff(x_values)
+  
+  negative_area <- sum(
+    abs(
+      differences[differences < 0]
+    )
+  )
+  
+  positive_area <- sum(
+    differences[differences > 0]
+  )
+  
+  signed_area <- if (
+    negative_area > positive_area
+  ) {
+    -negative_area
+  } else {
+    positive_area
+  }
+  
+  direction <- c(
+    positive_area,
+    negative_area
+  ) / (
+    positive_area +
+      abs(negative_area)
+  )
+  
+  list(
+    signed_area,
+    direction
+  )
+}
+
+randomized_cdf_areas <- function(
+  observed_cdf,
+  randomized_cdfs,
+  x_values
+) {
+  
+  vapply(
+    randomized_cdfs,
+    function(randomized_cdf) {
+      area_between_cdfs(
+        cdf_1 = observed_cdf,
+        cdf_2 = randomized_cdf,
+        x_values = x_values
+      )[[1]]
+    },
+    FUN.VALUE = numeric(1)
+  )
+}
+
+```
+
+```{r cdf-randomization-tests}
+
+topography_labels <- c(
+  upper_slope = "Upper Slope",
+  lower_slope = "Lower Slope",
+  ridge_summit = "Ridge + Summit",
+  valley_flatland = "Valley + Flatland"
+)
+
+native_asteraceae_cdf_tests <- data.frame(
+  topography = unname(topography_labels),
+  dCDF = NA_real_,
+  P = NA_real_
+)
+
+exotic_asteraceae_cdf_tests <- data.frame(
+  topography = unname(topography_labels),
+  dCDF = NA_real_,
+  P = NA_real_
+)
+
+for (i in seq_along(cdf_results)) {
+  
+  current_result <- cdf_results[[i]]
+  
+  normalized_x <- current_result$x /
+    max(current_result$x)
+  
+  native_asteraceae_simulated <- randomized_cdf_areas(
+    observed_cdf = current_result$observed$native,
+    randomized_cdfs =
+      current_result$randomized$Aster_native,
+    x_values = normalized_x
+  )
+  
+  native_asteraceae_observed <- area_between_cdfs(
+    cdf_1 = current_result$observed$native,
+    cdf_2 = current_result$observed$Aster_native,
+    x_values = normalized_x
+  )[[1]]
+  
+  native_asteraceae_cdf_tests$dCDF[i] <-
+    native_asteraceae_observed
+  
+  native_asteraceae_cdf_tests$P[i] <-
+    as.randtest(
+      sim = native_asteraceae_simulated,
+      obs = native_asteraceae_observed,
+      alter = "two-sided"
+    )$pvalue
+  
+  
+  exotic_asteraceae_simulated <- randomized_cdf_areas(
+    observed_cdf = current_result$observed$native,
+    randomized_cdfs =
+      current_result$randomized$Aster_exotic,
+    x_values = normalized_x
+  )
+  
+  exotic_asteraceae_observed <- area_between_cdfs(
+    cdf_1 = current_result$observed$native,
+    cdf_2 = current_result$observed$Aster_exotic,
+    x_values = normalized_x
+  )[[1]]
+  
+  exotic_asteraceae_cdf_tests$dCDF[i] <-
+    exotic_asteraceae_observed
+  
+  exotic_asteraceae_cdf_tests$P[i] <-
+    as.randtest(
+      sim = exotic_asteraceae_simulated,
+      obs = exotic_asteraceae_observed,
+      alter = "two-sided"
+    )$pvalue
+}
+
+native_asteraceae_cdf_tests <- native_asteraceae_cdf_tests %>%
+  mutate(
+    Padj = p.adjust(
+      P,
+      method = "BH"
+    )
+  )
+
+exotic_asteraceae_cdf_tests <- exotic_asteraceae_cdf_tests %>%
+  mutate(
+    Padj = p.adjust(
+      P,
+      method = "BH"
+    )
+  )
+
+native_asteraceae_cdf_tests %>%
+  mutate(
+    across(
+      where(is.numeric),
+      ~ round(.x, 3)
+    )
+  )
+
+exotic_asteraceae_cdf_tests %>%
+  mutate(
+    across(
+      where(is.numeric),
+      ~ round(.x, 3)
+    )
+  )
+
+```
+
+## Single trait randomization analyses
+
+Differences in median trait values were tested separately within each topographic group. Native Asteraceae and exotic Asteraceae were each compared with native non-Asteraceae using 999 random permutations of species-group labels.
+
+```{r single-trait-functions}
+
+difference_of_medians <- function(
+  trait_values,
+  categories,
+  test_group
+) {
+  
+  data <- data.frame(
+    trait = trait_values,
+    category = categories
+  ) %>%
+    filter(
+      complete.cases(.)
+    )
+  
+  native_median <- median(
+    data$trait[
+      data$category == "native"
+    ]
+  )
+  
+  test_group_median <- median(
+    data$trait[
+      data$category == test_group
+    ]
+  )
+  
+  test_group_median - native_median
+}
+
+randomize_difference_of_medians <- function(
+  trait_values,
+  categories,
+  test_group,
+  n_randomizations = 999
+) {
+  
+  data <- data.frame(
+    trait = trait_values,
+    category = categories
+  ) %>%
+    filter(
+      complete.cases(.)
+    )
+  
+  simulated_differences <- numeric(
+    n_randomizations
+  )
+  
+  for (i in seq_len(n_randomizations)) {
+    
+    randomized_categories <- sample(
+      data$category
+    )
+    
+    simulated_differences[i] <-
+      difference_of_medians(
+        trait_values = data$trait,
+        categories = randomized_categories,
+        test_group = test_group
+      )
+  }
+  
+  simulated_differences
+}
+
+```
+
+```{r single-trait-tests}
+
+topographic_data <- list(
+  upper_slope = upper_slope,
+  lower_slope = lower_slope,
+  ridge_summit = ridge_summit,
+  valley_flatland = valley_flatland
+)
+
+topography_labels <- c(
+  upper_slope = "Upper Slope",
+  lower_slope = "Lower Slope",
+  ridge_summit = "Ridge + Summit",
+  valley_flatland = "Valley + Flatland"
+)
+
+trait_names <- c(
+  SLA = "SLA_mm2_mg.1",
+  height = "height_m",
+  seed_mass = "seed_dry_mass_mg"
+)
+
+run_single_trait_tests <- function(
+  topographic_data,
+  test_group
+) {
+  
+  results <- expand_grid(
+    topography = names(topographic_data),
+    trait = names(trait_names)
+  ) %>%
+    mutate(
+      observed_difference = NA_real_,
+      P = NA_real_
+    )
+  
+  for (i in seq_len(nrow(results))) {
+    
+    topography_name <- results$topography[i]
+    trait_name <- results$trait[i]
+    
+    current_data <- topographic_data[[topography_name]] %>%
+      filter(
+        category %in% c(
+          "native",
+          test_group
+        )
+      )
+    
+    trait_column <- trait_names[[trait_name]]
+    
+    set.seed(1234)
+    
+    simulated_differences <-
+      randomize_difference_of_medians(
+        trait_values =
+          current_data[[trait_column]],
+        categories =
+          current_data$category,
+        test_group = test_group,
+        n_randomizations = 999
+      )
+    
+    observed_difference <-
+      difference_of_medians(
+        trait_values =
+          current_data[[trait_column]],
+        categories =
+          current_data$category,
+        test_group = test_group
+      )
+    
+    results$observed_difference[i] <-
+      observed_difference
+    
+    results$P[i] <-
+      as.randtest(
+        sim = simulated_differences,
+        obs = observed_difference,
+        alter = "two-sided"
+      )$pvalue
+  }
+  
+  results %>%
+    group_by(trait) %>%
+    mutate(
+      Padj = p.adjust(
+        P,
+        method = "fdr"
+      )
+    ) %>%
+    ungroup() %>%
+    mutate(
+      topography = recode(
+        topography,
+        !!!topography_labels
+      )
+    )
+}
+
+native_asteraceae_trait_tests <-
+  run_single_trait_tests(
+    topographic_data = topographic_data,
+    test_group = "Aster_native"
+  )
+
+exotic_asteraceae_trait_tests <-
+  run_single_trait_tests(
+    topographic_data = topographic_data,
+    test_group = "Aster_exotic"
+  )
+
+native_asteraceae_trait_tests %>%
+  mutate(
+    across(
+      where(is.numeric),
+      ~ round(.x, 3)
+    )
+  )
+
+exotic_asteraceae_trait_tests %>%
+  mutate(
+    across(
+      where(is.numeric),
+      ~ round(.x, 3)
+    )
+  )
+
+```
+
+

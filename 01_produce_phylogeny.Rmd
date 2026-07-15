@@ -1,0 +1,90 @@
+---
+title: "Phylogeny construction"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+## Purpose
+
+This script documents construction of the phylogeny used in the study from the deposited species list. The phylogeny used in all downstream analyses is provided in the repository as phylogeny.rds and phylogeny.tre.
+
+Reconstruction may differ across versions of U.PhyloMaker. Therefore, the downstream scripts use the deposited phylogeny to ensure exact reproduction of the published analyses.
+
+```{r setup}
+
+library(ape)
+library(dplyr)
+library(readr)
+library(U.PhyloMaker)
+
+```
+
+## Read deposited inputs
+
+The deposited species list is used to construct the final manuscript phylogeny. megatree and genus.list were provided by `U.PhyloMaker`.
+
+```{r read-inputs}
+
+sp.list <- read_csv("species_list.csv")
+megatree <- read.tree("plant_megatree.tre.txt")
+genus.list <- read_csv("plant_genus_list.csv")
+
+```
+
+## Species absent from the backbone phylogeny
+
+Species absent from the backbone phylogeny were placed using U.PhyloMaker.
+
+```{r backbone-counts}
+
+submitted_species <- sp.list %>%
+  filter(!is.na(species)) %>%
+  distinct(species)
+
+species_missing_backbone <- submitted_species %>%
+  filter(!species %in% megatree$tip.label)
+
+nrow(submitted_species)
+
+nrow(species_missing_backbone)
+
+species_missing_backbone
+
+```
+
+## Bind species to designated relatives
+
+```{r bind-relatives}
+
+set.seed(123)
+
+bind_relatives <- U.PhyloMaker::bind.relative(
+  sp.list = sp.list,
+  tree = megatree,
+  gen.list = genus.list,
+  nodes.type = 1,
+  output.sp.list = TRUE
+)
+
+```
+
+## Generate reconstructed phylogeny
+
+```{r generate-tree}
+
+set.seed(123)
+
+reconstructed_tree <- U.PhyloMaker::phylo.maker(
+  sp.list = bind_relatives$species.list,
+  tree = bind_relatives$tree,
+  gen.list = genus.list,
+  nodes.type = 1,
+  output.tree = TRUE,
+  scenario = 3
+)
+
+summary(reconstructed_tree$phylo)
+
+```
+

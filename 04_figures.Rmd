@@ -1,0 +1,492 @@
+---
+title: "Manuscript figures and tables"
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+## Purpose
+
+This script reproduces manuscript figures and tables from the deposited vegetation and imputed trait datasets.
+
+Figure 2 is presented as three two-dimensional trait-space plots rather than a single three-dimensional plot. Points are semi-transparent to reduce overplotting. Each trait pair is shown separately for the four topographic groups.
+
+```{r setup}
+
+library(tidyverse)
+library(ggplot2)
+library(patchwork)
+library(readr)
+library(ggpubr)
+library(grid)
+
+```
+
+## Figure 1
+
+```{r Fig 1: read-data}
+
+analysis_unscaled <- read_csv(
+  "analysis_unscaled.csv",
+  show_col_types = FALSE
+)
+
+native_trait_tests <- read_csv(
+  "native_asteraceae_trait_tests.csv",
+  show_col_types = FALSE
+)
+
+exotic_trait_tests <- read_csv(
+  "exotic_asteraceae_trait_tests.csv",
+  show_col_types = FALSE
+)
+
+```
+
+```{r Fig 1: single-trait}
+
+# separate individual topographies
+trait_upper_slope.ns <- analysis_unscaled %>%
+  filter(upper_slope == 1)
+
+trait_lower_slope.ns <- analysis_unscaled %>%
+  filter(lower_slope == 1)
+
+trait_ridge_summit.ns <- analysis_unscaled %>%
+  filter(ridge_summit == 1)
+
+trait_valley_flatland.ns <- analysis_unscaled %>%
+  filter(valley_flatland == 1)
+
+# combine the first group of topographies (Upper Slope, Lower Slope)
+PlotData <- bind_rows(
+  trait_upper_slope.ns %>% mutate(Topography = "Upper Slope"),
+  trait_lower_slope.ns %>% mutate(Topography = "Lower Slope"),
+  trait_ridge_summit.ns %>% mutate(Topography = "Ridge + Summit"),
+  trait_valley_flatland.ns %>% mutate(Topography = "Valley + Flatland")
+) %>%
+  filter(category != "cultivar") %>%
+  mutate(category = factor(category, levels = c("native", "Aster_native", "Aster_exotic")))
+
+# log transform traits
+PlotData <- PlotData %>%
+  mutate(SLA_log = log10(SLA_mm2_mg.1),
+         height_log = log10(height_m),
+         seed_mass_log = log10(seed_dry_mass_mg))
+
+# prepare p-values and significance labels for plotting
+reference_trait_tests <- expand_grid(
+  Topography = c(
+    "Upper Slope",
+    "Lower Slope",
+    "Ridge + Summit",
+    "Valley + Flatland"
+  ),
+  trait = c(
+    "SLA_mm2_mg.1",
+    "height_m",
+    "seed_dry_mass_mg"
+  )
+) %>%
+  mutate(
+    category = "native",
+    p = 1
+  )
+
+native_trait_plot_tests <- native_trait_tests %>%
+  transmute(
+    Topography = topography,
+    trait = recode(
+      trait,
+      SLA = "SLA_mm2_mg.1",
+      height = "height_m",
+      seed_mass = "seed_dry_mass_mg"
+    ),
+    category = "Aster_native",
+    p = P
+  )
+
+exotic_trait_plot_tests <- exotic_trait_tests %>%
+  transmute(
+    Topography = topography,
+    trait = recode(
+      trait,
+      SLA = "SLA_mm2_mg.1",
+      height = "height_m",
+      seed_mass = "seed_dry_mass_mg"
+    ),
+    category = "Aster_exotic",
+    p = P
+  )
+
+SLAP.PHAT.GERM <- bind_rows(
+  reference_trait_tests,
+  native_trait_plot_tests,
+  exotic_trait_plot_tests
+) %>%
+  mutate(
+    category = factor(
+      category,
+      levels = c(
+        "native",
+        "Aster_native",
+        "Aster_exotic"
+      )
+    ),
+    sig = case_when(
+      p <= 0.001 ~ "***",
+      p <= 0.01 ~ "**",
+      p <= 0.05 ~ "*",
+      TRUE ~ ""
+    )
+  )
+
+# create site attribute object that contains the count of plots from PlotData by plant category and by topography
+site.attr <- PlotData %>% 
+  count(.,category,Topography) %>%
+  mutate(n = paste0("n=",n))
+
+# establish where on plots the p-value star indicators are displayed. three objects created, corresponding to each trait
+loc.SLA <- PlotData %>% 
+  summarise(., top.label = max(SLA_mm2_mg.1) + sd(SLA_mm2_mg.1), bottom.label = min(SLA_mm2_mg.1) - 0.25*sd(SLA_mm2_mg.1)) %>% 
+  mutate(trait = "SLA_mm2_mg.1") %>% 
+  dplyr::select(trait, top.label, bottom.label)
+
+loc.PH <- PlotData %>% 
+  summarise(., top.label = max(height_m) + sd(height_m), bottom.label = 0.05) %>% 
+  mutate(trait = "height_m") %>% 
+  dplyr::select(trait, top.label, bottom.label)
+
+loc.GERM <- PlotData %>% 
+  summarise(., top.label = max(seed_dry_mass_mg) + sd(seed_dry_mass_mg), bottom.label = 0.001) %>% 
+  mutate(trait = "seed_dry_mass_mg") %>% 
+  dplyr::select(trait, top.label, bottom.label)
+
+# combine these three trait objects with label locations into one object loc(ations)
+loc <- rbind(loc.SLA,loc.PH,loc.GERM)
+
+# combine everything, including combinations of trait, plant category, topography and pvalue (SLAP.PHAT.GERM), sample size for each combination (site.attr), and the label location (loc)
+SLAP.PHAT.GERM.full <- SLAP.PHAT.GERM %>%
+  left_join(
+    site.attr,
+    by = c(
+      "category",
+      "Topography"
+    )
+  ) %>%
+  left_join(
+    loc,
+    by = "trait"
+  )
+
+# make sure topography variable has the correct order of factors in the p-value object (SLAP.PHAT.GERM.full)
+SLAP.PHAT.GERM.full$Topography <- factor(SLAP.PHAT.GERM.full$Topography, levels = c("Upper Slope","Lower Slope", "Ridge + Summit", "Valley + Flatland"))
+
+#and in the PlotData object (PlotData)
+PlotData$Topography <- factor(PlotData$Topography, levels = c("Upper Slope","Lower Slope", "Ridge + Summit", "Valley + Flatland"))
+
+# colors for boxplots
+box_colors <- c("native" = "mediumseagreen", "Aster_native" = "deepskyblue", "Aster_exotic" = "red2")
+
+# define a function for plotting each trait
+plot_trait <- function(trait, y_label, bottom = FALSE) {
+  
+  label.df <- SLAP.PHAT.GERM.full[which(SLAP.PHAT.GERM.full$trait==trait),]
+  
+  if(bottom == FALSE) {ggplot(PlotData, aes(x = category, y = get(trait), color = category)) +
+    geom_jitter(aes(fill = NULL), width = 0.2, size = .25) +  # Add jittered points
+    stat_boxplot(geom ='errorbar', alpha = 0.4, color = "black", linewidth = 0.5) + 
+    geom_boxplot(aes(fill = category),outlier.shape = NA, alpha = 0.4, color = "black", linewidth = 0.5) +  # # remove outliers from boxplot
+    facet_wrap(~ Topography, ncol = 2) +  #split by Topography
+    geom_text(data = label.df, aes(label=n, y = top.label),size= 2 , color = "black", vjust = -0.5)+
+    geom_text(data = label.df, aes(label=sig, y = bottom.label),size = 3, color = "black")+
+    scale_color_manual(values = box_colors) +
+    scale_fill_manual(values = box_colors) + 
+    scale_y_continuous(trans = "log10", breaks = c(0.01, 0.1, 1, 10, 100, 1000), labels = c(0.01, 0.1, 1, 10, 100, 1000),expand = c(0.1, 0, 0.2, 0)) +
+    scale_x_discrete(labels = c("Native\nHerbaceous","Native\nAsteraceae","Exotic\nAsteraceae"))+
+    labs(x = "Category", y = y_label) +
+    theme_bw() +
+    theme(panel.grid.major = element_blank(), 
+          panel.grid.minor = element_blank(),
+          axis.title.y = element_text(size = 10),
+          axis.title.x = element_blank(),
+          strip.text.x = element_text(size = 10), #sets facet font size to axis size
+          strip.background = element_rect(fill = "white"), #removes gray background from facet labels
+          legend.position = "none")}
+  
+  else {ggplot(PlotData, aes(x = category, y = get(trait), color = category)) +
+    geom_jitter(aes(fill = NULL), width = 0.2, size = .25) +  #add jittered points
+    stat_boxplot(geom ='errorbar', alpha = 0.4, color = "black", linewidth = 0.5) + 
+    geom_boxplot(aes(fill = category),outlier.shape = NA, alpha = 0.4, color = "black", linewidth = 0.5) +  # # remove outliers from boxplot
+    facet_wrap(~ Topography, ncol = 2) +  #split by topography
+    geom_text(data = label.df, aes(label=n, y = top.label),size=2, color = "black", vjust = -0.5)+
+    geom_text(data = label.df, aes(label=sig, y = bottom.label),size=3, color = "black")+
+    scale_color_manual(values = box_colors) +
+    scale_fill_manual(values = box_colors) + 
+    scale_y_continuous(trans = "log10", breaks = c(0.01, 0.1, 1, 10, 100, 1000), labels = c(0.01, 0.1, 1, 10, 100, 1000),expand = c(0.1, 0, 0.2, 0)) +
+    scale_x_discrete(labels = c("Native\nHerbaceous","Native\nAsteraceae","Exotic\nAsteraceae"))+
+    labs(x = "Category", y = y_label) +
+    theme_bw() +
+    theme(panel.grid.major = element_blank(), 
+          panel.grid.minor = element_blank(),
+          axis.title.y = element_text(size = 10),
+          axis.title.x = element_text(size = 10),
+          strip.text.x = element_text(size = 10), #sets facet font size to axis size
+          strip.background = element_rect(fill = "white"), #removes gray background from facet labels
+          legend.position = "none")}
+}
+
+# plot each trait
+plot_SLA <- plot_trait("SLA_mm2_mg.1", expression(SLA~(mm^2~mg^-1)), bottom = FALSE)
+plot_height <- plot_trait("height_m", expression(Height~(m)), bottom = FALSE)
+plot_seed_mass <- plot_trait("seed_dry_mass_mg", expression(Seed~weight~(mg)), bottom = TRUE)
+
+# horizontal stack: themes added to adjust the x axis labels, and either include x axis title for the center plot (plot_height.H) or exclude x axis title for right-most plot that had it in the vertical configuration (plot_seed_mass.H)
+
+# each line adjusts specific things, and makes things the appropriate size.
+plot_SLA.H <- plot_SLA+
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1, size = 6),  #adjusts x axis text
+        axis.text.y = element_text(size = 6), #adjusts y axis text
+        axis.title.y = element_text(size = 8), #adjusts y axis title
+        strip.text.x = element_text(size = 6)) #adjusts facet labels
+plot_height.H <- plot_height+
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1, size = 6), 
+        axis.text.y = element_text(size = 6),  #adjusts y axis text
+        axis.title.x = element_text(size = 8), #adjusts x axis title
+        axis.title.y = element_text(size = 8), #adjusts y axis title
+        strip.text.x = element_text(size = 6)) #adjusts facet labels
+plot_seed_mass.H <- plot_seed_mass + 
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1, size = 6), 
+        axis.text.y = element_text(size = 6),  #adjusts y axis text
+        axis.title.x = element_blank(), #removes X axis title
+        axis.title.y = element_text(size = 8), #adjusts y axis title
+        strip.text.x = element_text(size = 6)) #adjusts facet labels
+
+# create horizontal final figure 1
+figure1 <- ggarrange(
+  plot_SLA.H,
+  plot_height.H,
+  plot_seed_mass.H,
+  ncol = 3,
+  align = "hv"
+)
+
+figure1
+
+
+```
+
+## Figure 2
+
+```{r Fig 2: read-data}
+
+analysis_scaled <- read_csv(
+  "analysis_scaled.csv",
+  show_col_types = FALSE
+)
+
+```
+
+## Prepare data for Figure 2
+
+The scaled dataset contains log10-transformed and standardized trait values generated in 02_trait_imputation.Rmd.
+
+```{r Fig 2: prepare-figure-data}
+
+figure_data <- analysis_scaled %>%
+  select(
+    species,
+    category,
+    height_m,
+    SLA_mm2_mg.1,
+    seed_dry_mass_mg,
+    upper_slope,
+    lower_slope,
+    ridge_summit,
+    valley_flatland
+  ) %>%
+  pivot_longer(
+    cols = c(
+      upper_slope,
+      lower_slope,
+      ridge_summit,
+      valley_flatland
+    ),
+    names_to = "topography",
+    values_to = "presence"
+  ) %>%
+  filter(
+    presence == 1
+  ) %>%
+  mutate(
+    category = factor(
+      category,
+      levels = c(
+        "native",
+        "Aster_native",
+        "Aster_exotic"
+      )
+    ),
+    topography = factor(
+      topography,
+      levels = c(
+        "upper_slope",
+        "lower_slope",
+        "ridge_summit",
+        "valley_flatland"
+      ),
+      labels = c(
+        "Upper Slope",
+        "Lower Slope",
+        "Ridge + Summit",
+        "Valley + Flatland"
+      )
+    )
+  ) %>%
+  arrange(
+    topography,
+    category
+  )
+
+table(
+  figure_data$topography,
+  figure_data$category
+)
+
+```
+
+## Figure 2: 2D projections of trait space
+
+```{r figure-2}
+
+category_colors <- c(
+  "native" = "mediumseagreen",
+  "Aster_native" = "deepskyblue",
+  "Aster_exotic" = "red2"
+)
+
+category_labels <- c(
+  "native" = "Native non-Asteraceae",
+  "Aster_native" = "Native Asteraceae",
+  "Aster_exotic" = "Exotic Asteraceae"
+)
+
+trait_plot_theme <- theme_bw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    strip.background = element_rect(fill = "white"),
+    strip.text = element_text(size = 9),
+    axis.title = element_text(size = 10),
+    axis.text = element_text(size = 8),
+    legend.title = element_blank()
+  )
+
+height_sla_plot <- ggplot(
+  figure_data,
+  aes(
+    x = height_m,
+    y = SLA_mm2_mg.1,
+    color = category
+  )
+) +
+  geom_point(
+    alpha = 0.5,
+    size = 1.8
+  ) +
+  facet_wrap(
+    ~ topography,
+    ncol = 2
+  ) +
+  scale_color_manual(
+    values = category_colors,
+    labels = category_labels
+  ) +
+  labs(
+    x = expression(Standardized~height),
+    y = expression(Standardized~SLA),
+    title = "A Height vs. SLA"
+  ) +
+  trait_plot_theme +
+  theme(
+    legend.position = "none"
+  )
+
+height_seed_plot <- ggplot(
+  figure_data,
+  aes(
+    x = height_m,
+    y = seed_dry_mass_mg,
+    color = category
+  )
+) +
+  geom_point(
+    alpha = 0.5,
+    size = 1.8
+  ) +
+  facet_wrap(
+    ~ topography,
+    ncol = 2
+  ) +
+  scale_color_manual(
+    values = category_colors,
+    labels = category_labels
+  ) +
+  labs(
+    x = expression(Standardized~height),
+    y = expression(Standardized~seed~mass),
+    title = "B Height vs. Seed mass"
+  ) +
+  trait_plot_theme +
+  theme(
+    legend.position = "none"
+  )
+
+sla_seed_plot <- ggplot(
+  figure_data,
+  aes(
+    x = SLA_mm2_mg.1,
+    y = seed_dry_mass_mg,
+    color = category
+  )
+) +
+  geom_point(
+    alpha = 0.5,
+    size = 1.8
+  ) +
+  facet_wrap(
+    ~ topography,
+    ncol = 2
+  ) +
+  scale_color_manual(
+    values = category_colors,
+    labels = category_labels
+  ) +
+  labs(
+    x = expression(Standardized~SLA),
+    y = expression(Standardized~seed~mass),
+    title = "C SLA vs. Seed mass"
+  ) +
+  trait_plot_theme +
+  theme(
+    legend.position = "bottom"
+  )
+
+figure_2 <- (
+  height_sla_plot /
+  height_seed_plot /
+  sla_seed_plot
+) +
+  plot_layout(
+    guides = "collect"
+  ) &
+  theme(
+    legend.position = "bottom",
+  )
+
+figure_2
+
+```
+
+
+

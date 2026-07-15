@@ -1,0 +1,155 @@
+---
+title: "Trait imputation"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+## Purpose
+
+This script documents phylogenetically informed imputation of plant height, specific leaf area, and seed dry mass. The deposited phylogeny and trait matrix are used as inputs.
+
+`missForest` uses random sampling. A fixed random seed is used below, but small numerical differences may occur. The trait datasets used in the published analyses are therefore also provided in the repository and are read directly by the downstream analysis script.
+
+```{r setup}
+
+library(readr)
+library(adephylo)
+library(tidyverse)
+library(missForest)
+
+```
+
+## Read inputs
+
+```{r read-inputs}
+
+phylogeny <- readRDS("phylogeny.rds")
+
+traits <- read_csv("traits_raw.csv") %>%
+  column_to_rownames("species")
+
+length(phylogeny$phylo$tip.label)
+
+dim(traits)
+
+```
+
+## Summarize missing trait data
+
+```{r missing-trait-counts}
+
+n_species <- nrow(traits)
+
+n_species_with_missing_traits <- sum(
+  !complete.cases(traits)
+)
+
+n_missing_trait_values <- sum(
+  is.na(traits)
+)
+
+missing_by_trait <- colSums(
+  is.na(traits)
+)
+
+n_species
+n_species_with_missing_traits
+n_missing_trait_values
+missing_by_trait
+
+```
+
+## Calculate phylogenetic predictors
+
+```{r phylogenetic-predictors}
+
+phylogenetic_proximity <- proxTips(
+  phylogeny$phylo,
+  method = "Abouheif",
+  normalize = "none"
+)
+
+phylogenetic_weights <- prop.table(
+  phylogenetic_proximity,
+  1
+)
+
+phylogenetic_weights <- 0.5 * (
+  phylogenetic_weights +
+    t(phylogenetic_weights)
+)
+
+phylogenetic_eigenvectors <- me.phylo(
+  prox = phylogenetic_weights
+)
+
+phylogenetic_eigenvectors <-
+  phylogenetic_eigenvectors[
+    rownames(traits),
+  ]
+
+dim(phylogenetic_eigenvectors)
+
+```
+
+## Impute missing trait values
+
+The three traits were log10-transformed before imputation. The first ten Moran eigenvectors were included as phylogenetic predictors.
+
+```{r impute-traits}
+
+traits_with_phylogeny <- cbind(
+  log10(traits[, 1:3]),
+  phylogenetic_eigenvectors[, 1:10]
+)
+
+set.seed(1234)
+
+imputation <- missForest(
+  traits_with_phylogeny
+)
+
+oob_error <- imputation$OOBerror
+
+oob_error
+
+```
+
+## Back-transform and standardize traits
+
+```{r prepare-imputed-traits}
+
+traits_imputed <- as.data.frame(
+  10^(imputation$ximp[, 1:3])
+)
+
+traits_imputed_scaled <- traits_imputed
+
+traits_imputed_scaled[, 1:3] <- scale(
+  log10(traits_imputed_scaled[, 1:3])
+)
+
+traits_scaled <- traits_imputed_scaled %>%
+  rownames_to_column("species")
+
+traits_unscaled <- traits_imputed %>%
+  rownames_to_column("species") %>%
+  mutate(
+    species = str_replace_all(
+      species,
+      "_",
+      " "
+    )
+  )
+
+dim(traits_scaled)
+
+dim(traits_unscaled)
+
+summary(
+  traits_scaled[, 2:4]
+)
+
+```
+
