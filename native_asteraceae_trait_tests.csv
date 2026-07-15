@@ -1,0 +1,13 @@
+topography,trait,observed_difference,P,Padj
+Upper Slope,SLA,-0.8497879923641849,0.001,0.001
+Upper Slope,height,1.272497269673568,0.001,0.001
+Upper Slope,seed_mass,-0.5127697253562258,0.001,0.001
+Lower Slope,SLA,-0.8806856588513103,0.001,0.001
+Lower Slope,height,1.2982279235677772,0.001,0.001
+Lower Slope,seed_mass,-0.9823518647082863,0.001,0.001
+Ridge + Summit,SLA,-0.8762931193284078,0.001,0.001
+Ridge + Summit,height,1.3547990461001163,0.001,0.001
+Ridge + Summit,seed_mass,-1.1957291599221875,0.001,0.001
+Valley + Flatland,SLA,-0.85857307140999,0.001,0.001
+Valley + Flatland,height,1.3283198174680542,0.001,0.001
+Valley + Flatland,seed_mass,-0.9064163284490829,0.001,0.001
